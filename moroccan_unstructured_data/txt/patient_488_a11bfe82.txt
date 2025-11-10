@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yassin Mansouri
+ID Patient: a11bfe82-0e2b-4177-a073-a60fedbf4549
+Sexe: Masculin, Né(e) le: 23 juin 1969
+Âge: 56 ans
+Adresse: Avenue Fès 200, Rabat
+
+Médecin: Dr. Gosselin | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a11bfe82-0e2b-4177-a073-a60fedbf4549",
+  "first_name": "Yassin",
+  "last_name": "Mansouri",
+  "full_name": "Yassin Mansouri",
+  "birthdate": "1969-06-23",
+  "birthdate_iso": "1969-06-23",
+  "gender": "M",
+  "address": "Avenue Fès 200, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/03/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/81 mmHg (Date: 10/12/2023)
+- Heart rate: 118 bpm (Date: 10/12/2023)
+- Body temperature: 37.2 C (Date: 10/12/2023)
+- Blood pressure: 112/64 mmHg (Date: 10/11/2025)
+- Heart rate: 95 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2025)
+- Electrocardiogram (Effectuée le: 10 mars 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 930 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 493 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 494 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 917 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 56 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 132/81 mmHg; Heart rate 118 bpm; Body temperature 37.2 C; Blood pressure 112/64 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

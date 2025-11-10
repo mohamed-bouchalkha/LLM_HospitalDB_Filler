@@ -1,0 +1,80 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yassin Jabri
+ID Patient: 3ce36e9d-32bc-43d3-ac24-64c1c497f479
+Sexe: Masculin, Né(e) le: 20 juillet 1939
+Âge: 86 ans
+Adresse: Place Fès 62, Rabat
+
+Médecin: Dr. Lucas | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3ce36e9d-32bc-43d3-ac24-64c1c497f479",
+  "first_name": "Yassin",
+  "last_name": "Jabri",
+  "full_name": "Yassin Jabri",
+  "birthdate": "1939-07-20",
+  "birthdate_iso": "1939-07-20",
+  "gender": "M",
+  "address": "Place Fès 62, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2018)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 29/10/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/71 mmHg (Date: 10/11/2025)
+- Heart rate: 101 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+- Blood pressure: 106/63 mmHg (Date: 10/11/2025)
+- Heart rate: 99 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2024)
+- Electrocardiogram (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Shellfish (Identifiée le: 10/11/2006)
+- Dairy (Identifiée le: 10/11/2006)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 632 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 903 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 681 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 217 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 86 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 111/71 mmHg; Heart rate 101 bpm; Body temperature 37.2 C; Blood pressure 106/63 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

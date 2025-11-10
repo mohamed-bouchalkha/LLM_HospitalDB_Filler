@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Khalil
+ID Patient: a73340c2-916d-4ad2-8e23-b935262f9c17
+Sexe: Féminin, Né(e) le: 15 août 1928
+Âge: 97 ans
+Adresse: Place Hassan II 111, Rabat
+
+Médecin: Dr. Martel | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a73340c2-916d-4ad2-8e23-b935262f9c17",
+  "first_name": "Fatima",
+  "last_name": "Khalil",
+  "full_name": "Fatima Khalil",
+  "birthdate": "1928-08-15",
+  "birthdate_iso": "1928-08-15",
+  "gender": "F",
+  "address": "Place Hassan II 111, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2025)
+- Hypertension (Diagnostiquée le: 10/10/2018)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 30/05/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 11/10/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/74 mmHg (Date: 10/11/2024)
+- Heart rate: 86 bpm (Date: 10/11/2024)
+- Body temperature: 37.5 C (Date: 10/11/2024)
+- Blood pressure: 127/60 mmHg (Date: 10/11/2025)
+- Heart rate: 106 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 août 2025)
+- Hemoglobin A1c test (Effectuée le: 10 août 2025)
+- Blood pressure measurement (Effectuée le: 10 mai 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 février 2024, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 1 001 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 438 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 875 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 4 151 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 97 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 118/74 mmHg; Heart rate 86 bpm; Body temperature 37.5 C; Blood pressure 127/60 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

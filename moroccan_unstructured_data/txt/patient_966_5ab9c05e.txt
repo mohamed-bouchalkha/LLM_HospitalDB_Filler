@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Halima Zeroual
+ID Patient: 5ab9c05e-3e53-4a27-8130-b5d114560151
+Sexe: Féminin, Né(e) le: 20 juillet 1928
+Âge: 97 ans
+Adresse: Rue Casablanca 35, Rabat
+
+Médecin: Dr. Pinto | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5ab9c05e-3e53-4a27-8130-b5d114560151",
+  "first_name": "Halima",
+  "last_name": "Zeroual",
+  "full_name": "Halima Zeroual",
+  "birthdate": "1928-07-20",
+  "birthdate_iso": "1928-07-20",
+  "gender": "F",
+  "address": "Rue Casablanca 35, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2010)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 02/02/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/97 mmHg (Date: 10/11/2025)
+- Heart rate: 75 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+- Blood pressure: 100/88 mmHg (Date: 10/11/2025)
+- Heart rate: 78 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 décembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Eggs (Identifiée le: 10/11/2020)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 512 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 769 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 280 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 97 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 124/97 mmHg; Heart rate 75 bpm; Body temperature 36.7 C; Blood pressure 100/88 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

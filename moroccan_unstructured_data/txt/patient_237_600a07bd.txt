@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Said Tabbal
+ID Patient: 600a07bd-bc27-4400-9635-104b9dbf972e
+Sexe: Masculin, Né(e) le: 13 juillet 1958
+Âge: 67 ans
+Adresse: Rue Casablanca 122, Rabat
+
+Médecin: Dr. Marin | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "600a07bd-bc27-4400-9635-104b9dbf972e",
+  "first_name": "Said",
+  "last_name": "Tabbal",
+  "full_name": "Said Tabbal",
+  "birthdate": "1958-07-13",
+  "birthdate_iso": "1958-07-13",
+  "gender": "M",
+  "address": "Rue Casablanca 122, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2006)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 27/03/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 108/72 mmHg (Date: 10/11/2025)
+- Heart rate: 79 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+- Blood pressure: 122/92 mmHg (Date: 10/11/2025)
+- Heart rate: 85 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 janvier 2025)
+- Electrocardiogram (Effectuée le: 10 décembre 2023)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 878 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 723 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 602 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 67 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 108/72 mmHg; Heart rate 79 bpm; Body temperature 37.6 C; Blood pressure 122/92 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

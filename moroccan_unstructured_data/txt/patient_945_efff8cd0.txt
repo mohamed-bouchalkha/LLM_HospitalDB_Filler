@@ -1,0 +1,81 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Samir Zeroual
+ID Patient: efff8cd0-5dea-4fab-8f54-83d28e2fbf60
+Sexe: Masculin, Né(e) le: 5 mai 1951
+Âge: 74 ans
+Adresse: Place Al Wahda 183, Rabat
+
+Médecin: Dr. Da Costa | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "efff8cd0-5dea-4fab-8f54-83d28e2fbf60",
+  "first_name": "Samir",
+  "last_name": "Zeroual",
+  "full_name": "Samir Zeroual",
+  "birthdate": "1951-05-05",
+  "birthdate_iso": "1951-05-05",
+  "gender": "M",
+  "address": "Place Al Wahda 183, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/10/2025)
+- Hypertension (Diagnostiquée le: 10/07/2015)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/06/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 06/08/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/72 mmHg (Date: 10/11/2025)
+- Heart rate: 97 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+- Blood pressure: 130/69 mmHg (Date: 10/11/2025)
+- Heart rate: 79 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 juillet 2024)
+- Hemoglobin A1c test (Effectuée le: 10 septembre 2025)
+- Blood pressure measurement (Effectuée le: 10 janvier 2025)
+- Electrocardiogram (Effectuée le: 10 juin 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 novembre 2021)
+- Pneumococcal (elderly) (Administré le: 10 janvier 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 654 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 1 301 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 800 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 755 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 74 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 91/72 mmHg; Heart rate 97 bpm; Body temperature 37.1 C; Blood pressure 130/69 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

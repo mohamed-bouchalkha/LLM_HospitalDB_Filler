@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Souad Tabbal
+ID Patient: 0475d732-fea9-4551-92e7-150f566d713f
+Sexe: Féminin, Né(e) le: 26 janvier 1990
+Âge: 35 ans
+Adresse: Avenue Mohammed V 192, Rabat
+
+Médecin: Dr. Lebrun | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0475d732-fea9-4551-92e7-150f566d713f",
+  "first_name": "Souad",
+  "last_name": "Tabbal",
+  "full_name": "Souad Tabbal",
+  "birthdate": "1990-01-26",
+  "birthdate_iso": "1990-01-26",
+  "gender": "F",
+  "address": "Avenue Mohammed V 192, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 16/04/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 136/97 mmHg (Date: 10/12/2024)
+- Heart rate: 102 bpm (Date: 10/12/2024)
+- Body temperature: 37.2 C (Date: 10/12/2024)
+- Blood pressure: 139/80 mmHg (Date: 10/11/2025)
+- Heart rate: 80 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 janvier 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 671 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 546 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 369 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 586 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 35 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 136/97 mmHg; Heart rate 102 bpm; Body temperature 37.2 C; Blood pressure 139/80 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

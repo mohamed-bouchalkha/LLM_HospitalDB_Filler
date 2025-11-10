@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Mouline
+ID Patient: aecbbf62-2f7b-4a55-842c-ffc608713850
+Sexe: Masculin, Né(e) le: 6 septembre 1971
+Âge: 54 ans
+Adresse: Place Marrakech 88, Rabat
+
+Médecin: Dr. Aubert | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "aecbbf62-2f7b-4a55-842c-ffc608713850",
+  "first_name": "Mohamed",
+  "last_name": "Mouline",
+  "full_name": "Mohamed Mouline",
+  "birthdate": "1971-09-06",
+  "birthdate_iso": "1971-09-06",
+  "gender": "M",
+  "address": "Place Marrakech 88, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/07/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/82 mmHg (Date: 10/11/2024)
+- Heart rate: 62 bpm (Date: 10/11/2024)
+- Body temperature: 36.6 C (Date: 10/11/2024)
+- Blood pressure: 119/88 mmHg (Date: 10/11/2025)
+- Heart rate: 65 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 679 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 531 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 692 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 458 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 54 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 128/82 mmHg; Heart rate 62 bpm; Body temperature 36.6 C; Blood pressure 119/88 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

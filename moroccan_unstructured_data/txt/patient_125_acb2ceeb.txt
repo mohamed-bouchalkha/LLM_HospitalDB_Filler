@@ -1,0 +1,80 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Cherkaoui
+ID Patient: acb2ceeb-446f-4df0-901b-7230b5f8e89c
+Sexe: Masculin, Né(e) le: 7 janvier 1947
+Âge: 78 ans
+Adresse: Rue Marrakech 40, Rabat
+
+Médecin: Dr. Girard | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "acb2ceeb-446f-4df0-901b-7230b5f8e89c",
+  "first_name": "Mustapha",
+  "last_name": "Cherkaoui",
+  "full_name": "Mustapha Cherkaoui",
+  "birthdate": "1947-01-07",
+  "birthdate_iso": "1947-01-07",
+  "gender": "M",
+  "address": "Rue Marrakech 40, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/03/2025)
+- Hypertension (Diagnostiquée le: 10/10/2018)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 08/04/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 10/10/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 117/65 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+- Blood pressure: 131/91 mmHg (Date: 10/11/2025)
+- Heart rate: 73 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 juin 2025)
+- Hemoglobin A1c test (Effectuée le: 10 octobre 2024)
+- Blood pressure measurement (Effectuée le: 10 novembre 2025)
+- Electrocardiogram (Effectuée le: 10 janvier 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 mai 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 763 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 922 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 1 137 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 822 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 78 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 117/65 mmHg; Heart rate 114 bpm; Body temperature 36.8 C; Blood pressure 131/91 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

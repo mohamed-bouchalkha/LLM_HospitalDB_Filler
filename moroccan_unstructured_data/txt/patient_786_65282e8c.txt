@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Nadia Bennani
+ID Patient: 65282e8c-d2ed-4527-9bf6-97d1e1a8cf93
+Sexe: Féminin, Né(e) le: 23 mars 1932
+Âge: 93 ans
+Adresse: Avenue Fès 37, Rabat
+
+Médecin: Dr. Bonneau | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "65282e8c-d2ed-4527-9bf6-97d1e1a8cf93",
+  "first_name": "Nadia",
+  "last_name": "Bennani",
+  "full_name": "Nadia Bennani",
+  "birthdate": "1932-03-23",
+  "birthdate_iso": "1932-03-23",
+  "gender": "F",
+  "address": "Avenue Fès 37, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/12/2024)
+- Hypertension (Diagnostiquée le: 10/01/2012)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/04/2025 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/05/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 135/70 mmHg (Date: 10/11/2024)
+- Heart rate: 85 bpm (Date: 10/11/2024)
+- Body temperature: 36.8 C (Date: 10/11/2024)
+- Blood pressure: 135/64 mmHg (Date: 10/11/2025)
+- Heart rate: 99 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 février 2024)
+- Hemoglobin A1c test (Effectuée le: 10 avril 2025)
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 898 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 721 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 688 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 170 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 93 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 135/70 mmHg; Heart rate 85 bpm; Body temperature 36.8 C; Blood pressure 135/64 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

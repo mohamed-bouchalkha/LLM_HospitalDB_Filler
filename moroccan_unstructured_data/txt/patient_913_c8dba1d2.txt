@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Souad Bennani
+ID Patient: c8dba1d2-7dcd-4fa2-bc15-5e9d964bd5e3
+Sexe: Féminin, Né(e) le: 4 mars 1990
+Âge: 35 ans
+Adresse: Avenue Casablanca 30, Rabat
+
+Médecin: Dr. Chevalier | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c8dba1d2-7dcd-4fa2-bc15-5e9d964bd5e3",
+  "first_name": "Souad",
+  "last_name": "Bennani",
+  "full_name": "Souad Bennani",
+  "birthdate": "1990-03-04",
+  "birthdate_iso": "1990-03-04",
+  "gender": "F",
+  "address": "Avenue Casablanca 30, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2023)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/08/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 126/86 mmHg (Date: 10/01/2024)
+- Heart rate: 67 bpm (Date: 10/01/2024)
+- Body temperature: 37.7 C (Date: 10/01/2024)
+- Blood pressure: 94/65 mmHg (Date: 10/11/2025)
+- Heart rate: 87 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 décembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 709 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 677 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 751 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 023 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 35 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 126/86 mmHg; Heart rate 67 bpm; Body temperature 37.7 C; Blood pressure 94/65 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

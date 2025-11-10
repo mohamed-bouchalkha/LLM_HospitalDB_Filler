@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Salma Alaoui
+ID Patient: 951bdc8d-fd14-4f3e-9126-a1945e74d6ad
+Sexe: Féminin, Né(e) le: 11 décembre 1973
+Âge: 51 ans
+Adresse: Boulevard Casablanca 11, Rabat
+
+Médecin: Dr. Philippe | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "951bdc8d-fd14-4f3e-9126-a1945e74d6ad",
+  "first_name": "Salma",
+  "last_name": "Alaoui",
+  "full_name": "Salma Alaoui",
+  "birthdate": "1973-12-11",
+  "birthdate_iso": "1973-12-11",
+  "gender": "F",
+  "address": "Boulevard Casablanca 11, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/02/2025)
+- Hypertension (Diagnostiquée le: 10/03/2023)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 11/03/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 27/03/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/96 mmHg (Date: 10/12/2024)
+- Heart rate: 110 bpm (Date: 10/12/2024)
+- Body temperature: 37.3 C (Date: 10/12/2024)
+- Blood pressure: 108/76 mmHg (Date: 10/11/2025)
+- Heart rate: 79 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 septembre 2024)
+- Blood pressure measurement (Effectuée le: 10 février 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 816 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 982 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 1 007 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 230 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 51 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 132/96 mmHg; Heart rate 110 bpm; Body temperature 37.3 C; Blood pressure 108/76 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

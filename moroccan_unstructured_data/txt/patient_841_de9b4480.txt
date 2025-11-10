@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hamid Himmich
+ID Patient: de9b4480-ff96-4914-8c2f-4f5576e60c68
+Sexe: Masculin, Né(e) le: 25 mars 1960
+Âge: 65 ans
+Adresse: Rue Fès 86, Rabat
+
+Médecin: Dr. Nguyen | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "de9b4480-ff96-4914-8c2f-4f5576e60c68",
+  "first_name": "Hamid",
+  "last_name": "Himmich",
+  "full_name": "Hamid Himmich",
+  "birthdate": "1960-03-25",
+  "birthdate_iso": "1960-03-25",
+  "gender": "M",
+  "address": "Rue Fès 86, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2013)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/05/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 126/70 mmHg (Date: 10/03/2025)
+- Heart rate: 83 bpm (Date: 10/03/2025)
+- Body temperature: 37.7 C (Date: 10/03/2025)
+- Blood pressure: 96/74 mmHg (Date: 10/11/2025)
+- Heart rate: 70 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2024)
+- Electrocardiogram (Effectuée le: 10 mars 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 371 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 657 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 753 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 574 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 65 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 126/70 mmHg; Heart rate 83 bpm; Body temperature 37.7 C; Blood pressure 96/74 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

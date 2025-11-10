@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hafsa Tazi
+ID Patient: dae59a43-30ae-4a93-8bab-ae7e9691511d
+Sexe: Féminin, Né(e) le: 10 avril 1933
+Âge: 92 ans
+Adresse: Avenue Mohammed V 121, Rabat
+
+Médecin: Dr. Chauvet | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "dae59a43-30ae-4a93-8bab-ae7e9691511d",
+  "first_name": "Hafsa",
+  "last_name": "Tazi",
+  "full_name": "Hafsa Tazi",
+  "birthdate": "1933-04-10",
+  "birthdate_iso": "1933-04-10",
+  "gender": "F",
+  "address": "Avenue Mohammed V 121, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2010)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 14/07/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 131/64 mmHg (Date: 10/05/2025)
+- Heart rate: 119 bpm (Date: 10/05/2025)
+- Body temperature: 36.8 C (Date: 10/05/2025)
+- Blood pressure: 100/95 mmHg (Date: 10/11/2025)
+- Heart rate: 65 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2023)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 février 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2023)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 497 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 833 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 332 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 662 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 92 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 131/64 mmHg; Heart rate 119 bpm; Body temperature 36.8 C; Blood pressure 100/95 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

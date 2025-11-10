@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Laila Mansouri
+ID Patient: 98c816ca-2497-4634-8dbd-98b228945a82
+Sexe: Féminin, Né(e) le: 14 février 1991
+Âge: 34 ans
+Adresse: Boulevard Marrakech 178, Rabat
+
+Médecin: Dr. Legendre | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "98c816ca-2497-4634-8dbd-98b228945a82",
+  "first_name": "Laila",
+  "last_name": "Mansouri",
+  "full_name": "Laila Mansouri",
+  "birthdate": "1991-02-14",
+  "birthdate_iso": "1991-02-14",
+  "gender": "F",
+  "address": "Boulevard Marrakech 178, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/12/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/95 mmHg (Date: 10/03/2025)
+- Heart rate: 103 bpm (Date: 10/03/2025)
+- Body temperature: 36.9 C (Date: 10/03/2025)
+- Blood pressure: 129/81 mmHg (Date: 10/11/2025)
+- Heart rate: 67 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2025)
+- Electrocardiogram (Effectuée le: 10 juin 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Shellfish (Identifiée le: 10/11/2007)
+- Ibuprofen (Identifiée le: 10/11/2017)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 745 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 585 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 352 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 681 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 34 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 128/95 mmHg; Heart rate 103 bpm; Body temperature 36.9 C; Blood pressure 129/81 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

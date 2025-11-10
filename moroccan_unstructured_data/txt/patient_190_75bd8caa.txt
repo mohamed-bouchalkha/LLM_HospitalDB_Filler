@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yasmin Alaoui
+ID Patient: 75bd8caa-4d02-4aff-b437-c765264b44f1
+Sexe: Féminin, Né(e) le: 8 mai 1957
+Âge: 68 ans
+Adresse: Rue Mohammed V 83, Rabat
+
+Médecin: Dr. Boulay | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "75bd8caa-4d02-4aff-b437-c765264b44f1",
+  "first_name": "Yasmin",
+  "last_name": "Alaoui",
+  "full_name": "Yasmin Alaoui",
+  "birthdate": "1957-05-08",
+  "birthdate_iso": "1957-05-08",
+  "gender": "F",
+  "address": "Rue Mohammed V 83, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2006)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 03/07/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/65 mmHg (Date: 10/11/2025)
+- Heart rate: 107 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+- Blood pressure: 123/75 mmHg (Date: 10/11/2025)
+- Heart rate: 117 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2023)
+- Pneumococcal (Administré le: 10 octobre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 840 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 744 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 583 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 68 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 105/65 mmHg; Heart rate 107 bpm; Body temperature 37.2 C; Blood pressure 123/75 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

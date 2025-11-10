@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Karim Chraibi
+ID Patient: 62239e6d-2018-427a-b974-8cdb5f1d5f43
+Sexe: Masculin, Né(e) le: 16 mars 1978
+Âge: 47 ans
+Adresse: Rue Mohammed V 194, Rabat
+
+Médecin: Dr. Bertrand | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "62239e6d-2018-427a-b974-8cdb5f1d5f43",
+  "first_name": "Karim",
+  "last_name": "Chraibi",
+  "full_name": "Karim Chraibi",
+  "birthdate": "1978-03-16",
+  "birthdate_iso": "1978-03-16",
+  "gender": "M",
+  "address": "Rue Mohammed V 194, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/04/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 136/68 mmHg (Date: 10/06/2024)
+- Heart rate: 97 bpm (Date: 10/06/2024)
+- Body temperature: 37.0 C (Date: 10/06/2024)
+- Blood pressure: 133/73 mmHg (Date: 10/11/2025)
+- Heart rate: 65 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2025)
+- Electrocardiogram (Effectuée le: 10 novembre 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Peanuts (Identifiée le: 10/11/2010)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 862 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 618 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 461 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 941 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 47 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 136/68 mmHg; Heart rate 97 bpm; Body temperature 37.0 C; Blood pressure 133/73 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

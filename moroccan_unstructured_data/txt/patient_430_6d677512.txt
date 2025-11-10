@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Tabbal
+ID Patient: 6d677512-36ed-4119-8f05-ee7b6ba4f766
+Sexe: Féminin, Né(e) le: 12 mars 2017
+Âge: 8 ans
+Adresse: Avenue Al Massira 180, Rabat
+
+Médecin: Dr. Maillet | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6d677512-36ed-4119-8f05-ee7b6ba4f766",
+  "first_name": "Aicha",
+  "last_name": "Tabbal",
+  "full_name": "Aicha Tabbal",
+  "birthdate": "2017-03-12",
+  "birthdate_iso": "2017-03-12",
+  "gender": "F",
+  "address": "Avenue Al Massira 180, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 123/88 mmHg (Date: 10/11/2025)
+- Heart rate: 66 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 novembre 2021)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 septembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Latex (Identifiée le: 10/11/2009)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 582 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 582 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 8 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 123/88 mmHg; Heart rate 66 bpm; Body temperature 37.1 C. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

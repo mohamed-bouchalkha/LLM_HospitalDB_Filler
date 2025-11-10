@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hafsa Belghiti
+ID Patient: 4f256528-5ad1-4cf3-a6c2-00f72cd3708e
+Sexe: Féminin, Né(e) le: 5 novembre 1958
+Âge: 67 ans
+Adresse: Rue Marrakech 33, Rabat
+
+Médecin: Dr. Ferrand | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4f256528-5ad1-4cf3-a6c2-00f72cd3708e",
+  "first_name": "Hafsa",
+  "last_name": "Belghiti",
+  "full_name": "Hafsa Belghiti",
+  "birthdate": "1958-11-05",
+  "birthdate_iso": "1958-11-05",
+  "gender": "F",
+  "address": "Rue Marrakech 33, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2015)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/06/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/99 mmHg (Date: 10/08/2024)
+- Heart rate: 110 bpm (Date: 10/08/2024)
+- Body temperature: 37.8 C (Date: 10/08/2024)
+- Blood pressure: 99/88 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juin 2025)
+- Electrocardiogram (Effectuée le: 10 août 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 596 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 606 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 828 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 030 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 67 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 102/99 mmHg; Heart rate 110 bpm; Body temperature 37.8 C; Blood pressure 99/88 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+
