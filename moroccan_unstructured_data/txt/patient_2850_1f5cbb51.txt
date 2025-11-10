@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 1f5cbb51-8fe0-41bd-8692-467e1b3744da
+Sexe: Masculin, Né(e) le: 2 mars 1980
+Âge: 45 ans
+Adresse: Boulevard Fès 134, Casablanca
+
+Médecin: Dr. Dumas | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1f5cbb51-8fe0-41bd-8692-467e1b3744da",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1980-03-02",
+  "birthdate_iso": "1980-03-02",
+  "gender": "M",
+  "address": "Boulevard Fès 134, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/08/2025)
+- Hypertension (Diagnostiquée le: 10/06/2019)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 23/08/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 17/06/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/98 mmHg (Date: 10/09/2025)
+- Heart rate: 70 bpm (Date: 10/09/2025)
+- Body temperature: 38.0 C (Date: 10/09/2025)
+- Glucose: 80 mg/dL (Date: 10/09/2025)
+- Hemoglobin A1c: 7.9 % (Date: 10/09/2025)
+- Total cholesterol: 199 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 634 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 634 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 45 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 128/98 mmHg; Heart rate 70 bpm; Body temperature 38.0 C; Glucose 80 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

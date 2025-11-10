@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: 87e62cd4-3123-49f7-a45e-f02cfdd65d64
+Sexe: Masculin, Né(e) le: 23 octobre 1974
+Âge: 51 ans
+Adresse: Boulevard Al Wahda 88, Rabat
+
+Médecin: Dr. Vallée | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "87e62cd4-3123-49f7-a45e-f02cfdd65d64",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1974-10-23",
+  "birthdate_iso": "1974-10-23",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 88, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/01/2024)
+- Hypertension (Diagnostiquée le: 10/10/2021)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/06/2024 au En cours] (Actif)
+- Metformin 500 mg [Du 13/01/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 110/79 mmHg (Date: 10/02/2025)
+- Heart rate: 107 bpm (Date: 10/02/2025)
+- Body temperature: 36.9 C (Date: 10/02/2025)
+- Glucose: 141 mg/dL (Date: 10/02/2025)
+- Hemoglobin A1c: 5.3 % (Date: 10/02/2025)
+- Total cholesterol: 166 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 902 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 902 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 51 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Metformin 500 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 110/79 mmHg; Heart rate 107 bpm; Body temperature 36.9 C; Glucose 141 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

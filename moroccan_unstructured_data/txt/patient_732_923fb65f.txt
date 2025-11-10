@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hamid Belghiti
+ID Patient: 923fb65f-eb5a-4b30-9059-6a44efd4ef13
+Sexe: Masculin, Né(e) le: 17 août 2019
+Âge: 6 ans
+Adresse: Rue Fès 92, Rabat
+
+Médecin: Dr. Garcia | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "923fb65f-eb5a-4b30-9059-6a44efd4ef13",
+  "first_name": "Hamid",
+  "last_name": "Belghiti",
+  "full_name": "Hamid Belghiti",
+  "birthdate": "2019-08-17",
+  "birthdate_iso": "2019-08-17",
+  "gender": "M",
+  "address": "Rue Fès 92, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/94 mmHg (Date: 10/11/2025)
+- Heart rate: 105 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 346 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 346 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 6 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 115/94 mmHg; Heart rate 105 bpm; Body temperature 37.1 C. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

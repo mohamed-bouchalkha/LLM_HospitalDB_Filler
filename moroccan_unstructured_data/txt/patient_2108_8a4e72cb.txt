@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: 8a4e72cb-507f-4014-9edc-c0b03f9364ca
+Sexe: Masculin, Né(e) le: 27 mai 1929
+Âge: 96 ans
+Adresse: Boulevard Al Wahda 46, Casablanca
+
+Médecin: Dr. Berger | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8a4e72cb-507f-4014-9edc-c0b03f9364ca",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1929-05-27",
+  "birthdate_iso": "1929-05-27",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 46, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/06/2025)
+- Hypertension (Diagnostiquée le: 10/01/2010)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 12/06/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 08/02/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/84 mmHg (Date: 10/06/2024)
+- Heart rate: 110 bpm (Date: 10/06/2024)
+- Body temperature: 38.0 C (Date: 10/06/2024)
+- Glucose: 133 mg/dL (Date: 10/06/2024)
+- Hemoglobin A1c: 6.7 % (Date: 10/06/2024)
+- Total cholesterol: 227 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 368 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 368 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 96 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 91/84 mmHg; Heart rate 110 bpm; Body temperature 38.0 C; Glucose 133 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

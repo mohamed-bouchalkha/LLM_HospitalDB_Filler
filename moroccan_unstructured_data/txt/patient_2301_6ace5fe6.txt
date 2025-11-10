@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: 6ace5fe6-b230-4aa5-ad0d-40ee6a76c22f
+Sexe: Féminin, Né(e) le: 23 mars 1946
+Âge: 79 ans
+Adresse: Rue Al Massira 130, Casablanca
+
+Médecin: Dr. Boulanger | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6ace5fe6-b230-4aa5-ad0d-40ee6a76c22f",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1946-03-23",
+  "birthdate_iso": "1946-03-23",
+  "gender": "F",
+  "address": "Rue Al Massira 130, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/08/2024)
+- Hypertension (Diagnostiquée le: 10/11/2008)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 30/08/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 10/11/2008 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/79 mmHg (Date: 10/10/2025)
+- Heart rate: 63 bpm (Date: 10/10/2025)
+- Body temperature: 37.5 C (Date: 10/10/2025)
+- Glucose: 140 mg/dL (Date: 10/10/2025)
+- Hemoglobin A1c: 5.6 % (Date: 10/10/2025)
+- Total cholesterol: 182 mg/dL (Date: 10/10/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 044 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 044 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 79 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 134/79 mmHg; Heart rate 63 bpm; Body temperature 37.5 C; Glucose 140 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alaoui
+ID Patient: 60e47056-d2f0-496d-9038-f98d504256f6
+Sexe: Féminin, Né(e) le: 30 juin 1972
+Âge: 53 ans
+Adresse: Boulevard Fès 38, Casablanca
+
+Médecin: Dr. Hardy | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "60e47056-d2f0-496d-9038-f98d504256f6",
+  "first_name": "Fatima",
+  "last_name": "Alaoui",
+  "full_name": "Fatima Alaoui",
+  "birthdate": "1972-06-30",
+  "birthdate_iso": "1972-06-30",
+  "gender": "F",
+  "address": "Boulevard Fès 38, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2016)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/10/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 104/94 mmHg (Date: 10/08/2024)
+- Heart rate: 68 bpm (Date: 10/08/2024)
+- Body temperature: 36.8 C (Date: 10/08/2024)
+- Total cholesterol: 167 mg/dL (Date: 10/08/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 069 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 069 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 53 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 104/94 mmHg; Heart rate 68 bpm; Body temperature 36.8 C; Total cholesterol 167 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

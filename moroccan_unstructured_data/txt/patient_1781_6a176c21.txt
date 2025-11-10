@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: 6a176c21-f6cd-4a98-bfdc-57ea7eceaf13
+Sexe: Masculin, Né(e) le: 30 décembre 1977
+Âge: 47 ans
+Adresse: Avenue Al Wahda 61, Casablanca
+
+Médecin: Dr. Legendre | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6a176c21-f6cd-4a98-bfdc-57ea7eceaf13",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1977-12-30",
+  "birthdate_iso": "1977-12-30",
+  "gender": "M",
+  "address": "Avenue Al Wahda 61, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 19/04/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/87 mmHg (Date: 10/12/2023)
+- Heart rate: 100 bpm (Date: 10/12/2023)
+- Body temperature: 37.3 C (Date: 10/12/2023)
+- Total cholesterol: 171 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 154 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 154 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 47 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 132/87 mmHg; Heart rate 100 bpm; Body temperature 37.3 C; Total cholesterol 171 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

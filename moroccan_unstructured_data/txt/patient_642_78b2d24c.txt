@@ -1,0 +1,80 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Youssef Tabbal
+ID Patient: 78b2d24c-262a-40f4-84ca-ad0ba03fab51
+Sexe: Masculin, Né(e) le: 12 septembre 1942
+Âge: 83 ans
+Adresse: Place Marrakech 152, Rabat
+
+Médecin: Dr. Bouvet | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "78b2d24c-262a-40f4-84ca-ad0ba03fab51",
+  "first_name": "Youssef",
+  "last_name": "Tabbal",
+  "full_name": "Youssef Tabbal",
+  "birthdate": "1942-09-12",
+  "birthdate_iso": "1942-09-12",
+  "gender": "M",
+  "address": "Place Marrakech 152, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2010)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/07/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 131/78 mmHg (Date: 10/08/2024)
+- Heart rate: 98 bpm (Date: 10/08/2024)
+- Body temperature: 37.7 C (Date: 10/08/2024)
+- Blood pressure: 93/87 mmHg (Date: 10/11/2025)
+- Heart rate: 67 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+- Electrocardiogram (Effectuée le: 10 septembre 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 août 2021)
+- Pneumococcal (Administré le: 10 mai 2021)
+- Pneumococcal (elderly) (Administré le: 10 juin 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 636 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 559 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 672 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 867 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 83 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 131/78 mmHg; Heart rate 98 bpm; Body temperature 37.7 C; Blood pressure 93/87 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

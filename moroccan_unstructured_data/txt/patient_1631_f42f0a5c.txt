@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: f42f0a5c-cf95-4585-934d-fcedcb4bc83d
+Sexe: Féminin, Né(e) le: 13 février 1994
+Âge: 31 ans
+Adresse: Rue Mohammed V 23, Casablanca
+
+Médecin: Dr. Lacombe | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f42f0a5c-cf95-4585-934d-fcedcb4bc83d",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1994-02-13",
+  "birthdate_iso": "1994-02-13",
+  "gender": "F",
+  "address": "Rue Mohammed V 23, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2023)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/02/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 126/77 mmHg (Date: 10/11/2025)
+- Heart rate: 63 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+- Total cholesterol: 180 mg/dL (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Dairy (Identifiée le: 10/11/2012)
+- Latex (Identifiée le: 10/11/2022)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 668 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 668 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 31 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 126/77 mmHg; Heart rate 63 bpm; Body temperature 37.6 C; Total cholesterol 180 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

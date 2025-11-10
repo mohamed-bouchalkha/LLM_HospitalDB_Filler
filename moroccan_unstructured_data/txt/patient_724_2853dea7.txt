@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hassan Cherkaoui
+ID Patient: 2853dea7-8a29-4a35-b355-4278dcf0586e
+Sexe: Masculin, Né(e) le: 17 mars 2013
+Âge: 12 ans
+Adresse: Rue Casablanca 25, Rabat
+
+Médecin: Dr. Pineau | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2853dea7-8a29-4a35-b355-4278dcf0586e",
+  "first_name": "Hassan",
+  "last_name": "Cherkaoui",
+  "full_name": "Hassan Cherkaoui",
+  "birthdate": "2013-03-17",
+  "birthdate_iso": "2013-03-17",
+  "gender": "M",
+  "address": "Rue Casablanca 25, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Asthma (Diagnostiquée le: 10/01/2019)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/01/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 106/77 mmHg (Date: 10/01/2024)
+- Heart rate: 72 bpm (Date: 10/01/2024)
+- Body temperature: 37.9 C (Date: 10/01/2024)
+- Blood pressure: 122/93 mmHg (Date: 10/11/2025)
+- Heart rate: 69 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Spirometry (Effectuée le: 10 janvier 2025)
+- Peak expiratory flow rate (Effectuée le: 10 avril 2024)
+
+VACCINATIONS:
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 avril 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 712 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 463 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 904 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 080 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 12 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Asthma. Sommeil globalement correct, appétit conservé. Traitements en cours: Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 106/77 mmHg; Heart rate 72 bpm; Body temperature 37.9 C; Blood pressure 122/93 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: 7484cb39-43fc-485d-b722-cb84be84e6cf
+Sexe: Masculin, Né(e) le: 12 novembre 1952
+Âge: 72 ans
+Adresse: Place Mohammed V 190, Rabat
+
+Médecin: Dr. Vasseur | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "7484cb39-43fc-485d-b722-cb84be84e6cf",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1952-11-12",
+  "birthdate_iso": "1952-11-12",
+  "gender": "M",
+  "address": "Place Mohammed V 190, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2011)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/04/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 107/93 mmHg (Date: 10/12/2024)
+- Heart rate: 73 bpm (Date: 10/12/2024)
+- Body temperature: 37.6 C (Date: 10/12/2024)
+- Total cholesterol: 169 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 mai 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 950 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 950 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 72 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 107/93 mmHg; Heart rate 73 bpm; Body temperature 37.6 C; Total cholesterol 169 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

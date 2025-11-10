@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: f9a1cd8c-f385-4b1b-9497-f4a6ef2825c2
+Sexe: Masculin, Né(e) le: 24 septembre 1961
+Âge: 64 ans
+Adresse: Boulevard Casablanca 8, Casablanca
+
+Médecin: Dr. Rodriguez | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f9a1cd8c-f385-4b1b-9497-f4a6ef2825c2",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1961-09-24",
+  "birthdate_iso": "1961-09-24",
+  "gender": "M",
+  "address": "Boulevard Casablanca 8, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2009)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/10/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/93 mmHg (Date: 10/11/2024)
+- Heart rate: 65 bpm (Date: 10/11/2024)
+- Body temperature: 37.7 C (Date: 10/11/2024)
+- Total cholesterol: 200 mg/dL (Date: 10/11/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 727 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 727 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 64 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 105/93 mmHg; Heart rate 65 bpm; Body temperature 37.7 C; Total cholesterol 200 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

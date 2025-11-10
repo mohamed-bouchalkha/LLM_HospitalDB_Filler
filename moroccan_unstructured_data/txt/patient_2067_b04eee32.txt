@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: b04eee32-b617-47d3-920a-a8177d11cbe7
+Sexe: Masculin, Né(e) le: 4 janvier 1971
+Âge: 54 ans
+Adresse: Boulevard Fès 87, Rabat
+
+Médecin: Dr. Lefort | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b04eee32-b617-47d3-920a-a8177d11cbe7",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1971-01-04",
+  "birthdate_iso": "1971-01-04",
+  "gender": "M",
+  "address": "Boulevard Fès 87, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/08/2025)
+- Hypertension (Diagnostiquée le: 10/03/2018)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 18/08/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 28/03/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 109/72 mmHg (Date: 10/08/2024)
+- Heart rate: 85 bpm (Date: 10/08/2024)
+- Body temperature: 36.9 C (Date: 10/08/2024)
+- Glucose: 78 mg/dL (Date: 10/08/2024)
+- Hemoglobin A1c: 5.3 % (Date: 10/08/2024)
+- Total cholesterol: 150 mg/dL (Date: 10/08/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 février 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 81745001
+- Imagerie du 10 octobre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 342 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 342 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 54 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 109/72 mmHg; Heart rate 85 bpm; Body temperature 36.9 C; Glucose 78 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Youssef Belghiti
+ID Patient: ad726f44-dc86-4019-8c58-1a72b9d0660c
+Sexe: Masculin, Né(e) le: 7 mai 1975
+Âge: 50 ans
+Adresse: Boulevard Marrakech 187, Rabat
+
+Médecin: Dr. Simon | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ad726f44-dc86-4019-8c58-1a72b9d0660c",
+  "first_name": "Youssef",
+  "last_name": "Belghiti",
+  "full_name": "Youssef Belghiti",
+  "birthdate": "1975-05-07",
+  "birthdate_iso": "1975-05-07",
+  "gender": "M",
+  "address": "Boulevard Marrakech 187, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/08/2025)
+- Hypertension (Diagnostiquée le: 10/12/2014)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 28/08/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 12/12/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 136/88 mmHg (Date: 10/12/2024)
+- Heart rate: 104 bpm (Date: 10/12/2024)
+- Body temperature: 37.6 C (Date: 10/12/2024)
+- Blood pressure: 122/61 mmHg (Date: 10/11/2025)
+- Heart rate: 63 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 septembre 2025)
+- Blood pressure measurement (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 807 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 843 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 656 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 153 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 50 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 136/88 mmHg; Heart rate 104 bpm; Body temperature 37.6 C; Blood pressure 122/61 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

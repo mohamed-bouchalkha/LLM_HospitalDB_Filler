@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alami
+ID Patient: 1e972e32-3431-41d9-95bc-ee9fa0b233d5
+Sexe: Masculin, Né(e) le: 8 avril 1997
+Âge: 28 ans
+Adresse: Avenue Al Massira 164, Casablanca
+
+Médecin: Dr. Muller | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1e972e32-3431-41d9-95bc-ee9fa0b233d5",
+  "first_name": "Mohamed",
+  "last_name": "Alami",
+  "full_name": "Mohamed Alami",
+  "birthdate": "1997-04-08",
+  "birthdate_iso": "1997-04-08",
+  "gender": "M",
+  "address": "Avenue Al Massira 164, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/07/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/68 mmHg (Date: 10/04/2024)
+- Heart rate: 100 bpm (Date: 10/04/2024)
+- Body temperature: 36.8 C (Date: 10/04/2024)
+- Total cholesterol: 216 mg/dL (Date: 10/04/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 590 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 590 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 28 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 95/68 mmHg; Heart rate 100 bpm; Body temperature 36.8 C; Total cholesterol 216 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Abdellah Zeroual
+ID Patient: 4669b30d-2f18-4b0b-8bf3-bfebfca0314c
+Sexe: Masculin, Né(e) le: 17 mai 1966
+Âge: 59 ans
+Adresse: Avenue Al Massira 122, Rabat
+
+Médecin: Dr. Toussaint | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4669b30d-2f18-4b0b-8bf3-bfebfca0314c",
+  "first_name": "Abdellah",
+  "last_name": "Zeroual",
+  "full_name": "Abdellah Zeroual",
+  "birthdate": "1966-05-17",
+  "birthdate_iso": "1966-05-17",
+  "gender": "M",
+  "address": "Avenue Al Massira 122, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 12/06/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 123/65 mmHg (Date: 10/11/2025)
+- Heart rate: 87 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+- Blood pressure: 133/97 mmHg (Date: 10/11/2025)
+- Heart rate: 111 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2024)
+- Electrocardiogram (Effectuée le: 10 juin 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2015)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 1 178 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 550 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 728 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 59 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 123/65 mmHg; Heart rate 87 bpm; Body temperature 37.6 C; Blood pressure 133/97 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

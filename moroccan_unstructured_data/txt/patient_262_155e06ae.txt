@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zakaria Rhanem
+ID Patient: 155e06ae-8f33-4642-aa70-78c911b66e0e
+Sexe: Masculin, Né(e) le: 25 février 2009
+Âge: 16 ans
+Adresse: Rue Al Massira 133, Rabat
+
+Médecin: Dr. Buisson | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "155e06ae-8f33-4642-aa70-78c911b66e0e",
+  "first_name": "Zakaria",
+  "last_name": "Rhanem",
+  "full_name": "Zakaria Rhanem",
+  "birthdate": "2009-02-25",
+  "birthdate_iso": "2009-02-25",
+  "gender": "M",
+  "address": "Rue Al Massira 133, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 104/80 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+- Blood pressure: 134/63 mmHg (Date: 10/11/2025)
+- Heart rate: 66 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 janvier 2022)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 860 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 457 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 508 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 825 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 16 ans. Pas d'antécédents pathologiques notables documentés. Fatigue modérée à l'effort, pas de dyspnée au repos. Dernières mesures pertinentes: Blood pressure 104/80 mmHg; Heart rate 114 bpm; Body temperature 37.0 C; Blood pressure 134/63 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

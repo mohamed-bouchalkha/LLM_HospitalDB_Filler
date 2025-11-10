@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hassan Skalli
+ID Patient: 4ffd7db2-bf3e-49f5-aa3d-7ec9737c1fc2
+Sexe: Masculin, Né(e) le: 16 mars 2016
+Âge: 9 ans
+Adresse: Avenue Al Massira 97, Rabat
+
+Médecin: Dr. Richard | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4ffd7db2-bf3e-49f5-aa3d-7ec9737c1fc2",
+  "first_name": "Hassan",
+  "last_name": "Skalli",
+  "full_name": "Hassan Skalli",
+  "birthdate": "2016-03-16",
+  "birthdate_iso": "2016-03-16",
+  "gender": "M",
+  "address": "Avenue Al Massira 97, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 136/84 mmHg (Date: 10/11/2025)
+- Heart rate: 73 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 juillet 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 766 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 766 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 9 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Fatigue modérée à l'effort, pas de dyspnée au repos. Dernières mesures pertinentes: Blood pressure 136/84 mmHg; Heart rate 73 bpm; Body temperature 36.8 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

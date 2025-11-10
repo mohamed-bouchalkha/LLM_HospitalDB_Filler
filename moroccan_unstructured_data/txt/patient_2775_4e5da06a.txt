@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: 4e5da06a-f596-4249-967c-ccfe33801b41
+Sexe: Masculin, Né(e) le: 4 août 1960
+Âge: 65 ans
+Adresse: Place Casablanca 33, Casablanca
+
+Médecin: Dr. De Oliveira | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4e5da06a-f596-4249-967c-ccfe33801b41",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1960-08-04",
+  "birthdate_iso": "1960-08-04",
+  "gender": "M",
+  "address": "Place Casablanca 33, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 30/08/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 94/89 mmHg (Date: 10/02/2025)
+- Heart rate: 96 bpm (Date: 10/02/2025)
+- Body temperature: 37.2 C (Date: 10/02/2025)
+- Total cholesterol: 239 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 464 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 464 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 65 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 94/89 mmHg; Heart rate 96 bpm; Body temperature 37.2 C; Total cholesterol 239 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

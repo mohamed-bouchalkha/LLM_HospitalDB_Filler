@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Bennani
+ID Patient: 0400ab96-f80c-41cf-9586-7789dfabdb71
+Sexe: Féminin, Né(e) le: 22 juin 1993
+Âge: 32 ans
+Adresse: Place Casablanca 100, Casablanca
+
+Médecin: Dr. Menard | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0400ab96-f80c-41cf-9586-7789dfabdb71",
+  "first_name": "Aicha",
+  "last_name": "Bennani",
+  "full_name": "Aicha Bennani",
+  "birthdate": "1993-06-22",
+  "birthdate_iso": "1993-06-22",
+  "gender": "F",
+  "address": "Place Casablanca 100, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2021)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/03/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/95 mmHg (Date: 10/11/2025)
+- Heart rate: 86 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+- Total cholesterol: 245 mg/dL (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 818 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 818 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 32 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 105/95 mmHg; Heart rate 86 bpm; Body temperature 37.4 C; Total cholesterol 245 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

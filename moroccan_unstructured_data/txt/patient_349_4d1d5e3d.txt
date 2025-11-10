@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zahra Tabbal
+ID Patient: 4d1d5e3d-7a3d-404e-a7cc-d0c7ce383ce5
+Sexe: Féminin, Né(e) le: 24 février 1957
+Âge: 68 ans
+Adresse: Boulevard Mohammed V 135, Rabat
+
+Médecin: Dr. Lelièvre | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4d1d5e3d-7a3d-404e-a7cc-d0c7ce383ce5",
+  "first_name": "Zahra",
+  "last_name": "Tabbal",
+  "full_name": "Zahra Tabbal",
+  "birthdate": "1957-02-24",
+  "birthdate_iso": "1957-02-24",
+  "gender": "F",
+  "address": "Boulevard Mohammed V 135, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2016)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 12/08/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 139/86 mmHg (Date: 10/11/2024)
+- Heart rate: 93 bpm (Date: 10/11/2024)
+- Body temperature: 36.7 C (Date: 10/11/2024)
+- Blood pressure: 95/69 mmHg (Date: 10/11/2025)
+- Heart rate: 105 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 364 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 994 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 574 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 932 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 68 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 139/86 mmHg; Heart rate 93 bpm; Body temperature 36.7 C; Blood pressure 95/69 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

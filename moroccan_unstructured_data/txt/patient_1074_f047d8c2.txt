@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: f047d8c2-c80d-4e35-9182-d07be3d850cd
+Sexe: Féminin, Né(e) le: 16 août 1943
+Âge: 82 ans
+Adresse: Rue Marrakech 167, Casablanca
+
+Médecin: Dr. Hoareau | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f047d8c2-c80d-4e35-9182-d07be3d850cd",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1943-08-16",
+  "birthdate_iso": "1943-08-16",
+  "gender": "F",
+  "address": "Rue Marrakech 167, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2018)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 03/02/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 114/84 mmHg (Date: 10/09/2025)
+- Heart rate: 95 bpm (Date: 10/09/2025)
+- Body temperature: 37.4 C (Date: 10/09/2025)
+- Total cholesterol: 233 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 novembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 523 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 523 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 82 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 114/84 mmHg; Heart rate 95 bpm; Body temperature 37.4 C; Total cholesterol 233 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

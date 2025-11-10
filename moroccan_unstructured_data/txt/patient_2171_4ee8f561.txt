@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 4ee8f561-8fb4-4402-8692-8695e2833e1f
+Sexe: Masculin, Né(e) le: 2 mai 1978
+Âge: 47 ans
+Adresse: Avenue Al Wahda 87, Casablanca
+
+Médecin: Dr. Letellier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4ee8f561-8fb4-4402-8692-8695e2833e1f",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1978-05-02",
+  "birthdate_iso": "1978-05-02",
+  "gender": "M",
+  "address": "Avenue Al Wahda 87, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 18/02/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/79 mmHg (Date: 10/11/2024)
+- Heart rate: 91 bpm (Date: 10/11/2024)
+- Body temperature: 36.8 C (Date: 10/11/2024)
+- Total cholesterol: 152 mg/dL (Date: 10/11/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2021)
+- Pneumococcal (Administré le: 10 février 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 606 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 606 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 47 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 102/79 mmHg; Heart rate 91 bpm; Body temperature 36.8 C; Total cholesterol 152 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

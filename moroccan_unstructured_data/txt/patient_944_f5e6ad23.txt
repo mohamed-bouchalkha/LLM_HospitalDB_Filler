@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Sara Saidi
+ID Patient: f5e6ad23-a56d-43d9-a334-612321a2b037
+Sexe: Féminin, Né(e) le: 3 mars 1972
+Âge: 53 ans
+Adresse: Place Fès 88, Rabat
+
+Médecin: Dr. Ledoux | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f5e6ad23-a56d-43d9-a334-612321a2b037",
+  "first_name": "Sara",
+  "last_name": "Saidi",
+  "full_name": "Sara Saidi",
+  "birthdate": "1972-03-03",
+  "birthdate_iso": "1972-03-03",
+  "gender": "F",
+  "address": "Place Fès 88, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/12/2024)
+- Hypertension (Diagnostiquée le: 10/12/2016)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 17/12/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 25/12/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 123/98 mmHg (Date: 10/11/2025)
+- Heart rate: 73 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+- Blood pressure: 90/86 mmHg (Date: 10/11/2025)
+- Heart rate: 77 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 juillet 2024)
+- Hemoglobin A1c test (Effectuée le: 10 octobre 2024)
+- Blood pressure measurement (Effectuée le: 10 mai 2025)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 octobre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 1 180 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 842 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 778 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 799 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 53 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 123/98 mmHg; Heart rate 73 bpm; Body temperature 37.8 C; Blood pressure 90/86 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

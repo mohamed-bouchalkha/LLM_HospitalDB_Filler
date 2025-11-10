@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Salma Mansouri
+ID Patient: a7f81fe8-eaf6-4297-a140-72d39179e8c5
+Sexe: Féminin, Né(e) le: 19 octobre 2006
+Âge: 19 ans
+Adresse: Place Casablanca 195, Rabat
+
+Médecin: Dr. Dupré | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a7f81fe8-eaf6-4297-a140-72d39179e8c5",
+  "first_name": "Salma",
+  "last_name": "Mansouri",
+  "full_name": "Salma Mansouri",
+  "birthdate": "2006-10-19",
+  "birthdate_iso": "2006-10-19",
+  "gender": "F",
+  "address": "Place Casablanca 195, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 02/10/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 92/63 mmHg (Date: 10/05/2024)
+- Heart rate: 85 bpm (Date: 10/05/2024)
+- Body temperature: 37.3 C (Date: 10/05/2024)
+- Blood pressure: 137/93 mmHg (Date: 10/11/2025)
+- Heart rate: 79 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2024)
+- Electrocardiogram (Effectuée le: 10 décembre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Dairy (Identifiée le: 10/11/2012)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 879 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 901 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 781 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 19 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 92/63 mmHg; Heart rate 85 bpm; Body temperature 37.3 C; Blood pressure 137/93 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

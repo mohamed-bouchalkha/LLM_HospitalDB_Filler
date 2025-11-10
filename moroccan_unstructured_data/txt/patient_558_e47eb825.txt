@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hafsa Khalil
+ID Patient: e47eb825-ee17-4983-8837-f0f9b142b587
+Sexe: Féminin, Né(e) le: 1 avril 1980
+Âge: 45 ans
+Adresse: Place Hassan II 119, Rabat
+
+Médecin: Dr. Vallée | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e47eb825-ee17-4983-8837-f0f9b142b587",
+  "first_name": "Hafsa",
+  "last_name": "Khalil",
+  "full_name": "Hafsa Khalil",
+  "birthdate": "1980-04-01",
+  "birthdate_iso": "1980-04-01",
+  "gender": "F",
+  "address": "Place Hassan II 119, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/01/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/94 mmHg (Date: 10/07/2024)
+- Heart rate: 109 bpm (Date: 10/07/2024)
+- Body temperature: 37.0 C (Date: 10/07/2024)
+- Blood pressure: 122/94 mmHg (Date: 10/11/2025)
+- Heart rate: 94 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 février 2025)
+- Electrocardiogram (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Dairy (Identifiée le: 10/11/2020)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 580 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 1 281 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 687 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 549 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 45 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 118/94 mmHg; Heart rate 109 bpm; Body temperature 37.0 C; Blood pressure 122/94 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

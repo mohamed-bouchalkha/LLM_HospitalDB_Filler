@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hafsa Chraibi
+ID Patient: af2a8816-a0a9-4cd2-adb4-e2e700568205
+Sexe: Féminin, Né(e) le: 9 octobre 1947
+Âge: 78 ans
+Adresse: Place Marrakech 112, Rabat
+
+Médecin: Dr. Bouvier | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "af2a8816-a0a9-4cd2-adb4-e2e700568205",
+  "first_name": "Hafsa",
+  "last_name": "Chraibi",
+  "full_name": "Hafsa Chraibi",
+  "birthdate": "1947-10-09",
+  "birthdate_iso": "1947-10-09",
+  "gender": "F",
+  "address": "Place Marrakech 112, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2018)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/08/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/93 mmHg (Date: 10/11/2025)
+- Heart rate: 75 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 133/66 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2024)
+- Electrocardiogram (Effectuée le: 10 juin 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 juin 2024)
+- Pneumococcal (elderly) (Administré le: 10 septembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 817 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 723 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 571 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 995 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 78 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 111/93 mmHg; Heart rate 75 bpm; Body temperature 37.7 C; Blood pressure 133/66 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

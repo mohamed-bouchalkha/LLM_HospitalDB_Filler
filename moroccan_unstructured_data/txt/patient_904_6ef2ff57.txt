@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mehdi Bennani
+ID Patient: 6ef2ff57-0e9e-41cc-be48-208eada52527
+Sexe: Masculin, Né(e) le: 4 août 2005
+Âge: 20 ans
+Adresse: Place Al Wahda 161, Rabat
+
+Médecin: Dr. Camus | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6ef2ff57-0e9e-41cc-be48-208eada52527",
+  "first_name": "Mehdi",
+  "last_name": "Bennani",
+  "full_name": "Mehdi Bennani",
+  "birthdate": "2005-08-04",
+  "birthdate_iso": "2005-08-04",
+  "gender": "M",
+  "address": "Place Al Wahda 161, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 117/68 mmHg (Date: 10/11/2025)
+- Heart rate: 74 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2022)
+- Pneumococcal (Administré le: 10 décembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 335 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 335 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 20 ans de sexe masculin, venu(e) pour un contrôle clinique. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 117/68 mmHg; Heart rate 74 bpm; Body temperature 37.2 C. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

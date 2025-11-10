@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Sara Tazi
+ID Patient: d2874e85-8344-4081-b744-4018cf7cfa5d
+Sexe: Féminin, Né(e) le: 29 mai 1952
+Âge: 73 ans
+Adresse: Place Al Massira 108, Rabat
+
+Médecin: Dr. Roussel | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d2874e85-8344-4081-b744-4018cf7cfa5d",
+  "first_name": "Sara",
+  "last_name": "Tazi",
+  "full_name": "Sara Tazi",
+  "birthdate": "1952-05-29",
+  "birthdate_iso": "1952-05-29",
+  "gender": "F",
+  "address": "Place Al Massira 108, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2018)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 29/10/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 106/86 mmHg (Date: 10/11/2025)
+- Heart rate: 70 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 112/65 mmHg (Date: 10/11/2025)
+- Heart rate: 112 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2024)
+- Electrocardiogram (Effectuée le: 10 février 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 768 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 701 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 468 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 73 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 106/86 mmHg; Heart rate 70 bpm; Body temperature 37.7 C; Blood pressure 112/65 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

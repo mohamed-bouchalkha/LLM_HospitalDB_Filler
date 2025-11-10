@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 08a472ca-6b0c-4838-900d-64b28877cfda
+Sexe: Masculin, Né(e) le: 23 mars 1965
+Âge: 60 ans
+Adresse: Boulevard Al Massira 20, Casablanca
+
+Médecin: Dr. Gautier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "08a472ca-6b0c-4838-900d-64b28877cfda",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1965-03-23",
+  "birthdate_iso": "1965-03-23",
+  "gender": "M",
+  "address": "Boulevard Al Massira 20, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2008)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/01/2008 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/91 mmHg (Date: 10/10/2024)
+- Heart rate: 74 bpm (Date: 10/10/2024)
+- Body temperature: 37.3 C (Date: 10/10/2024)
+- Total cholesterol: 214 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 novembre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 810 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 810 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 60 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 124/91 mmHg; Heart rate 74 bpm; Body temperature 37.3 C; Total cholesterol 214 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

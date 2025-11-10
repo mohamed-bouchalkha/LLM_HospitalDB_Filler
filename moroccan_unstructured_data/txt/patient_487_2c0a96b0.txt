@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Zeroual
+ID Patient: 2c0a96b0-4608-4833-819d-11236df5135b
+Sexe: Masculin, Né(e) le: 4 août 1953
+Âge: 72 ans
+Adresse: Avenue Al Wahda 124, Rabat
+
+Médecin: Dr. Charpentier | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2c0a96b0-4608-4833-819d-11236df5135b",
+  "first_name": "Mustapha",
+  "last_name": "Zeroual",
+  "full_name": "Mustapha Zeroual",
+  "birthdate": "1953-08-04",
+  "birthdate_iso": "1953-08-04",
+  "gender": "M",
+  "address": "Avenue Al Wahda 124, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2017)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/04/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 129/72 mmHg (Date: 10/03/2025)
+- Heart rate: 85 bpm (Date: 10/03/2025)
+- Body temperature: 37.2 C (Date: 10/03/2025)
+- Blood pressure: 131/81 mmHg (Date: 10/11/2025)
+- Heart rate: 78 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2021)
+- Pneumococcal (Administré le: 10 octobre 2023)
+- Pneumococcal (elderly) (Administré le: 10 mai 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 742 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 1 015 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 528 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 285 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 72 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 129/72 mmHg; Heart rate 85 bpm; Body temperature 37.2 C; Blood pressure 131/81 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

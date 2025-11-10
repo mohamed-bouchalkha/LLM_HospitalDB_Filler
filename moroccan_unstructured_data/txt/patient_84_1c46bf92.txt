@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Himmich
+ID Patient: 1c46bf92-986f-4e22-bec5-928bce84d45f
+Sexe: Masculin, Né(e) le: 7 avril 2003
+Âge: 22 ans
+Adresse: Avenue Al Massira 56, Rabat
+
+Médecin: Dr. Marin | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1c46bf92-986f-4e22-bec5-928bce84d45f",
+  "first_name": "Mohamed",
+  "last_name": "Himmich",
+  "full_name": "Mohamed Himmich",
+  "birthdate": "2003-04-07",
+  "birthdate_iso": "2003-04-07",
+  "gender": "M",
+  "address": "Avenue Al Massira 56, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 131/83 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 449 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 449 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 22 ans de sexe masculin, venu(e) pour un contrôle clinique. Pas d'antécédents pathologiques notables documentés. Fatigue modérée à l'effort, pas de dyspnée au repos. Dernières mesures pertinentes: Blood pressure 131/83 mmHg; Heart rate 114 bpm; Body temperature 36.8 C. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

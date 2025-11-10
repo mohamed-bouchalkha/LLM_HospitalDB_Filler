@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Saadia Berrada
+ID Patient: ec4e780b-689c-4ab2-93a4-19f3215dc6ec
+Sexe: Féminin, Né(e) le: 23 janvier 1995
+Âge: 30 ans
+Adresse: Place Casablanca 55, Rabat
+
+Médecin: Dr. Julien | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ec4e780b-689c-4ab2-93a4-19f3215dc6ec",
+  "first_name": "Saadia",
+  "last_name": "Berrada",
+  "full_name": "Saadia Berrada",
+  "birthdate": "1995-01-23",
+  "birthdate_iso": "1995-01-23",
+  "gender": "F",
+  "address": "Place Casablanca 55, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2020)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/08/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/93 mmHg (Date: 10/09/2025)
+- Heart rate: 111 bpm (Date: 10/09/2025)
+- Body temperature: 36.8 C (Date: 10/09/2025)
+- Blood pressure: 95/60 mmHg (Date: 10/11/2025)
+- Heart rate: 81 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+- Electrocardiogram (Effectuée le: 10 décembre 2023)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 390 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 893 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 516 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 798 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 30 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 122/93 mmHg; Heart rate 111 bpm; Body temperature 36.8 C; Blood pressure 95/60 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

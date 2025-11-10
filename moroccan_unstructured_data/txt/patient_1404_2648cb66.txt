@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: 2648cb66-ee60-473a-89fb-b7b43680e2c2
+Sexe: Féminin, Né(e) le: 8 mars 1999
+Âge: 26 ans
+Adresse: Rue Hassan II 145, Rabat
+
+Médecin: Dr. Dias | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2648cb66-ee60-473a-89fb-b7b43680e2c2",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1999-03-08",
+  "birthdate_iso": "1999-03-08",
+  "gender": "F",
+  "address": "Rue Hassan II 145, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2022)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/04/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 126/65 mmHg (Date: 10/01/2025)
+- Heart rate: 110 bpm (Date: 10/01/2025)
+- Body temperature: 37.4 C (Date: 10/01/2025)
+- Total cholesterol: 168 mg/dL (Date: 10/01/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 163 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 163 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 26 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 126/65 mmHg; Heart rate 110 bpm; Body temperature 37.4 C; Total cholesterol 168 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

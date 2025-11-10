@@ -1,0 +1,82 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hanane El Khattabi
+ID Patient: a0d47604-4ecd-4100-b6dd-b077915bcaae
+Sexe: Féminin, Né(e) le: 12 mai 1953
+Âge: 72 ans
+Adresse: Boulevard Hassan II 141, Rabat
+
+Médecin: Dr. Michel | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a0d47604-4ecd-4100-b6dd-b077915bcaae",
+  "first_name": "Hanane",
+  "last_name": "El Khattabi",
+  "full_name": "Hanane El Khattabi",
+  "birthdate": "1953-05-12",
+  "birthdate_iso": "1953-05-12",
+  "gender": "F",
+  "address": "Boulevard Hassan II 141, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/11/2024)
+- Hypertension (Diagnostiquée le: 10/08/2010)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 18/11/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 16/08/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 126/85 mmHg (Date: 10/11/2025)
+- Heart rate: 115 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+- Blood pressure: 126/73 mmHg (Date: 10/11/2025)
+- Heart rate: 110 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 mars 2024)
+- Hemoglobin A1c test (Effectuée le: 10 décembre 2023)
+- Blood pressure measurement (Effectuée le: 10 juin 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 81745001
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 729 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 1 248 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 790 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 766 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 72 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 126/85 mmHg; Heart rate 115 bpm; Body temperature 37.1 C; Blood pressure 126/73 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

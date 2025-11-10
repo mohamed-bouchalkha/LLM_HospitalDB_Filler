@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: ae83d877-38ab-4498-aa75-cfa43aac9013
+Sexe: Masculin, Né(e) le: 20 janvier 1950
+Âge: 75 ans
+Adresse: Avenue Casablanca 54, Rabat
+
+Médecin: Dr. Vidal | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ae83d877-38ab-4498-aa75-cfa43aac9013",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1950-01-20",
+  "birthdate_iso": "1950-01-20",
+  "gender": "M",
+  "address": "Avenue Casablanca 54, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2017)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 26/03/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 139/93 mmHg (Date: 10/07/2024)
+- Heart rate: 105 bpm (Date: 10/07/2024)
+- Body temperature: 36.7 C (Date: 10/07/2024)
+- Total cholesterol: 205 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 août 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 765 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 765 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 75 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 139/93 mmHg; Heart rate 105 bpm; Body temperature 36.7 C; Total cholesterol 205 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

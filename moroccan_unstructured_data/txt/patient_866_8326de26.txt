@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Omar Tabbal
+ID Patient: 8326de26-8a86-45f3-b241-fd6a8eac4c80
+Sexe: Masculin, Né(e) le: 22 mai 1995
+Âge: 30 ans
+Adresse: Rue Casablanca 24, Rabat
+
+Médecin: Dr. Ruiz | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8326de26-8a86-45f3-b241-fd6a8eac4c80",
+  "first_name": "Omar",
+  "last_name": "Tabbal",
+  "full_name": "Omar Tabbal",
+  "birthdate": "1995-05-22",
+  "birthdate_iso": "1995-05-22",
+  "gender": "M",
+  "address": "Rue Casablanca 24, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 30/04/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 101/80 mmHg (Date: 10/11/2025)
+- Heart rate: 70 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+- Blood pressure: 136/66 mmHg (Date: 10/11/2025)
+- Heart rate: 87 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+- Electrocardiogram (Effectuée le: 10 août 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 971 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 498 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 615 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 085 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 30 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 101/80 mmHg; Heart rate 70 bpm; Body temperature 36.8 C; Blood pressure 136/66 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

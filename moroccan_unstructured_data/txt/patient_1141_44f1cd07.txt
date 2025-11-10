@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 44f1cd07-5c6c-4488-bf05-6918e4ce9c62
+Sexe: Masculin, Né(e) le: 21 janvier 1976
+Âge: 49 ans
+Adresse: Boulevard Al Wahda 168, Casablanca
+
+Médecin: Dr. Schneider | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "44f1cd07-5c6c-4488-bf05-6918e4ce9c62",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1976-01-21",
+  "birthdate_iso": "1976-01-21",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 168, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2017)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/03/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/61 mmHg (Date: 10/01/2024)
+- Heart rate: 113 bpm (Date: 10/01/2024)
+- Body temperature: 37.9 C (Date: 10/01/2024)
+- Total cholesterol: 218 mg/dL (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Sulfa drugs (Identifiée le: 10/11/2023)
+- Penicillin (Identifiée le: 10/11/2013)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 884 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 884 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 49 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 111/61 mmHg; Heart rate 113 bpm; Body temperature 37.9 C; Total cholesterol 218 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

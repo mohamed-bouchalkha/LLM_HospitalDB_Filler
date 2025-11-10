@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: 2cdaf14f-ffa2-40b8-8c5c-528f2673fccb
+Sexe: Féminin, Né(e) le: 12 mars 1925
+Âge: 100 ans
+Adresse: Boulevard Marrakech 50, Casablanca
+
+Médecin: Dr. David | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2cdaf14f-ffa2-40b8-8c5c-528f2673fccb",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1925-03-12",
+  "birthdate_iso": "1925-03-12",
+  "gender": "F",
+  "address": "Boulevard Marrakech 50, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 04/06/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 117/88 mmHg (Date: 10/08/2025)
+- Heart rate: 62 bpm (Date: 10/08/2025)
+- Body temperature: 37.3 C (Date: 10/08/2025)
+- Total cholesterol: 208 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 avril 2024)
+- Pneumococcal (elderly) (Administré le: 10 mai 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 737 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 737 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 100 ans. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 117/88 mmHg; Heart rate 62 bpm; Body temperature 37.3 C; Total cholesterol 208 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

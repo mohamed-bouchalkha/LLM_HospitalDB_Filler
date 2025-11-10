@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Iman Cherkaoui
+ID Patient: 49bb1ce2-6633-4ca8-91ef-7e6fbb576346
+Sexe: Féminin, Né(e) le: 20 septembre 2014
+Âge: 11 ans
+Adresse: Rue Hassan II 92, Rabat
+
+Médecin: Dr. Maillot | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "49bb1ce2-6633-4ca8-91ef-7e6fbb576346",
+  "first_name": "Iman",
+  "last_name": "Cherkaoui",
+  "full_name": "Iman Cherkaoui",
+  "birthdate": "2014-09-20",
+  "birthdate_iso": "2014-09-20",
+  "gender": "F",
+  "address": "Rue Hassan II 92, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/80 mmHg (Date: 10/11/2025)
+- Heart rate: 63 bpm (Date: 10/11/2025)
+- Body temperature: 38.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 novembre 2025)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 février 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 546 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 546 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 11 ans de sexe féminin, venu(e) pour un contrôle clinique. Pas d'antécédents pathologiques notables documentés. Fatigue modérée à l'effort, pas de dyspnée au repos. Dernières mesures pertinentes: Blood pressure 118/80 mmHg; Heart rate 63 bpm; Body temperature 38.0 C. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

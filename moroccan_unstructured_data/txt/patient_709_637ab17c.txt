@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Saadia El Khattabi
+ID Patient: 637ab17c-5f47-4f41-8051-bc8977ccf3f6
+Sexe: Féminin, Né(e) le: 23 mars 1998
+Âge: 27 ans
+Adresse: Place Mohammed V 68, Rabat
+
+Médecin: Dr. Leduc | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "637ab17c-5f47-4f41-8051-bc8977ccf3f6",
+  "first_name": "Saadia",
+  "last_name": "El Khattabi",
+  "full_name": "Saadia El Khattabi",
+  "birthdate": "1998-03-23",
+  "birthdate_iso": "1998-03-23",
+  "gender": "F",
+  "address": "Place Mohammed V 68, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 112/84 mmHg (Date: 10/11/2025)
+- Heart rate: 79 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 avril 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Penicillin (Identifiée le: 10/11/2019)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 769 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 769 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 27 ans. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 112/84 mmHg; Heart rate 79 bpm; Body temperature 37.2 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

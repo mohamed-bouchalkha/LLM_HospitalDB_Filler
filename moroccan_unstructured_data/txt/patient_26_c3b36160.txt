@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Berrada
+ID Patient: c3b36160-68c8-469d-a492-903ca3fc1f61
+Sexe: Masculin, Né(e) le: 23 août 1980
+Âge: 45 ans
+Adresse: Boulevard Al Wahda 193, Rabat
+
+Médecin: Dr. Guillaume | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c3b36160-68c8-469d-a492-903ca3fc1f61",
+  "first_name": "Mohamed",
+  "last_name": "Berrada",
+  "full_name": "Mohamed Berrada",
+  "birthdate": "1980-08-23",
+  "birthdate_iso": "1980-08-23",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 193, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/05/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/90 mmHg (Date: 10/07/2024)
+- Heart rate: 72 bpm (Date: 10/07/2024)
+- Body temperature: 37.5 C (Date: 10/07/2024)
+- Blood pressure: 100/92 mmHg (Date: 10/11/2025)
+- Heart rate: 79 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 avril 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 607 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 633 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 735 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 975 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 45 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 103/90 mmHg; Heart rate 72 bpm; Body temperature 37.5 C; Blood pressure 100/92 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

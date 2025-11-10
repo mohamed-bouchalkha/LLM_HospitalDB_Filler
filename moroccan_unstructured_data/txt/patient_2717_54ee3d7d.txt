@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: 54ee3d7d-9147-46ce-9e42-162f58893aea
+Sexe: Masculin, Né(e) le: 12 décembre 1974
+Âge: 50 ans
+Adresse: Place Hassan II 41, Casablanca
+
+Médecin: Dr. Descamps | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "54ee3d7d-9147-46ce-9e42-162f58893aea",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1974-12-12",
+  "birthdate_iso": "1974-12-12",
+  "gender": "M",
+  "address": "Place Hassan II 41, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2018)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/06/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 121/88 mmHg (Date: 10/08/2025)
+- Heart rate: 77 bpm (Date: 10/08/2025)
+- Body temperature: 36.9 C (Date: 10/08/2025)
+- Total cholesterol: 214 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 505 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 505 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 50 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 121/88 mmHg; Heart rate 77 bpm; Body temperature 36.9 C; Total cholesterol 214 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hanane Zeroual
+ID Patient: 4b94c5be-531c-42c9-a6ff-d1470eb27e3a
+Sexe: Féminin, Né(e) le: 10 mars 1990
+Âge: 35 ans
+Adresse: Boulevard Al Massira 173, Rabat
+
+Médecin: Dr. Lucas | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4b94c5be-531c-42c9-a6ff-d1470eb27e3a",
+  "first_name": "Hanane",
+  "last_name": "Zeroual",
+  "full_name": "Hanane Zeroual",
+  "birthdate": "1990-03-10",
+  "birthdate_iso": "1990-03-10",
+  "gender": "F",
+  "address": "Boulevard Al Massira 173, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/07/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 120/76 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+- Blood pressure: 99/72 mmHg (Date: 10/11/2025)
+- Heart rate: 88 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2024)
+- Electrocardiogram (Effectuée le: 10 janvier 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 octobre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2017)
+- Eggs (Identifiée le: 10/11/2012)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 997 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 857 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 854 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 35 ans. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 120/76 mmHg; Heart rate 89 bpm; Body temperature 37.4 C; Blood pressure 99/72 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

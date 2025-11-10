@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Saadia Rhanem
+ID Patient: 6b414ed8-7e67-43a9-8ed9-bfe45ef1fc43
+Sexe: Féminin, Né(e) le: 30 octobre 2021
+Âge: 4 ans
+Adresse: Rue Hassan II 72, Rabat
+
+Médecin: Dr. Ferreira | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6b414ed8-7e67-43a9-8ed9-bfe45ef1fc43",
+  "first_name": "Saadia",
+  "last_name": "Rhanem",
+  "full_name": "Saadia Rhanem",
+  "birthdate": "2021-10-30",
+  "birthdate_iso": "2021-10-30",
+  "gender": "F",
+  "address": "Rue Hassan II 72, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 113/77 mmHg (Date: 10/11/2025)
+- Heart rate: 106 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 139/68 mmHg (Date: 10/11/2025)
+- Heart rate: 112 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 décembre 2021)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 novembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 445 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 787 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 232 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 4 ans. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 113/77 mmHg; Heart rate 106 bpm; Body temperature 37.7 C; Blood pressure 139/68 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Iman El Fassi
+ID Patient: fcd411f5-6cf4-46ce-aa34-efabee789c5c
+Sexe: Féminin, Né(e) le: 3 décembre 1953
+Âge: 71 ans
+Adresse: Rue Hassan II 53, Rabat
+
+Médecin: Dr. Perrot | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fcd411f5-6cf4-46ce-aa34-efabee789c5c",
+  "first_name": "Iman",
+  "last_name": "El Fassi",
+  "full_name": "Iman El Fassi",
+  "birthdate": "1953-12-03",
+  "birthdate_iso": "1953-12-03",
+  "gender": "F",
+  "address": "Rue Hassan II 53, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2008)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 21/05/2008 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/72 mmHg (Date: 10/11/2025)
+- Heart rate: 77 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+- Blood pressure: 111/95 mmHg (Date: 10/11/2025)
+- Heart rate: 92 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 septembre 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 564 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 770 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 334 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 71 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 98/72 mmHg; Heart rate 77 bpm; Body temperature 37.3 C; Blood pressure 111/95 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: da8fbed7-5e60-497b-8de7-48801ba7f04c
+Sexe: Masculin, Né(e) le: 31 mai 1976
+Âge: 49 ans
+Adresse: Place Casablanca 77, Casablanca
+
+Médecin: Dr. Teixeira | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "da8fbed7-5e60-497b-8de7-48801ba7f04c",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1976-05-31",
+  "birthdate_iso": "1976-05-31",
+  "gender": "M",
+  "address": "Place Casablanca 77, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2016)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/10/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/76 mmHg (Date: 10/12/2023)
+- Heart rate: 60 bpm (Date: 10/12/2023)
+- Body temperature: 37.2 C (Date: 10/12/2023)
+- Total cholesterol: 203 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 989 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 989 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 49 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 103/76 mmHg; Heart rate 60 bpm; Body temperature 37.2 C; Total cholesterol 203 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

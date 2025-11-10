@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zahra Laraki
+ID Patient: 831ee5be-f4ef-4748-a214-11d00e7355f5
+Sexe: Féminin, Né(e) le: 27 août 2024
+Âge: 1 ans
+Adresse: Place Casablanca 165, Rabat
+
+Médecin: Dr. Monnier | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "831ee5be-f4ef-4748-a214-11d00e7355f5",
+  "first_name": "Zahra",
+  "last_name": "Laraki",
+  "full_name": "Zahra Laraki",
+  "birthdate": "2024-08-27",
+  "birthdate_iso": "2024-08-27",
+  "gender": "F",
+  "address": "Place Casablanca 165, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 126/70 mmHg (Date: 10/11/2025)
+- Heart rate: 85 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Diphtheria, Tetanus, Pertussis (Administré le: 10 septembre 2025)
+- Poliovirus (Administré le: 10 novembre 2025)
+- Hepatitis B (Administré le: 10 mai 2023)
+- Measles, Mumps, Rubella (Administré le: 10 octobre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Latex (Identifiée le: 10/11/2023)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 905 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 905 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 1 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 126/70 mmHg; Heart rate 85 bpm; Body temperature 37.7 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

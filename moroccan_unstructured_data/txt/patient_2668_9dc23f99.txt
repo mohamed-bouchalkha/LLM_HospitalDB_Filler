@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: 9dc23f99-3902-4930-8c50-b1c0c5c85830
+Sexe: Féminin, Né(e) le: 13 février 2007
+Âge: 18 ans
+Adresse: Boulevard Al Massira 88, Casablanca
+
+Médecin: Dr. Rémy | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "9dc23f99-3902-4930-8c50-b1c0c5c85830",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "2007-02-13",
+  "birthdate_iso": "2007-02-13",
+  "gender": "F",
+  "address": "Boulevard Al Massira 88, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/11/2024 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/11/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 94/64 mmHg (Date: 10/09/2025)
+- Heart rate: 86 bpm (Date: 10/09/2025)
+- Body temperature: 36.8 C (Date: 10/09/2025)
+- Total cholesterol: 170 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 870 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 870 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 18 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 94/64 mmHg; Heart rate 86 bpm; Body temperature 36.8 C; Total cholesterol 170 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

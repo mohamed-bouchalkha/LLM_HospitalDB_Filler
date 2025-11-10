@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ali Chraibi
+ID Patient: f75edb0f-1473-4ced-ab61-39499ff7297d
+Sexe: Masculin, Né(e) le: 1 mars 2020
+Âge: 5 ans
+Adresse: Place Al Wahda 189, Rabat
+
+Médecin: Dr. Pascal | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f75edb0f-1473-4ced-ab61-39499ff7297d",
+  "first_name": "Ali",
+  "last_name": "Chraibi",
+  "full_name": "Ali Chraibi",
+  "birthdate": "2020-03-01",
+  "birthdate_iso": "2020-03-01",
+  "gender": "M",
+  "address": "Place Al Wahda 189, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 116/68 mmHg (Date: 10/11/2025)
+- Heart rate: 73 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 octobre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 379 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 379 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 5 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 116/68 mmHg; Heart rate 73 bpm; Body temperature 37.7 C. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

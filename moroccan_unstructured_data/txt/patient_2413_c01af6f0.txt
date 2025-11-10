@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: c01af6f0-d5c8-448b-ac34-67290a9a26b3
+Sexe: Féminin, Né(e) le: 12 janvier 1962
+Âge: 63 ans
+Adresse: Place Mohammed V 73, Casablanca
+
+Médecin: Dr. Poirier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c01af6f0-d5c8-448b-ac34-67290a9a26b3",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1962-01-12",
+  "birthdate_iso": "1962-01-12",
+  "gender": "F",
+  "address": "Place Mohammed V 73, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2007)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/08/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 139/66 mmHg (Date: 10/03/2025)
+- Heart rate: 89 bpm (Date: 10/03/2025)
+- Body temperature: 36.5 C (Date: 10/03/2025)
+- Total cholesterol: 240 mg/dL (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 816 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 816 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 63 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 139/66 mmHg; Heart rate 89 bpm; Body temperature 36.5 C; Total cholesterol 240 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

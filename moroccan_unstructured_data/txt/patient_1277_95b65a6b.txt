@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: 95b65a6b-3619-40e5-a7f9-c43beb908581
+Sexe: Féminin, Né(e) le: 22 février 1998
+Âge: 27 ans
+Adresse: Avenue Al Massira 57, Casablanca
+
+Médecin: Dr. Lopes | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "95b65a6b-3619-40e5-a7f9-c43beb908581",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1998-02-22",
+  "birthdate_iso": "1998-02-22",
+  "gender": "F",
+  "address": "Avenue Al Massira 57, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2021)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/09/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 100/72 mmHg (Date: 10/11/2025)
+- Heart rate: 97 bpm (Date: 10/11/2025)
+- Body temperature: 38.0 C (Date: 10/11/2025)
+- Total cholesterol: 158 mg/dL (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 629 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 629 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 27 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 100/72 mmHg; Heart rate 97 bpm; Body temperature 38.0 C; Total cholesterol 158 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

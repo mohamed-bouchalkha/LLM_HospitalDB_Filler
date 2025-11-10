@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Bennani
+ID Patient: b89f74aa-1dd2-4f36-b164-f3c31b0ec2fb
+Sexe: Féminin, Né(e) le: 25 décembre 1937
+Âge: 87 ans
+Adresse: Boulevard Hassan II 168, Casablanca
+
+Médecin: Dr. Dupuy | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b89f74aa-1dd2-4f36-b164-f3c31b0ec2fb",
+  "first_name": "Aicha",
+  "last_name": "Bennani",
+  "full_name": "Aicha Bennani",
+  "birthdate": "1937-12-25",
+  "birthdate_iso": "1937-12-25",
+  "gender": "F",
+  "address": "Boulevard Hassan II 168, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 17/11/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/76 mmHg (Date: 10/07/2025)
+- Heart rate: 103 bpm (Date: 10/07/2025)
+- Body temperature: 37.1 C (Date: 10/07/2025)
+- Total cholesterol: 193 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juin 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 648 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 648 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 87 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 105/76 mmHg; Heart rate 103 bpm; Body temperature 37.1 C; Total cholesterol 193 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

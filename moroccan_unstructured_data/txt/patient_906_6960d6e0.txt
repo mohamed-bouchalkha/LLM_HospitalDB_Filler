@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hafsa Benjelloun
+ID Patient: 6960d6e0-1b75-436f-a5ea-6d1038bb1a0a
+Sexe: Féminin, Né(e) le: 30 avril 2015
+Âge: 10 ans
+Adresse: Place Marrakech 151, Rabat
+
+Médecin: Dr. Lebrun | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6960d6e0-1b75-436f-a5ea-6d1038bb1a0a",
+  "first_name": "Hafsa",
+  "last_name": "Benjelloun",
+  "full_name": "Hafsa Benjelloun",
+  "birthdate": "2015-04-30",
+  "birthdate_iso": "2015-04-30",
+  "gender": "F",
+  "address": "Place Marrakech 151, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 121/92 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 379 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 379 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 10 ans. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 121/92 mmHg; Heart rate 114 bpm; Body temperature 36.7 C. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

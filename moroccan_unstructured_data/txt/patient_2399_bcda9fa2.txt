@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: bcda9fa2-30d8-44b8-98ac-babfba4bcdf1
+Sexe: Féminin, Né(e) le: 8 décembre 1953
+Âge: 71 ans
+Adresse: Boulevard Al Massira 104, Casablanca
+
+Médecin: Dr. Grondin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "bcda9fa2-30d8-44b8-98ac-babfba4bcdf1",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1953-12-08",
+  "birthdate_iso": "1953-12-08",
+  "gender": "F",
+  "address": "Boulevard Al Massira 104, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2020)
+- Asthma (Diagnostiquée le: 10/04/2024)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/09/2025 au En cours] (Actif)
+- Salbutamol inhaler [Du 28/04/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 117/62 mmHg (Date: 10/03/2024)
+- Heart rate: 96 bpm (Date: 10/03/2024)
+- Body temperature: 36.9 C (Date: 10/03/2024)
+- Blood pressure: 90/67 mmHg (Date: 10/01/2024)
+- Heart rate: 73 bpm (Date: 10/01/2024)
+- Body temperature: 36.8 C (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 avril 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 822 MAD
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 666 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 488 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 71 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Asthma, Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Salbutamol 100 mcg inhaler, Salbutamol inhaler. Dernières mesures pertinentes: Blood pressure 117/62 mmHg; Heart rate 96 bpm; Body temperature 36.9 C; Blood pressure 90/67 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

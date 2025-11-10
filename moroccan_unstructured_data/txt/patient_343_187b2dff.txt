@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Sanaa Alami
+ID Patient: 187b2dff-d173-4278-9fdc-2839aee8ed7a
+Sexe: Féminin, Né(e) le: 13 mai 1943
+Âge: 82 ans
+Adresse: Boulevard Mohammed V 14, Rabat
+
+Médecin: Dr. Julien | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "187b2dff-d173-4278-9fdc-2839aee8ed7a",
+  "first_name": "Sanaa",
+  "last_name": "Alami",
+  "full_name": "Sanaa Alami",
+  "birthdate": "1943-05-13",
+  "birthdate_iso": "1943-05-13",
+  "gender": "F",
+  "address": "Boulevard Mohammed V 14, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2008)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 31/01/2008 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/99 mmHg (Date: 10/11/2025)
+- Heart rate: 62 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+- Blood pressure: 118/87 mmHg (Date: 10/11/2025)
+- Heart rate: 98 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+- Electrocardiogram (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 968 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 797 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 766 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 82 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 118/99 mmHg; Heart rate 62 bpm; Body temperature 37.1 C; Blood pressure 118/87 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

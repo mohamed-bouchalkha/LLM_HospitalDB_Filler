@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hanane Skalli
+ID Patient: 737d6e02-8623-4caa-9a2e-9e30c6afedf7
+Sexe: Féminin, Né(e) le: 22 février 1953
+Âge: 72 ans
+Adresse: Boulevard Fès 140, Rabat
+
+Médecin: Dr. Lebreton | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "737d6e02-8623-4caa-9a2e-9e30c6afedf7",
+  "first_name": "Hanane",
+  "last_name": "Skalli",
+  "full_name": "Hanane Skalli",
+  "birthdate": "1953-02-22",
+  "birthdate_iso": "1953-02-22",
+  "gender": "F",
+  "address": "Boulevard Fès 140, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2018)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 08/03/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/94 mmHg (Date: 10/11/2025)
+- Heart rate: 63 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 106/74 mmHg (Date: 10/11/2025)
+- Heart rate: 92 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2025)
+- Electrocardiogram (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 mai 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 430 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 980 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 363 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 773 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 72 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 118/94 mmHg; Heart rate 63 bpm; Body temperature 37.7 C; Blood pressure 106/74 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

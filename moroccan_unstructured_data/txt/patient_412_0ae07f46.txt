@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hamid Jabri
+ID Patient: 0ae07f46-c9b2-485b-b56f-fd5adfc2b8b8
+Sexe: Masculin, Né(e) le: 17 janvier 2018
+Âge: 7 ans
+Adresse: Boulevard Hassan II 105, Rabat
+
+Médecin: Dr. Ollivier | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0ae07f46-c9b2-485b-b56f-fd5adfc2b8b8",
+  "first_name": "Hamid",
+  "last_name": "Jabri",
+  "full_name": "Hamid Jabri",
+  "birthdate": "2018-01-17",
+  "birthdate_iso": "2018-01-17",
+  "gender": "M",
+  "address": "Boulevard Hassan II 105, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 121/66 mmHg (Date: 10/11/2025)
+- Heart rate: 64 bpm (Date: 10/11/2025)
+- Body temperature: 38.0 C (Date: 10/11/2025)
+- Blood pressure: 104/97 mmHg (Date: 10/11/2025)
+- Heart rate: 110 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 août 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 666 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 659 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 324 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 7 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 121/66 mmHg; Heart rate 64 bpm; Body temperature 38.0 C; Blood pressure 104/97 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

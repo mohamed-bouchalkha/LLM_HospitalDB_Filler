@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hamid Tazi
+ID Patient: baaa5366-39f7-4b3c-bdd8-bcad29dc90a1
+Sexe: Masculin, Né(e) le: 11 mai 1932
+Âge: 93 ans
+Adresse: Place Casablanca 136, Rabat
+
+Médecin: Dr. Boulay | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "baaa5366-39f7-4b3c-bdd8-bcad29dc90a1",
+  "first_name": "Hamid",
+  "last_name": "Tazi",
+  "full_name": "Hamid Tazi",
+  "birthdate": "1932-05-11",
+  "birthdate_iso": "1932-05-11",
+  "gender": "M",
+  "address": "Place Casablanca 136, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2006)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/12/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 101/96 mmHg (Date: 10/11/2025)
+- Heart rate: 99 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+- Blood pressure: 132/82 mmHg (Date: 10/11/2025)
+- Heart rate: 72 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2024)
+- Electrocardiogram (Effectuée le: 10 mai 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 avril 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 754 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 903 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 973 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 889 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 93 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 101/96 mmHg; Heart rate 99 bpm; Body temperature 36.9 C; Blood pressure 132/82 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

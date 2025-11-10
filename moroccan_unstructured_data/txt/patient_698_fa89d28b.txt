@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Omar El Fassi
+ID Patient: fa89d28b-ce6c-4165-8f38-3ec2815a3107
+Sexe: Masculin, Né(e) le: 16 février 1945
+Âge: 80 ans
+Adresse: Rue Al Wahda 38, Rabat
+
+Médecin: Dr. Weiss | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fa89d28b-ce6c-4165-8f38-3ec2815a3107",
+  "first_name": "Omar",
+  "last_name": "El Fassi",
+  "full_name": "Omar El Fassi",
+  "birthdate": "1945-02-16",
+  "birthdate_iso": "1945-02-16",
+  "gender": "M",
+  "address": "Rue Al Wahda 38, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 19/02/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 90/66 mmHg (Date: 10/11/2025)
+- Heart rate: 66 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+- Blood pressure: 119/65 mmHg (Date: 10/11/2025)
+- Heart rate: 63 bpm (Date: 10/11/2025)
+- Body temperature: 38.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+- Electrocardiogram (Effectuée le: 10 août 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juillet 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 682 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 1 078 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 760 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 80 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 90/66 mmHg; Heart rate 66 bpm; Body temperature 37.1 C; Blood pressure 119/65 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

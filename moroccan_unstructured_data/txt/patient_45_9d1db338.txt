@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Laila Saidi
+ID Patient: 9d1db338-05b6-4c8d-bbae-32bf0a21ba1b
+Sexe: Féminin, Né(e) le: 19 juin 1926
+Âge: 99 ans
+Adresse: Place Casablanca 92, Rabat
+
+Médecin: Dr. Dos Santos | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "9d1db338-05b6-4c8d-bbae-32bf0a21ba1b",
+  "first_name": "Laila",
+  "last_name": "Saidi",
+  "full_name": "Laila Saidi",
+  "birthdate": "1926-06-19",
+  "birthdate_iso": "1926-06-19",
+  "gender": "F",
+  "address": "Place Casablanca 92, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2009)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/01/2025 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/01/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/89 mmHg (Date: 10/12/2024)
+- Heart rate: 115 bpm (Date: 10/12/2024)
+- Body temperature: 36.8 C (Date: 10/12/2024)
+- Blood pressure: 107/90 mmHg (Date: 10/11/2025)
+- Heart rate: 97 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 décembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 361 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 652 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 635 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 649 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 99 ans. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 102/89 mmHg; Heart rate 115 bpm; Body temperature 36.8 C; Blood pressure 107/90 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

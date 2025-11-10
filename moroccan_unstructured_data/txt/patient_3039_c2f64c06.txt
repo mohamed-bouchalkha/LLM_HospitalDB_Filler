@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: c2f64c06-cd42-4319-ba99-b37306daaf95
+Sexe: Masculin, Né(e) le: 20 mars 1969
+Âge: 56 ans
+Adresse: Rue Mohammed V 194, Rabat
+
+Médecin: Dr. Giraud | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c2f64c06-cd42-4319-ba99-b37306daaf95",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1969-03-20",
+  "birthdate_iso": "1969-03-20",
+  "gender": "M",
+  "address": "Rue Mohammed V 194, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/09/2024)
+- Hypertension (Diagnostiquée le: 10/06/2021)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/08/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 02/07/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 133/88 mmHg (Date: 10/11/2024)
+- Heart rate: 99 bpm (Date: 10/11/2024)
+- Body temperature: 37.4 C (Date: 10/11/2024)
+- Glucose: 177 mg/dL (Date: 10/11/2024)
+- Hemoglobin A1c: 5.9 % (Date: 10/11/2024)
+- Total cholesterol: 224 mg/dL (Date: 10/11/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 795 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 795 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 56 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 133/88 mmHg; Heart rate 99 bpm; Body temperature 37.4 C; Glucose 177 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Iman Cherkaoui
+ID Patient: 2202e4a1-faaa-4ae2-8ea1-44700579610d
+Sexe: Féminin, Né(e) le: 14 juin 2013
+Âge: 12 ans
+Adresse: Rue Casablanca 80, Rabat
+
+Médecin: Dr. Payet | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2202e4a1-faaa-4ae2-8ea1-44700579610d",
+  "first_name": "Iman",
+  "last_name": "Cherkaoui",
+  "full_name": "Iman Cherkaoui",
+  "birthdate": "2013-06-14",
+  "birthdate_iso": "2013-06-14",
+  "gender": "F",
+  "address": "Rue Casablanca 80, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/72 mmHg (Date: 10/11/2025)
+- Heart rate: 97 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+- Blood pressure: 127/82 mmHg (Date: 10/11/2025)
+- Heart rate: 90 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 mars 2023)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 octobre 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 478 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 422 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 901 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 12 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 115/72 mmHg; Heart rate 97 bpm; Body temperature 37.9 C; Blood pressure 127/82 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

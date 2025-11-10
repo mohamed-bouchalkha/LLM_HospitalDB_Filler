@@ -1,0 +1,80 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zahra Lamrani
+ID Patient: 25a98c78-7d96-419d-afce-56a97ba1f299
+Sexe: Féminin, Né(e) le: 29 août 1954
+Âge: 71 ans
+Adresse: Rue Al Massira 39, Rabat
+
+Médecin: Dr. Guyot | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "25a98c78-7d96-419d-afce-56a97ba1f299",
+  "first_name": "Zahra",
+  "last_name": "Lamrani",
+  "full_name": "Zahra Lamrani",
+  "birthdate": "1954-08-29",
+  "birthdate_iso": "1954-08-29",
+  "gender": "F",
+  "address": "Rue Al Massira 39, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/08/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 92/87 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+- Blood pressure: 112/82 mmHg (Date: 10/11/2025)
+- Heart rate: 69 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2025)
+- Electrocardiogram (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Sulfa drugs (Identifiée le: 10/11/2020)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 633 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 665 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 793 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 262 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 71 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 92/87 mmHg; Heart rate 61 bpm; Body temperature 37.4 C; Blood pressure 112/82 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

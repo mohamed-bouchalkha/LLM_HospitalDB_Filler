@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: 11dd16fb-c88e-4d40-af18-2575d85676e2
+Sexe: Masculin, Né(e) le: 17 décembre 1927
+Âge: 97 ans
+Adresse: Rue Mohammed V 138, Casablanca
+
+Médecin: Dr. Letellier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "11dd16fb-c88e-4d40-af18-2575d85676e2",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1927-12-17",
+  "birthdate_iso": "1927-12-17",
+  "gender": "M",
+  "address": "Rue Mohammed V 138, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/06/2024 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/08/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 93/64 mmHg (Date: 10/02/2024)
+- Heart rate: 75 bpm (Date: 10/02/2024)
+- Body temperature: 36.7 C (Date: 10/02/2024)
+- Total cholesterol: 162 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juillet 2023)
+- Pneumococcal (elderly) (Administré le: 10 mai 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2019)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 792 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 792 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 97 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 93/64 mmHg; Heart rate 75 bpm; Body temperature 36.7 C; Total cholesterol 162 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: 349130a7-6343-46f4-b9a1-c450038b0af7
+Sexe: Féminin, Né(e) le: 26 mars 1990
+Âge: 35 ans
+Adresse: Place Al Wahda 147, Casablanca
+
+Médecin: Dr. Reynaud | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "349130a7-6343-46f4-b9a1-c450038b0af7",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "1990-03-26",
+  "birthdate_iso": "1990-03-26",
+  "gender": "F",
+  "address": "Place Al Wahda 147, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 31/07/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 137/60 mmHg (Date: 10/06/2024)
+- Heart rate: 118 bpm (Date: 10/06/2024)
+- Body temperature: 36.5 C (Date: 10/06/2024)
+- Total cholesterol: 239 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 677 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 677 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 35 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 137/60 mmHg; Heart rate 118 bpm; Body temperature 36.5 C; Total cholesterol 239 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

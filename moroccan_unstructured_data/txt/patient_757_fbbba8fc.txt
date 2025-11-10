@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hassan Chraibi
+ID Patient: fbbba8fc-3e49-4d17-b06e-ef6387c17fc0
+Sexe: Masculin, Né(e) le: 24 juin 1970
+Âge: 55 ans
+Adresse: Avenue Mohammed V 107, Rabat
+
+Médecin: Dr. Roux | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fbbba8fc-3e49-4d17-b06e-ef6387c17fc0",
+  "first_name": "Hassan",
+  "last_name": "Chraibi",
+  "full_name": "Hassan Chraibi",
+  "birthdate": "1970-06-24",
+  "birthdate_iso": "1970-06-24",
+  "gender": "M",
+  "address": "Avenue Mohammed V 107, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 04/07/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/70 mmHg (Date: 10/11/2025)
+- Heart rate: 91 bpm (Date: 10/11/2025)
+- Body temperature: 38.0 C (Date: 10/11/2025)
+- Blood pressure: 104/79 mmHg (Date: 10/11/2025)
+- Heart rate: 65 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 février 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 1 078 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 658 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 736 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 55 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 132/70 mmHg; Heart rate 91 bpm; Body temperature 38.0 C; Blood pressure 104/79 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

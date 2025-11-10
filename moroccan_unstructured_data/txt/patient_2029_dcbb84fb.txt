@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Bennani
+ID Patient: dcbb84fb-bf46-4cb1-b7f5-84a9c1e21609
+Sexe: Féminin, Né(e) le: 15 juillet 1972
+Âge: 53 ans
+Adresse: Boulevard Hassan II 25, Casablanca
+
+Médecin: Dr. Daniel | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "dcbb84fb-bf46-4cb1-b7f5-84a9c1e21609",
+  "first_name": "Fatima",
+  "last_name": "Bennani",
+  "full_name": "Fatima Bennani",
+  "birthdate": "1972-07-15",
+  "birthdate_iso": "1972-07-15",
+  "gender": "F",
+  "address": "Boulevard Hassan II 25, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2015)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 30/07/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 101/67 mmHg (Date: 10/09/2025)
+- Heart rate: 107 bpm (Date: 10/09/2025)
+- Body temperature: 36.6 C (Date: 10/09/2025)
+- Total cholesterol: 245 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2007)
+- Latex (Identifiée le: 10/11/2020)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 059 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 059 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 53 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 101/67 mmHg; Heart rate 107 bpm; Body temperature 36.6 C; Total cholesterol 245 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

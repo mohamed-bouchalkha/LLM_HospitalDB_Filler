@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Abdellah Skalli
+ID Patient: cc954d8e-0ae5-4821-8957-75a2af5c9cc1
+Sexe: Masculin, Né(e) le: 2 avril 1926
+Âge: 99 ans
+Adresse: Avenue Marrakech 78, Rabat
+
+Médecin: Dr. Laine | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "cc954d8e-0ae5-4821-8957-75a2af5c9cc1",
+  "first_name": "Abdellah",
+  "last_name": "Skalli",
+  "full_name": "Abdellah Skalli",
+  "birthdate": "1926-04-02",
+  "birthdate_iso": "1926-04-02",
+  "gender": "M",
+  "address": "Avenue Marrakech 78, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 17/01/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/90 mmHg (Date: 10/08/2024)
+- Heart rate: 86 bpm (Date: 10/08/2024)
+- Body temperature: 37.0 C (Date: 10/08/2024)
+- Blood pressure: 105/94 mmHg (Date: 10/11/2025)
+- Heart rate: 115 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 juin 2023)
+- Pneumococcal (elderly) (Administré le: 10 octobre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 714 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 634 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 856 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 205 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 99 ans. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 134/90 mmHg; Heart rate 86 bpm; Body temperature 37.0 C; Blood pressure 105/94 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

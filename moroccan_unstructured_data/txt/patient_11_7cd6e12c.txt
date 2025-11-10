@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yassin Chraibi
+ID Patient: 7cd6e12c-d429-4f84-bd6d-13a7577e5505
+Sexe: Masculin, Né(e) le: 6 août 1972
+Âge: 53 ans
+Adresse: Boulevard Casablanca 17, Rabat
+
+Médecin: Dr. Merle | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "7cd6e12c-d429-4f84-bd6d-13a7577e5505",
+  "first_name": "Yassin",
+  "last_name": "Chraibi",
+  "full_name": "Yassin Chraibi",
+  "birthdate": "1972-08-06",
+  "birthdate_iso": "1972-08-06",
+  "gender": "M",
+  "address": "Boulevard Casablanca 17, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 14/04/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 117/70 mmHg (Date: 10/05/2025)
+- Heart rate: 90 bpm (Date: 10/05/2025)
+- Body temperature: 37.3 C (Date: 10/05/2025)
+- Blood pressure: 131/61 mmHg (Date: 10/11/2025)
+- Heart rate: 91 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 548 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 435 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 705 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 595 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 53 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 117/70 mmHg; Heart rate 90 bpm; Body temperature 37.3 C; Blood pressure 131/61 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,68 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: 929f89f5-06f7-4167-b33a-4b23c1878be2
+Sexe: Masculin, Né(e) le: 7 décembre 2021
+Âge: 3 ans
+Adresse: Place Mohammed V 48, Casablanca
+
+Médecin: Dr. Lopez | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "929f89f5-06f7-4167-b33a-4b23c1878be2",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "2021-12-07",
+  "birthdate_iso": "2021-12-07",
+  "gender": "M",
+  "address": "Place Mohammed V 48, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Asthma (Diagnostiquée le: 10/04/2023)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/10/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/84 mmHg (Date: 10/10/2024)
+- Heart rate: 70 bpm (Date: 10/10/2024)
+- Body temperature: 36.9 C (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 999 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 999 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 3 ans. Antécédents: Asthma. Sommeil globalement correct, appétit conservé. Traitements en cours: Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 128/84 mmHg; Heart rate 70 bpm; Body temperature 36.9 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

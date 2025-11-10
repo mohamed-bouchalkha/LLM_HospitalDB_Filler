@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alami
+ID Patient: fea20394-0d80-48ab-8940-3cd9615c6f63
+Sexe: Masculin, Né(e) le: 17 avril 1942
+Âge: 83 ans
+Adresse: Place Marrakech 92, Rabat
+
+Médecin: Dr. Martins | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fea20394-0d80-48ab-8940-3cd9615c6f63",
+  "first_name": "Mohamed",
+  "last_name": "Alami",
+  "full_name": "Mohamed Alami",
+  "birthdate": "1942-04-17",
+  "birthdate_iso": "1942-04-17",
+  "gender": "M",
+  "address": "Place Marrakech 92, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2014)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 05/10/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 137/76 mmHg (Date: 10/10/2024)
+- Heart rate: 61 bpm (Date: 10/10/2024)
+- Body temperature: 37.6 C (Date: 10/10/2024)
+- Total cholesterol: 212 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 avril 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 034 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 034 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 83 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 137/76 mmHg; Heart rate 61 bpm; Body temperature 37.6 C; Total cholesterol 212 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

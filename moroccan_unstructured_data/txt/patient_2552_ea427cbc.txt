@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Bennani
+ID Patient: ea427cbc-4d3f-4b1f-903d-086921df1862
+Sexe: Féminin, Né(e) le: 31 mars 1931
+Âge: 94 ans
+Adresse: Boulevard Mohammed V 59, Casablanca
+
+Médecin: Dr. Didier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ea427cbc-4d3f-4b1f-903d-086921df1862",
+  "first_name": "Fatima",
+  "last_name": "Bennani",
+  "full_name": "Fatima Bennani",
+  "birthdate": "1931-03-31",
+  "birthdate_iso": "1931-03-31",
+  "gender": "F",
+  "address": "Boulevard Mohammed V 59, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/09/2025)
+- Hypertension (Diagnostiquée le: 10/09/2013)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 14/09/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 20/09/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 107/60 mmHg (Date: 10/01/2025)
+- Heart rate: 68 bpm (Date: 10/01/2025)
+- Body temperature: 36.6 C (Date: 10/01/2025)
+- Glucose: 119 mg/dL (Date: 10/01/2025)
+- Hemoglobin A1c: 6.0 % (Date: 10/01/2025)
+- Total cholesterol: 204 mg/dL (Date: 10/01/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 901 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 901 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 94 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 107/60 mmHg; Heart rate 68 bpm; Body temperature 36.6 C; Glucose 119 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

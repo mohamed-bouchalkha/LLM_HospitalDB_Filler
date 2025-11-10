@@ -1,0 +1,82 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Sara Berrada
+ID Patient: f876e5c1-a389-4779-aaa8-ec6bdea4e9be
+Sexe: Féminin, Né(e) le: 23 octobre 1965
+Âge: 60 ans
+Adresse: Rue Al Wahda 2, Rabat
+
+Médecin: Dr. Vasseur | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f876e5c1-a389-4779-aaa8-ec6bdea4e9be",
+  "first_name": "Sara",
+  "last_name": "Berrada",
+  "full_name": "Sara Berrada",
+  "birthdate": "1965-10-23",
+  "birthdate_iso": "1965-10-23",
+  "gender": "F",
+  "address": "Rue Al Wahda 2, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/12/2023)
+- Hypertension (Diagnostiquée le: 10/07/2011)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 08/01/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 22/07/2011 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 129/67 mmHg (Date: 10/11/2024)
+- Heart rate: 74 bpm (Date: 10/11/2024)
+- Body temperature: 36.7 C (Date: 10/11/2024)
+- Blood pressure: 135/62 mmHg (Date: 10/11/2025)
+- Heart rate: 92 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 mars 2025)
+- Hemoglobin A1c test (Effectuée le: 10 octobre 2025)
+- Blood pressure measurement (Effectuée le: 10 janvier 2024)
+- Electrocardiogram (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2025, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 418 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 1 108 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 741 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 924 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 60 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 129/67 mmHg; Heart rate 74 bpm; Body temperature 36.7 C; Blood pressure 135/62 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: 81e3d8e3-e186-4f8c-8a0a-a99d8cbfebcf
+Sexe: Féminin, Né(e) le: 2 février 1967
+Âge: 58 ans
+Adresse: Boulevard Casablanca 63, Rabat
+
+Médecin: Dr. Fernandes | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "81e3d8e3-e186-4f8c-8a0a-a99d8cbfebcf",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1967-02-02",
+  "birthdate_iso": "1967-02-02",
+  "gender": "F",
+  "address": "Boulevard Casablanca 63, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/11/2024)
+- Hypertension (Diagnostiquée le: 10/09/2022)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 09/12/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 11/09/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 92/94 mmHg (Date: 10/07/2025)
+- Heart rate: 116 bpm (Date: 10/07/2025)
+- Body temperature: 37.2 C (Date: 10/07/2025)
+- Glucose: 79 mg/dL (Date: 10/07/2025)
+- Hemoglobin A1c: 7.1 % (Date: 10/07/2025)
+- Total cholesterol: 154 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2025, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 894 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 894 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 58 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 92/94 mmHg; Heart rate 116 bpm; Body temperature 37.2 C; Glucose 79 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

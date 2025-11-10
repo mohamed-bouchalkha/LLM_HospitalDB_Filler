@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alami
+ID Patient: 1c566659-7cd1-4f4d-aaca-7471b39d9abf
+Sexe: Masculin, Né(e) le: 25 décembre 1955
+Âge: 69 ans
+Adresse: Boulevard Al Wahda 149, Casablanca
+
+Médecin: Dr. Peron | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1c566659-7cd1-4f4d-aaca-7471b39d9abf",
+  "first_name": "Mohamed",
+  "last_name": "Alami",
+  "full_name": "Mohamed Alami",
+  "birthdate": "1955-12-25",
+  "birthdate_iso": "1955-12-25",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 149, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2018)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/09/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 107/72 mmHg (Date: 10/08/2025)
+- Heart rate: 61 bpm (Date: 10/08/2025)
+- Body temperature: 36.9 C (Date: 10/08/2025)
+- Total cholesterol: 216 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 672 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 672 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 69 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 107/72 mmHg; Heart rate 61 bpm; Body temperature 36.9 C; Total cholesterol 216 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

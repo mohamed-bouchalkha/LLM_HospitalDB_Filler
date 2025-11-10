@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Saadia Laraki
+ID Patient: ca995412-7cbb-401a-97b1-fb6d3324487b
+Sexe: Féminin, Né(e) le: 5 février 1996
+Âge: 29 ans
+Adresse: Rue Fès 39, Rabat
+
+Médecin: Dr. Baron | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ca995412-7cbb-401a-97b1-fb6d3324487b",
+  "first_name": "Saadia",
+  "last_name": "Laraki",
+  "full_name": "Saadia Laraki",
+  "birthdate": "1996-02-05",
+  "birthdate_iso": "1996-02-05",
+  "gender": "F",
+  "address": "Rue Fès 39, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 11/01/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 127/84 mmHg (Date: 10/07/2025)
+- Heart rate: 76 bpm (Date: 10/07/2025)
+- Body temperature: 37.6 C (Date: 10/07/2025)
+- Blood pressure: 123/77 mmHg (Date: 10/11/2025)
+- Heart rate: 102 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 591 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 1 057 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 648 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 29 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 127/84 mmHg; Heart rate 76 bpm; Body temperature 37.6 C; Blood pressure 123/77 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

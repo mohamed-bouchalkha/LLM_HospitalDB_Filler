@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: 53579979-176f-4ab5-ae41-9d81adbced13
+Sexe: Féminin, Né(e) le: 22 août 1937
+Âge: 88 ans
+Adresse: Boulevard Hassan II 3, Casablanca
+
+Médecin: Dr. Bailly | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "53579979-176f-4ab5-ae41-9d81adbced13",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1937-08-22",
+  "birthdate_iso": "1937-08-22",
+  "gender": "F",
+  "address": "Boulevard Hassan II 3, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 04/10/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/67 mmHg (Date: 10/06/2024)
+- Heart rate: 67 bpm (Date: 10/06/2024)
+- Body temperature: 37.3 C (Date: 10/06/2024)
+- Total cholesterol: 242 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2022)
+- Pneumococcal (Administré le: 10 décembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 342 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 342 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 88 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 134/67 mmHg; Heart rate 67 bpm; Body temperature 37.3 C; Total cholesterol 242 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

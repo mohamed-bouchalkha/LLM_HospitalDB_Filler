@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: fa4179c7-cfe7-46b2-b821-d5630ac0394e
+Sexe: Masculin, Né(e) le: 8 juin 1982
+Âge: 43 ans
+Adresse: Boulevard Al Massira 128, Casablanca
+
+Médecin: Dr. Fernandez | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fa4179c7-cfe7-46b2-b821-d5630ac0394e",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1982-06-08",
+  "birthdate_iso": "1982-06-08",
+  "gender": "M",
+  "address": "Boulevard Al Massira 128, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/04/2024)
+- Hypertension (Diagnostiquée le: 10/09/2022)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 13/04/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 10/09/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 133/75 mmHg (Date: 10/07/2024)
+- Heart rate: 65 bpm (Date: 10/07/2024)
+- Body temperature: 37.8 C (Date: 10/07/2024)
+- Glucose: 170 mg/dL (Date: 10/07/2024)
+- Hemoglobin A1c: 6.5 % (Date: 10/07/2024)
+- Total cholesterol: 222 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 novembre 2023)
+- Pneumococcal (Administré le: 10 juillet 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Sulfa drugs (Identifiée le: 10/11/2015)
+- Latex (Identifiée le: 10/11/2017)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 174 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 174 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 43 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 133/75 mmHg; Heart rate 65 bpm; Body temperature 37.8 C; Glucose 170 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,80 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Omar Cherkaoui
+ID Patient: 2e1c4115-a8c8-436f-8d07-b40bbecef1ed
+Sexe: Masculin, Né(e) le: 18 décembre 1946
+Âge: 78 ans
+Adresse: Rue Mohammed V 47, Rabat
+
+Médecin: Dr. Vallet | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2e1c4115-a8c8-436f-8d07-b40bbecef1ed",
+  "first_name": "Omar",
+  "last_name": "Cherkaoui",
+  "full_name": "Omar Cherkaoui",
+  "birthdate": "1946-12-18",
+  "birthdate_iso": "1946-12-18",
+  "gender": "M",
+  "address": "Rue Mohammed V 47, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/10/2025)
+- Hypertension (Diagnostiquée le: 10/11/2009)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 12/10/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 07/12/2009 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 112/81 mmHg (Date: 10/11/2025)
+- Heart rate: 105 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+- Blood pressure: 132/87 mmHg (Date: 10/11/2025)
+- Heart rate: 111 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 février 2025)
+- Blood pressure measurement (Effectuée le: 10 juillet 2024)
+- Electrocardiogram (Effectuée le: 10 juin 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 octobre 2022)
+- Pneumococcal (elderly) (Administré le: 10 mars 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 728 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 767 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 1 453 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 947 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 78 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 112/81 mmHg; Heart rate 105 bpm; Body temperature 36.8 C; Blood pressure 132/87 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

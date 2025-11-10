@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Said Mansouri
+ID Patient: c52131bb-0d7b-4880-873e-82fe2ec40b7a
+Sexe: Masculin, Né(e) le: 16 juillet 1992
+Âge: 33 ans
+Adresse: Place Al Massira 13, Rabat
+
+Médecin: Dr. Bonneau | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c52131bb-0d7b-4880-873e-82fe2ec40b7a",
+  "first_name": "Said",
+  "last_name": "Mansouri",
+  "full_name": "Said Mansouri",
+  "birthdate": "1992-07-16",
+  "birthdate_iso": "1992-07-16",
+  "gender": "M",
+  "address": "Place Al Massira 13, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 01/04/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/98 mmHg (Date: 10/11/2025)
+- Heart rate: 110 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+- Blood pressure: 120/79 mmHg (Date: 10/11/2025)
+- Heart rate: 109 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 797 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 919 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 749 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 465 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 33 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 103/98 mmHg; Heart rate 110 bpm; Body temperature 36.6 C; Blood pressure 120/79 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

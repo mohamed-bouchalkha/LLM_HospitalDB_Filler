@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: 20e6f881-9964-48c3-94c0-297114d05598
+Sexe: Masculin, Né(e) le: 16 octobre 1935
+Âge: 90 ans
+Adresse: Place Al Massira 116, Rabat
+
+Médecin: Dr. Lacombe | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "20e6f881-9964-48c3-94c0-297114d05598",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1935-10-16",
+  "birthdate_iso": "1935-10-16",
+  "gender": "M",
+  "address": "Place Al Massira 116, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 24/11/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 119/60 mmHg (Date: 10/03/2024)
+- Heart rate: 94 bpm (Date: 10/03/2024)
+- Body temperature: 37.6 C (Date: 10/03/2024)
+- Total cholesterol: 196 mg/dL (Date: 10/03/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 626 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 626 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 90 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 119/60 mmHg; Heart rate 94 bpm; Body temperature 37.6 C; Total cholesterol 196 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

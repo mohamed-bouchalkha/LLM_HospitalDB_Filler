@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: 53082f69-b6d8-4887-8dc2-da2ff24c425c
+Sexe: Féminin, Né(e) le: 11 février 1954
+Âge: 71 ans
+Adresse: Place Mohammed V 185, Casablanca
+
+Médecin: Dr. Baudry | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "53082f69-b6d8-4887-8dc2-da2ff24c425c",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1954-02-11",
+  "birthdate_iso": "1954-02-11",
+  "gender": "F",
+  "address": "Place Mohammed V 185, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2017)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 01/06/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/67 mmHg (Date: 10/06/2024)
+- Heart rate: 76 bpm (Date: 10/06/2024)
+- Body temperature: 37.8 C (Date: 10/06/2024)
+- Total cholesterol: 248 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 446 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 446 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 71 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 128/67 mmHg; Heart rate 76 bpm; Body temperature 37.8 C; Total cholesterol 248 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

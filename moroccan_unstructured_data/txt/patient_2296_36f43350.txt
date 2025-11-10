@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: 36f43350-b610-4782-b115-c021a61969ba
+Sexe: Féminin, Né(e) le: 31 mai 1963
+Âge: 62 ans
+Adresse: Avenue Al Wahda 111, Casablanca
+
+Médecin: Dr. Lagarde | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "36f43350-b610-4782-b115-c021a61969ba",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1963-05-31",
+  "birthdate_iso": "1963-05-31",
+  "gender": "F",
+  "address": "Avenue Al Wahda 111, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/08/2025)
+- Hypertension (Diagnostiquée le: 10/04/2016)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 08/09/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 24/04/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/60 mmHg (Date: 10/03/2024)
+- Heart rate: 105 bpm (Date: 10/03/2024)
+- Body temperature: 36.9 C (Date: 10/03/2024)
+- Glucose: 152 mg/dL (Date: 10/03/2024)
+- Hemoglobin A1c: 5.8 % (Date: 10/03/2024)
+- Total cholesterol: 181 mg/dL (Date: 10/03/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 décembre 2020)
+- Pneumococcal (Administré le: 10 décembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 81745001
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Peanuts (Identifiée le: 10/11/2017)
+- Eggs (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 293 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 293 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 62 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 115/60 mmHg; Heart rate 105 bpm; Body temperature 36.9 C; Glucose 152 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

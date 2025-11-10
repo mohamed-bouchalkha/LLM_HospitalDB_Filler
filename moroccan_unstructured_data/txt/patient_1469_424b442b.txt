@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: 424b442b-92bf-4294-b7bc-9b203b7589b5
+Sexe: Féminin, Né(e) le: 27 janvier 1933
+Âge: 92 ans
+Adresse: Rue Hassan II 182, Casablanca
+
+Médecin: Dr. Clerc | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "424b442b-92bf-4294-b7bc-9b203b7589b5",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1933-01-27",
+  "birthdate_iso": "1933-01-27",
+  "gender": "F",
+  "address": "Rue Hassan II 182, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/10/2025)
+- Hypertension (Diagnostiquée le: 10/01/2018)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 24/10/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 22/01/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 116/71 mmHg (Date: 10/09/2025)
+- Heart rate: 93 bpm (Date: 10/09/2025)
+- Body temperature: 37.9 C (Date: 10/09/2025)
+- Glucose: 90 mg/dL (Date: 10/09/2025)
+- Hemoglobin A1c: 7.1 % (Date: 10/09/2025)
+- Total cholesterol: 157 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2021)
+- Pneumococcal (elderly) (Administré le: 10 janvier 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 753 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 753 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 92 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 116/71 mmHg; Heart rate 93 bpm; Body temperature 37.9 C; Glucose 90 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

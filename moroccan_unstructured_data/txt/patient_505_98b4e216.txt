@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Karim Rhanem
+ID Patient: 98b4e216-1a33-45a2-9d2a-e9dfbe9cf315
+Sexe: Masculin, Né(e) le: 3 juin 1995
+Âge: 30 ans
+Adresse: Avenue Fès 111, Rabat
+
+Médecin: Dr. Mahe | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "98b4e216-1a33-45a2-9d2a-e9dfbe9cf315",
+  "first_name": "Karim",
+  "last_name": "Rhanem",
+  "full_name": "Karim Rhanem",
+  "birthdate": "1995-06-03",
+  "birthdate_iso": "1995-06-03",
+  "gender": "M",
+  "address": "Avenue Fès 111, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 11/05/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/86 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+- Blood pressure: 130/62 mmHg (Date: 10/11/2025)
+- Heart rate: 78 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2025)
+- Electrocardiogram (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 novembre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Latex (Identifiée le: 10/11/2011)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 906 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 1 263 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 169 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 30 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 130/86 mmHg; Heart rate 61 bpm; Body temperature 37.5 C; Blood pressure 130/62 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

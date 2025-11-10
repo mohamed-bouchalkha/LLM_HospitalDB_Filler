@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zakaria Berrada
+ID Patient: 1359d9ec-721e-4dc0-8ba0-1f014df45f6a
+Sexe: Masculin, Né(e) le: 10 février 2006
+Âge: 19 ans
+Adresse: Boulevard Hassan II 149, Rabat
+
+Médecin: Dr. Rolland | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1359d9ec-721e-4dc0-8ba0-1f014df45f6a",
+  "first_name": "Zakaria",
+  "last_name": "Berrada",
+  "full_name": "Zakaria Berrada",
+  "birthdate": "2006-02-10",
+  "birthdate_iso": "2006-02-10",
+  "gender": "M",
+  "address": "Boulevard Hassan II 149, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/06/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 129/80 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+- Total cholesterol: 162 mg/dL (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2024)
+- Electrocardiogram (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juillet 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 1 520 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 520 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 19 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 129/80 mmHg; Heart rate 89 bpm; Body temperature 37.9 C; Total cholesterol 162 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

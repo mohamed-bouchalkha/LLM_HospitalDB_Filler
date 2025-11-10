@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Laila Skalli
+ID Patient: 88217bb3-0d6c-4787-9f12-2a4585093190
+Sexe: Féminin, Né(e) le: 24 août 1946
+Âge: 79 ans
+Adresse: Boulevard Mohammed V 46, Rabat
+
+Médecin: Dr. Pasquier | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "88217bb3-0d6c-4787-9f12-2a4585093190",
+  "first_name": "Laila",
+  "last_name": "Skalli",
+  "full_name": "Laila Skalli",
+  "birthdate": "1946-08-24",
+  "birthdate_iso": "1946-08-24",
+  "gender": "F",
+  "address": "Boulevard Mohammed V 46, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 31/03/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/74 mmHg (Date: 10/11/2025)
+- Heart rate: 100 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+- Blood pressure: 101/63 mmHg (Date: 10/11/2025)
+- Heart rate: 62 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 1 028 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 910 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 938 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 79 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 103/74 mmHg; Heart rate 100 bpm; Body temperature 36.9 C; Blood pressure 101/63 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

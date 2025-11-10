@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: 58a724f2-f22b-4e12-99b1-48ac2b7f1c8f
+Sexe: Masculin, Né(e) le: 3 février 1928
+Âge: 97 ans
+Adresse: Avenue Al Massira 198, Casablanca
+
+Médecin: Dr. Maillot | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "58a724f2-f22b-4e12-99b1-48ac2b7f1c8f",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1928-02-03",
+  "birthdate_iso": "1928-02-03",
+  "gender": "M",
+  "address": "Avenue Al Massira 198, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/10/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/95 mmHg (Date: 10/08/2025)
+- Heart rate: 113 bpm (Date: 10/08/2025)
+- Body temperature: 36.6 C (Date: 10/08/2025)
+- Total cholesterol: 165 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 086 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 086 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 97 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 98/95 mmHg; Heart rate 113 bpm; Body temperature 36.6 C; Total cholesterol 165 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

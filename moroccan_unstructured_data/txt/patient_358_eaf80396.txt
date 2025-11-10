@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Skalli
+ID Patient: eaf80396-4291-4537-bc3e-476b3a70cd01
+Sexe: Masculin, Né(e) le: 22 mai 1954
+Âge: 71 ans
+Adresse: Rue Fès 66, Rabat
+
+Médecin: Dr. Gillet | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "eaf80396-4291-4537-bc3e-476b3a70cd01",
+  "first_name": "Mohamed",
+  "last_name": "Skalli",
+  "full_name": "Mohamed Skalli",
+  "birthdate": "1954-05-22",
+  "birthdate_iso": "1954-05-22",
+  "gender": "M",
+  "address": "Rue Fès 66, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2011)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 25/10/2011 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/95 mmHg (Date: 10/11/2025)
+- Heart rate: 98 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+- Blood pressure: 119/77 mmHg (Date: 10/11/2025)
+- Heart rate: 116 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 mai 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 1 110 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 890 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 000 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 71 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 103/95 mmHg; Heart rate 98 bpm; Body temperature 37.4 C; Blood pressure 119/77 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

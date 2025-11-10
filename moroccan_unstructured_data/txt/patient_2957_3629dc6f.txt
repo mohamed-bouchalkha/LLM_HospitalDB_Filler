@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: 3629dc6f-c44f-429e-a2f2-1838e03ab6af
+Sexe: Féminin, Né(e) le: 1 mars 1939
+Âge: 86 ans
+Adresse: Avenue Casablanca 96, Casablanca
+
+Médecin: Dr. Dubois | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3629dc6f-c44f-429e-a2f2-1838e03ab6af",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1939-03-01",
+  "birthdate_iso": "1939-03-01",
+  "gender": "F",
+  "address": "Avenue Casablanca 96, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2020)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 01/07/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/63 mmHg (Date: 10/03/2024)
+- Heart rate: 101 bpm (Date: 10/03/2024)
+- Body temperature: 37.2 C (Date: 10/03/2024)
+- Total cholesterol: 221 mg/dL (Date: 10/03/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 décembre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 508 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 508 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 86 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 91/63 mmHg; Heart rate 101 bpm; Body temperature 37.2 C; Total cholesterol 221 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

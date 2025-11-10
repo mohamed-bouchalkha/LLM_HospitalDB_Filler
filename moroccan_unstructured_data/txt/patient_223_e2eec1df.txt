@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Halima El Khattabi
+ID Patient: e2eec1df-a52d-4669-a227-ab2c8044a544
+Sexe: Féminin, Né(e) le: 12 décembre 1962
+Âge: 62 ans
+Adresse: Rue Casablanca 190, Rabat
+
+Médecin: Dr. Berger | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e2eec1df-a52d-4669-a227-ab2c8044a544",
+  "first_name": "Halima",
+  "last_name": "El Khattabi",
+  "full_name": "Halima El Khattabi",
+  "birthdate": "1962-12-12",
+  "birthdate_iso": "1962-12-12",
+  "gender": "F",
+  "address": "Rue Casablanca 190, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2016)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 08/12/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/67 mmHg (Date: 10/11/2025)
+- Heart rate: 81 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+- Blood pressure: 120/75 mmHg (Date: 10/11/2025)
+- Heart rate: 92 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 858 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 921 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 479 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 258 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 62 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 122/67 mmHg; Heart rate 81 bpm; Body temperature 37.9 C; Blood pressure 120/75 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

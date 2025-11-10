@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ali Ouazzani
+ID Patient: 2873ab9d-5b91-4d05-b713-079c4794e78e
+Sexe: Masculin, Né(e) le: 25 mars 1956
+Âge: 69 ans
+Adresse: Rue Fès 110, Rabat
+
+Médecin: Dr. Gillet | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2873ab9d-5b91-4d05-b713-079c4794e78e",
+  "first_name": "Ali",
+  "last_name": "Ouazzani",
+  "full_name": "Ali Ouazzani",
+  "birthdate": "1956-03-25",
+  "birthdate_iso": "1956-03-25",
+  "gender": "M",
+  "address": "Rue Fès 110, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2011)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 22/09/2011 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/98 mmHg (Date: 10/12/2023)
+- Heart rate: 105 bpm (Date: 10/12/2023)
+- Body temperature: 36.7 C (Date: 10/12/2023)
+- Blood pressure: 112/63 mmHg (Date: 10/11/2025)
+- Heart rate: 70 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2024)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 février 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 734 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 989 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 735 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 791 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 69 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 115/98 mmHg; Heart rate 105 bpm; Body temperature 36.7 C; Blood pressure 112/63 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

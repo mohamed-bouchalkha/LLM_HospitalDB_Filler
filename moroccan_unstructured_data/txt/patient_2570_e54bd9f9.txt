@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alami
+ID Patient: e54bd9f9-e0e4-49fd-af9b-ac0d76cdf022
+Sexe: Masculin, Né(e) le: 18 août 1929
+Âge: 96 ans
+Adresse: Avenue Marrakech 49, Casablanca
+
+Médecin: Dr. Vincent | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e54bd9f9-e0e4-49fd-af9b-ac0d76cdf022",
+  "first_name": "Mohamed",
+  "last_name": "Alami",
+  "full_name": "Mohamed Alami",
+  "birthdate": "1929-08-18",
+  "birthdate_iso": "1929-08-18",
+  "gender": "M",
+  "address": "Avenue Marrakech 49, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 27/09/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 125/69 mmHg (Date: 10/10/2024)
+- Heart rate: 98 bpm (Date: 10/10/2024)
+- Body temperature: 36.7 C (Date: 10/10/2024)
+- Total cholesterol: 162 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2007)
+- Aspirin (Identifiée le: 10/11/2022)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 372 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 372 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 96 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 125/69 mmHg; Heart rate 98 bpm; Body temperature 36.7 C; Total cholesterol 162 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

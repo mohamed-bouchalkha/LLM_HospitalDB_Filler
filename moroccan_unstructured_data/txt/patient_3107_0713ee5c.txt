@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: 0713ee5c-b2e8-4aec-8140-b58eb5f52463
+Sexe: Féminin, Né(e) le: 8 avril 1928
+Âge: 97 ans
+Adresse: Rue Al Wahda 174, Casablanca
+
+Médecin: Dr. Rivière | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0713ee5c-b2e8-4aec-8140-b58eb5f52463",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1928-04-08",
+  "birthdate_iso": "1928-04-08",
+  "gender": "F",
+  "address": "Rue Al Wahda 174, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2017)
+- Asthma (Diagnostiquée le: 10/05/2007)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/10/2025 au En cours] (Actif)
+- Salbutamol 100 mcg inhaler [Du 10/03/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/64 mmHg (Date: 10/10/2025)
+- Heart rate: 102 bpm (Date: 10/10/2025)
+- Body temperature: 37.5 C (Date: 10/10/2025)
+- Blood pressure: 108/89 mmHg (Date: 10/02/2024)
+- Heart rate: 87 bpm (Date: 10/02/2024)
+- Body temperature: 38.0 C (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2023)
+- Pneumococcal (elderly) (Administré le: 10 avril 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+- Imagerie du 10 octobre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 832 MAD
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 170 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 002 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 97 ans. Antécédents: Asthma, Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg, Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 124/64 mmHg; Heart rate 102 bpm; Body temperature 37.5 C; Blood pressure 108/89 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

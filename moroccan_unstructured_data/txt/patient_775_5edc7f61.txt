@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Anas Himmich
+ID Patient: 5edc7f61-3b79-4640-9119-d470bcee34fd
+Sexe: Masculin, Né(e) le: 10 mars 1950
+Âge: 75 ans
+Adresse: Avenue Al Wahda 24, Rabat
+
+Médecin: Dr. Tessier | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5edc7f61-3b79-4640-9119-d470bcee34fd",
+  "first_name": "Anas",
+  "last_name": "Himmich",
+  "full_name": "Anas Himmich",
+  "birthdate": "1950-03-10",
+  "birthdate_iso": "1950-03-10",
+  "gender": "M",
+  "address": "Avenue Al Wahda 24, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/07/2025)
+- Hypertension (Diagnostiquée le: 10/09/2013)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 29/07/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 02/10/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 138/96 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+- Blood pressure: 123/88 mmHg (Date: 10/11/2025)
+- Heart rate: 75 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 mars 2025)
+- Blood pressure measurement (Effectuée le: 10 mars 2024)
+- Electrocardiogram (Effectuée le: 10 avril 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 656 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 1 296 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 336 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 288 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 75 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 138/96 mmHg; Heart rate 61 bpm; Body temperature 37.0 C; Blood pressure 123/88 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

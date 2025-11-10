@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Rachida Chraibi
+ID Patient: 1c0ddcd4-4b6a-4b07-86d9-c55410f43b5c
+Sexe: Féminin, Né(e) le: 10 février 1995
+Âge: 30 ans
+Adresse: Boulevard Casablanca 57, Rabat
+
+Médecin: Dr. Charles | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1c0ddcd4-4b6a-4b07-86d9-c55410f43b5c",
+  "first_name": "Rachida",
+  "last_name": "Chraibi",
+  "full_name": "Rachida Chraibi",
+  "birthdate": "1995-02-10",
+  "birthdate_iso": "1995-02-10",
+  "gender": "F",
+  "address": "Boulevard Casablanca 57, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 12/09/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 101/61 mmHg (Date: 10/09/2024)
+- Heart rate: 115 bpm (Date: 10/09/2024)
+- Body temperature: 37.2 C (Date: 10/09/2024)
+- Blood pressure: 102/62 mmHg (Date: 10/11/2025)
+- Heart rate: 62 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2025)
+- Electrocardiogram (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2024 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 680 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 582 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 502 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 345 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 30 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 101/61 mmHg; Heart rate 115 bpm; Body temperature 37.2 C; Blood pressure 102/62 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

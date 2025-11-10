@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ali Skalli
+ID Patient: 8cc3121c-7b9d-446a-bc7d-361813e4197e
+Sexe: Masculin, Né(e) le: 8 juillet 1966
+Âge: 59 ans
+Adresse: Boulevard Casablanca 122, Rabat
+
+Médecin: Dr. Monnier | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8cc3121c-7b9d-446a-bc7d-361813e4197e",
+  "first_name": "Ali",
+  "last_name": "Skalli",
+  "full_name": "Ali Skalli",
+  "birthdate": "1966-07-08",
+  "birthdate_iso": "1966-07-08",
+  "gender": "M",
+  "address": "Boulevard Casablanca 122, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/01/2024)
+- Hypertension (Diagnostiquée le: 10/06/2016)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 31/01/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 29/06/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 96/63 mmHg (Date: 10/02/2025)
+- Heart rate: 86 bpm (Date: 10/02/2025)
+- Body temperature: 37.1 C (Date: 10/02/2025)
+- Blood pressure: 135/75 mmHg (Date: 10/11/2025)
+- Heart rate: 79 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 décembre 2024)
+- Hemoglobin A1c test (Effectuée le: 10 avril 2024)
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 659 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 697 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 496 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 682 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 59 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 96/63 mmHg; Heart rate 86 bpm; Body temperature 37.1 C; Blood pressure 135/75 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

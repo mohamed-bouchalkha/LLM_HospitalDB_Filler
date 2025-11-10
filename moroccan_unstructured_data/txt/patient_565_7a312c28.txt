@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Salma Saidi
+ID Patient: 7a312c28-9054-43b3-96d1-044e3492937b
+Sexe: Féminin, Né(e) le: 15 août 1933
+Âge: 92 ans
+Adresse: Boulevard Al Wahda 184, Rabat
+
+Médecin: Dr. Joseph | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "7a312c28-9054-43b3-96d1-044e3492937b",
+  "first_name": "Salma",
+  "last_name": "Saidi",
+  "full_name": "Salma Saidi",
+  "birthdate": "1933-08-15",
+  "birthdate_iso": "1933-08-15",
+  "gender": "F",
+  "address": "Boulevard Al Wahda 184, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/01/2025)
+- Hypertension (Diagnostiquée le: 10/10/2011)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 12/01/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 24/10/2011 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 135/95 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+- Blood pressure: 121/82 mmHg (Date: 10/11/2025)
+- Heart rate: 68 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 octobre 2024)
+- Blood pressure measurement (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 481 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 307 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 1 139 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 927 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 92 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 135/95 mmHg; Heart rate 114 bpm; Body temperature 37.0 C; Blood pressure 121/82 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

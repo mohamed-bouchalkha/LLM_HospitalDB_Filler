@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: 0fed3543-5328-4851-adc2-8efec9a96de1
+Sexe: Féminin, Né(e) le: 29 août 1962
+Âge: 63 ans
+Adresse: Avenue Al Wahda 133, Casablanca
+
+Médecin: Dr. Valentin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0fed3543-5328-4851-adc2-8efec9a96de1",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1962-08-29",
+  "birthdate_iso": "1962-08-29",
+  "gender": "F",
+  "address": "Avenue Al Wahda 133, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2008)
+- Asthma (Diagnostiquée le: 10/01/2017)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/05/2025 au En cours] (Actif)
+- Salbutamol inhaler [Du 31/01/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/65 mmHg (Date: 10/12/2023)
+- Heart rate: 101 bpm (Date: 10/12/2023)
+- Body temperature: 37.1 C (Date: 10/12/2023)
+- Total cholesterol: 151 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 février 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Penicillin (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 110 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 110 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 63 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Asthma, Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Salbutamol 100 mcg inhaler, Salbutamol inhaler. Dernières mesures pertinentes: Blood pressure 99/65 mmHg; Heart rate 101 bpm; Body temperature 37.1 C; Total cholesterol 151 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

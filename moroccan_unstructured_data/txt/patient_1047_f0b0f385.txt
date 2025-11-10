@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alami
+ID Patient: f0b0f385-c2a7-4138-87b8-260be69f8d6d
+Sexe: Masculin, Né(e) le: 10 février 1938
+Âge: 87 ans
+Adresse: Boulevard Al Massira 60, Casablanca
+
+Médecin: Dr. Legros | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f0b0f385-c2a7-4138-87b8-260be69f8d6d",
+  "first_name": "Mohamed",
+  "last_name": "Alami",
+  "full_name": "Mohamed Alami",
+  "birthdate": "1938-02-10",
+  "birthdate_iso": "1938-02-10",
+  "gender": "M",
+  "address": "Boulevard Al Massira 60, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2008)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 01/01/2009 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 101/89 mmHg (Date: 10/06/2024)
+- Heart rate: 88 bpm (Date: 10/06/2024)
+- Body temperature: 37.3 C (Date: 10/06/2024)
+- Total cholesterol: 150 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 septembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 890 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 890 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 87 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 101/89 mmHg; Heart rate 88 bpm; Body temperature 37.3 C; Total cholesterol 150 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

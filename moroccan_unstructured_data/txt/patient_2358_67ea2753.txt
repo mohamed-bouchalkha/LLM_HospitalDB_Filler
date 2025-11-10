@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 67ea2753-7e72-409f-9206-1d9779c70a3e
+Sexe: Masculin, Né(e) le: 7 novembre 1930
+Âge: 95 ans
+Adresse: Boulevard Al Massira 136, Casablanca
+
+Médecin: Dr. Bourgeois | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "67ea2753-7e72-409f-9206-1d9779c70a3e",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1930-11-07",
+  "birthdate_iso": "1930-11-07",
+  "gender": "M",
+  "address": "Boulevard Al Massira 136, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2008)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 16/10/2008 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 126/75 mmHg (Date: 10/02/2025)
+- Heart rate: 85 bpm (Date: 10/02/2025)
+- Body temperature: 37.0 C (Date: 10/02/2025)
+- Total cholesterol: 216 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 567 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 567 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 95 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 126/75 mmHg; Heart rate 85 bpm; Body temperature 37.0 C; Total cholesterol 216 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

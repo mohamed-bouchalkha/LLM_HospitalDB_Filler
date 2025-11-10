@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: bcee33bd-a965-4ebd-9966-15aab80ee6c6
+Sexe: Féminin, Né(e) le: 19 décembre 1956
+Âge: 68 ans
+Adresse: Place Al Wahda 105, Casablanca
+
+Médecin: Dr. Bazin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "bcee33bd-a965-4ebd-9966-15aab80ee6c6",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1956-12-19",
+  "birthdate_iso": "1956-12-19",
+  "gender": "F",
+  "address": "Place Al Wahda 105, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 25/03/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/70 mmHg (Date: 10/08/2024)
+- Heart rate: 97 bpm (Date: 10/08/2024)
+- Body temperature: 37.1 C (Date: 10/08/2024)
+- Total cholesterol: 235 mg/dL (Date: 10/08/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 070 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 070 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 68 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 111/70 mmHg; Heart rate 97 bpm; Body temperature 37.1 C; Total cholesterol 235 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

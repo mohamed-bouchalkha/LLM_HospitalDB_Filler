@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Youssef Alami
+ID Patient: 0175f16e-441b-46f3-92d2-e2fc6f3ed8b8
+Sexe: Masculin, Né(e) le: 27 août 1996
+Âge: 29 ans
+Adresse: Rue Fès 125, Rabat
+
+Médecin: Dr. Rémy | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0175f16e-441b-46f3-92d2-e2fc6f3ed8b8",
+  "first_name": "Youssef",
+  "last_name": "Alami",
+  "full_name": "Youssef Alami",
+  "birthdate": "1996-08-27",
+  "birthdate_iso": "1996-08-27",
+  "gender": "M",
+  "address": "Rue Fès 125, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 101/73 mmHg (Date: 10/11/2025)
+- Heart rate: 69 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+- Blood pressure: 104/95 mmHg (Date: 10/11/2025)
+- Heart rate: 74 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 799 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 451 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 249 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 29 ans de sexe masculin, venu(e) pour un contrôle clinique. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 101/73 mmHg; Heart rate 69 bpm; Body temperature 36.7 C; Blood pressure 104/95 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

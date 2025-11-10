@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: ce188eb7-d8fe-4ec7-8952-0f6ee9dfd1db
+Sexe: Masculin, Né(e) le: 4 avril 1934
+Âge: 91 ans
+Adresse: Boulevard Fès 40, Casablanca
+
+Médecin: Dr. Lopez | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ce188eb7-d8fe-4ec7-8952-0f6ee9dfd1db",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1934-04-04",
+  "birthdate_iso": "1934-04-04",
+  "gender": "M",
+  "address": "Boulevard Fès 40, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 31/05/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 104/63 mmHg (Date: 10/02/2024)
+- Heart rate: 102 bpm (Date: 10/02/2024)
+- Body temperature: 36.9 C (Date: 10/02/2024)
+- Total cholesterol: 238 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Eggs (Identifiée le: 10/11/2008)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 744 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 744 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 91 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 104/63 mmHg; Heart rate 102 bpm; Body temperature 36.9 C; Total cholesterol 238 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

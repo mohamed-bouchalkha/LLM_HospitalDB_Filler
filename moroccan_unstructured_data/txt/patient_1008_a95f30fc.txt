@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: a95f30fc-4384-43d5-be98-4144b7671299
+Sexe: Féminin, Né(e) le: 3 mai 1951
+Âge: 74 ans
+Adresse: Avenue Casablanca 100, Rabat
+
+Médecin: Dr. Bouvier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a95f30fc-4384-43d5-be98-4144b7671299",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1951-05-03",
+  "birthdate_iso": "1951-05-03",
+  "gender": "F",
+  "address": "Avenue Casablanca 100, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2008)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 25/01/2008 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 135/80 mmHg (Date: 10/03/2025)
+- Heart rate: 101 bpm (Date: 10/03/2025)
+- Body temperature: 36.5 C (Date: 10/03/2025)
+- Total cholesterol: 174 mg/dL (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 933 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 933 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 74 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 135/80 mmHg; Heart rate 101 bpm; Body temperature 36.5 C; Total cholesterol 174 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

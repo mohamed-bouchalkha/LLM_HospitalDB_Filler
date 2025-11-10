@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Sanaa Belghiti
+ID Patient: 9926ad6a-d834-435e-a43f-91001c8d52f4
+Sexe: Féminin, Né(e) le: 29 septembre 2012
+Âge: 13 ans
+Adresse: Boulevard Mohammed V 61, Rabat
+
+Médecin: Dr. Evrard | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "9926ad6a-d834-435e-a43f-91001c8d52f4",
+  "first_name": "Sanaa",
+  "last_name": "Belghiti",
+  "full_name": "Sanaa Belghiti",
+  "birthdate": "2012-09-29",
+  "birthdate_iso": "2012-09-29",
+  "gender": "F",
+  "address": "Boulevard Mohammed V 61, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 113/92 mmHg (Date: 10/11/2025)
+- Heart rate: 116 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+- Blood pressure: 98/88 mmHg (Date: 10/11/2025)
+- Heart rate: 91 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 juillet 2021)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 octobre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 822 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 407 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 229 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 13 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 113/92 mmHg; Heart rate 116 bpm; Body temperature 36.8 C; Blood pressure 98/88 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

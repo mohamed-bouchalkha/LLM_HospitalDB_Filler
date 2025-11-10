@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Naima Jabri
+ID Patient: 0749fced-1601-4ab2-8e55-c2a4298f1813
+Sexe: Féminin, Né(e) le: 26 mars 1927
+Âge: 98 ans
+Adresse: Rue Mohammed V 90, Rabat
+
+Médecin: Dr. Barbe | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0749fced-1601-4ab2-8e55-c2a4298f1813",
+  "first_name": "Naima",
+  "last_name": "Jabri",
+  "full_name": "Naima Jabri",
+  "birthdate": "1927-03-26",
+  "birthdate_iso": "1927-03-26",
+  "gender": "F",
+  "address": "Rue Mohammed V 90, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 01/10/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 114/96 mmHg (Date: 10/11/2025)
+- Heart rate: 91 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 97/68 mmHg (Date: 10/11/2025)
+- Heart rate: 98 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2024)
+- Electrocardiogram (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mai 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 1 181 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 656 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 941 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 777 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 98 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 114/96 mmHg; Heart rate 91 bpm; Body temperature 37.7 C; Blood pressure 97/68 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

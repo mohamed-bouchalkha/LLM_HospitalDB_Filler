@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hamid Alaoui
+ID Patient: e877d655-d679-43e4-b004-2045b8d9294f
+Sexe: Masculin, Né(e) le: 27 octobre 1998
+Âge: 27 ans
+Adresse: Avenue Al Wahda 1, Rabat
+
+Médecin: Dr. Aubry | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e877d655-d679-43e4-b004-2045b8d9294f",
+  "first_name": "Hamid",
+  "last_name": "Alaoui",
+  "full_name": "Hamid Alaoui",
+  "birthdate": "1998-10-27",
+  "birthdate_iso": "1998-10-27",
+  "gender": "M",
+  "address": "Avenue Al Wahda 1, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 106/73 mmHg (Date: 10/11/2025)
+- Heart rate: 94 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+- Blood pressure: 130/75 mmHg (Date: 10/11/2025)
+- Heart rate: 93 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 810 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 670 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 480 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 27 ans de sexe masculin, venu(e) pour un contrôle clinique. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 106/73 mmHg; Heart rate 94 bpm; Body temperature 37.4 C; Blood pressure 130/75 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

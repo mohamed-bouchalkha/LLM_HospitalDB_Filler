@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: e13810da-b74b-47a8-9e53-dc3edcac0394
+Sexe: Masculin, Né(e) le: 19 décembre 1951
+Âge: 73 ans
+Adresse: Place Mohammed V 142, Casablanca
+
+Médecin: Dr. Renard | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e13810da-b74b-47a8-9e53-dc3edcac0394",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1951-12-19",
+  "birthdate_iso": "1951-12-19",
+  "gender": "M",
+  "address": "Place Mohammed V 142, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/06/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 121/74 mmHg (Date: 10/07/2024)
+- Heart rate: 71 bpm (Date: 10/07/2024)
+- Body temperature: 37.0 C (Date: 10/07/2024)
+- Total cholesterol: 216 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Sulfa drugs (Identifiée le: 10/11/2015)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 367 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 367 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 73 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 121/74 mmHg; Heart rate 71 bpm; Body temperature 37.0 C; Total cholesterol 216 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

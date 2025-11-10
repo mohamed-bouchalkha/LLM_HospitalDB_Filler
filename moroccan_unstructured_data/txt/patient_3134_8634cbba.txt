@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: 8634cbba-1230-4e48-8582-75dfafdfa0a9
+Sexe: Féminin, Né(e) le: 14 août 1933
+Âge: 92 ans
+Adresse: Rue Mohammed V 183, Casablanca
+
+Médecin: Dr. Ribeiro | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8634cbba-1230-4e48-8582-75dfafdfa0a9",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "1933-08-14",
+  "birthdate_iso": "1933-08-14",
+  "gender": "F",
+  "address": "Rue Mohammed V 183, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2009)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/07/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/83 mmHg (Date: 10/07/2025)
+- Heart rate: 68 bpm (Date: 10/07/2025)
+- Body temperature: 36.8 C (Date: 10/07/2025)
+- Total cholesterol: 154 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 juillet 2021)
+- Pneumococcal (elderly) (Administré le: 10 août 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Sulfa drugs (Identifiée le: 10/11/2019)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 937 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 937 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 92 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 111/83 mmHg; Heart rate 68 bpm; Body temperature 36.8 C; Total cholesterol 154 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

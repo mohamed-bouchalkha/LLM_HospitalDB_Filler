@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: e99809cc-7426-41f9-9670-06e11d8c8071
+Sexe: Masculin, Né(e) le: 24 mars 1979
+Âge: 46 ans
+Adresse: Boulevard Casablanca 82, Casablanca
+
+Médecin: Dr. Daniel | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e99809cc-7426-41f9-9670-06e11d8c8071",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1979-03-24",
+  "birthdate_iso": "1979-03-24",
+  "gender": "M",
+  "address": "Boulevard Casablanca 82, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2018)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/09/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/88 mmHg (Date: 10/12/2023)
+- Heart rate: 68 bpm (Date: 10/12/2023)
+- Body temperature: 37.3 C (Date: 10/12/2023)
+- Total cholesterol: 217 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Penicillin (Identifiée le: 10/11/2012)
+- Eggs (Identifiée le: 10/11/2011)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 626 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 626 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 46 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 111/88 mmHg; Heart rate 68 bpm; Body temperature 37.3 C; Total cholesterol 217 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

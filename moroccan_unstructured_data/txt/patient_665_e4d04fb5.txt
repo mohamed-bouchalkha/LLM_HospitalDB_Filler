@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Nadia Saidi
+ID Patient: e4d04fb5-1476-4622-b569-40639fac11f9
+Sexe: Féminin, Né(e) le: 29 juin 1959
+Âge: 66 ans
+Adresse: Boulevard Fès 92, Rabat
+
+Médecin: Dr. Valette | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e4d04fb5-1476-4622-b569-40639fac11f9",
+  "first_name": "Nadia",
+  "last_name": "Saidi",
+  "full_name": "Nadia Saidi",
+  "birthdate": "1959-06-29",
+  "birthdate_iso": "1959-06-29",
+  "gender": "F",
+  "address": "Boulevard Fès 92, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/02/2025)
+- Hypertension (Diagnostiquée le: 10/08/2010)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 07/03/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 05/09/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 129/83 mmHg (Date: 10/01/2025)
+- Heart rate: 84 bpm (Date: 10/01/2025)
+- Body temperature: 37.3 C (Date: 10/01/2025)
+- Blood pressure: 95/97 mmHg (Date: 10/11/2025)
+- Heart rate: 116 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 septembre 2024)
+- Hemoglobin A1c test (Effectuée le: 10 avril 2025)
+- Blood pressure measurement (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 446 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 1 154 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 493 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 725 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 66 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 129/83 mmHg; Heart rate 84 bpm; Body temperature 37.3 C; Blood pressure 95/97 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

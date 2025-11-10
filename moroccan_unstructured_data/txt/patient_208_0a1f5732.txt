@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Tabbal
+ID Patient: 0a1f5732-dd85-477c-9e72-cbdd6a53982f
+Sexe: Masculin, Né(e) le: 7 septembre 1988
+Âge: 37 ans
+Adresse: Place Marrakech 102, Rabat
+
+Médecin: Dr. Ollivier | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0a1f5732-dd85-477c-9e72-cbdd6a53982f",
+  "first_name": "Mustapha",
+  "last_name": "Tabbal",
+  "full_name": "Mustapha Tabbal",
+  "birthdate": "1988-09-07",
+  "birthdate_iso": "1988-09-07",
+  "gender": "M",
+  "address": "Place Marrakech 102, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/10/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 119/81 mmHg (Date: 10/11/2025)
+- Heart rate: 90 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+- Blood pressure: 92/76 mmHg (Date: 10/11/2025)
+- Heart rate: 88 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 juillet 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 819 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 557 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 376 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 37 ans. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 119/81 mmHg; Heart rate 90 bpm; Body temperature 37.9 C; Blood pressure 92/76 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: 46113482-38ef-4f21-af72-4e0efc2168e7
+Sexe: Masculin, Né(e) le: 26 janvier 1952
+Âge: 73 ans
+Adresse: Place Marrakech 128, Rabat
+
+Médecin: Dr. Laurent | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "46113482-38ef-4f21-af72-4e0efc2168e7",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1952-01-26",
+  "birthdate_iso": "1952-01-26",
+  "gender": "M",
+  "address": "Place Marrakech 128, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2020)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/12/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 131/66 mmHg (Date: 10/12/2023)
+- Heart rate: 96 bpm (Date: 10/12/2023)
+- Body temperature: 37.5 C (Date: 10/12/2023)
+- Total cholesterol: 178 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2025)
+- Pneumococcal (elderly) (Administré le: 10 octobre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 546 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 546 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 73 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 131/66 mmHg; Heart rate 96 bpm; Body temperature 37.5 C; Total cholesterol 178 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

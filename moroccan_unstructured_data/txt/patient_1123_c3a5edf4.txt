@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: c3a5edf4-3c5a-417f-92c5-48d2b84301f2
+Sexe: Féminin, Né(e) le: 15 juin 1945
+Âge: 80 ans
+Adresse: Place Casablanca 87, Casablanca
+
+Médecin: Dr. Klein | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c3a5edf4-3c5a-417f-92c5-48d2b84301f2",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1945-06-15",
+  "birthdate_iso": "1945-06-15",
+  "gender": "F",
+  "address": "Place Casablanca 87, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2009)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 20/03/2009 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/84 mmHg (Date: 10/12/2024)
+- Heart rate: 109 bpm (Date: 10/12/2024)
+- Body temperature: 36.7 C (Date: 10/12/2024)
+- Total cholesterol: 168 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 août 2023)
+- Pneumococcal (elderly) (Administré le: 10 septembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 921 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 921 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 80 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 105/84 mmHg; Heart rate 109 bpm; Body temperature 36.7 C; Total cholesterol 168 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

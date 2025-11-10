@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Asma Bennani
+ID Patient: 6378cf37-bf12-47df-a840-a29b734b2e48
+Sexe: Féminin, Né(e) le: 20 mars 2024
+Âge: 1 ans
+Adresse: Rue Al Massira 143, Rabat
+
+Médecin: Dr. Guichard | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6378cf37-bf12-47df-a840-a29b734b2e48",
+  "first_name": "Asma",
+  "last_name": "Bennani",
+  "full_name": "Asma Bennani",
+  "birthdate": "2024-03-20",
+  "birthdate_iso": "2024-03-20",
+  "gender": "F",
+  "address": "Rue Al Massira 143, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 125/64 mmHg (Date: 10/11/2025)
+- Heart rate: 105 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Diphtheria, Tetanus, Pertussis (Administré le: 10 mai 2023)
+- Poliovirus (Administré le: 10 juin 2024)
+- Hepatitis B (Administré le: 10 mai 2022)
+- Measles, Mumps, Rubella (Administré le: 10 septembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 655 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 655 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 1 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 125/64 mmHg; Heart rate 105 bpm; Body temperature 36.6 C. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

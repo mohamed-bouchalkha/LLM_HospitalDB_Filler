@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Saadia Belghiti
+ID Patient: d0532ca8-6d0e-492c-9d78-dbf854493bbe
+Sexe: Féminin, Né(e) le: 12 février 1937
+Âge: 88 ans
+Adresse: Avenue Mohammed V 145, Rabat
+
+Médecin: Dr. Chevalier | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d0532ca8-6d0e-492c-9d78-dbf854493bbe",
+  "first_name": "Saadia",
+  "last_name": "Belghiti",
+  "full_name": "Saadia Belghiti",
+  "birthdate": "1937-02-12",
+  "birthdate_iso": "1937-02-12",
+  "gender": "F",
+  "address": "Avenue Mohammed V 145, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 28/06/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/87 mmHg (Date: 10/11/2024)
+- Heart rate: 106 bpm (Date: 10/11/2024)
+- Body temperature: 37.1 C (Date: 10/11/2024)
+- Blood pressure: 123/97 mmHg (Date: 10/11/2025)
+- Heart rate: 83 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 septembre 2025)
+- Electrocardiogram (Effectuée le: 10 août 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2025)
+- Pneumococcal (elderly) (Administré le: 10 avril 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 546 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 511 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 622 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 680 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 88 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 91/87 mmHg; Heart rate 106 bpm; Body temperature 37.1 C; Blood pressure 123/97 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

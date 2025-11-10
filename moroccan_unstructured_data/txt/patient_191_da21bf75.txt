@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mehdi Jabri
+ID Patient: da21bf75-5b29-47ab-9cf3-3b5780357687
+Sexe: Masculin, Né(e) le: 24 juillet 1928
+Âge: 97 ans
+Adresse: Boulevard Casablanca 74, Rabat
+
+Médecin: Dr. Perez | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "da21bf75-5b29-47ab-9cf3-3b5780357687",
+  "first_name": "Mehdi",
+  "last_name": "Jabri",
+  "full_name": "Mehdi Jabri",
+  "birthdate": "1928-07-24",
+  "birthdate_iso": "1928-07-24",
+  "gender": "M",
+  "address": "Boulevard Casablanca 74, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2017)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/09/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/66 mmHg (Date: 10/11/2025)
+- Heart rate: 113 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+- Blood pressure: 135/85 mmHg (Date: 10/11/2025)
+- Heart rate: 103 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 mars 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 758 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 489 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 247 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 97 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 102/66 mmHg; Heart rate 113 bpm; Body temperature 36.7 C; Blood pressure 135/85 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

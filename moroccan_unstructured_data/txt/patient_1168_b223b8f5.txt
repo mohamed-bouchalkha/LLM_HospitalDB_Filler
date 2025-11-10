@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: b223b8f5-39c9-4913-abe8-fa922f8b36ad
+Sexe: Masculin, Né(e) le: 7 janvier 1955
+Âge: 70 ans
+Adresse: Boulevard Al Wahda 163, Rabat
+
+Médecin: Dr. Dubois | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b223b8f5-39c9-4913-abe8-fa922f8b36ad",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1955-01-07",
+  "birthdate_iso": "1955-01-07",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 163, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/04/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/70 mmHg (Date: 10/05/2025)
+- Heart rate: 101 bpm (Date: 10/05/2025)
+- Body temperature: 36.8 C (Date: 10/05/2025)
+- Total cholesterol: 190 mg/dL (Date: 10/05/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 049 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 049 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 70 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 91/70 mmHg; Heart rate 101 bpm; Body temperature 36.8 C; Total cholesterol 190 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Rachida Khalil
+ID Patient: 000bca25-5594-45f7-821c-c1f8f343962e
+Sexe: Féminin, Né(e) le: 27 décembre 1940
+Âge: 84 ans
+Adresse: Rue Casablanca 60, Rabat
+
+Médecin: Dr. Faure | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "000bca25-5594-45f7-821c-c1f8f343962e",
+  "first_name": "Rachida",
+  "last_name": "Khalil",
+  "full_name": "Rachida Khalil",
+  "birthdate": "1940-12-27",
+  "birthdate_iso": "1940-12-27",
+  "gender": "F",
+  "address": "Rue Casablanca 60, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/02/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 114/90 mmHg (Date: 10/11/2024)
+- Heart rate: 71 bpm (Date: 10/11/2024)
+- Body temperature: 37.8 C (Date: 10/11/2024)
+- Blood pressure: 103/99 mmHg (Date: 10/11/2025)
+- Heart rate: 97 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 septembre 2025)
+- Electrocardiogram (Effectuée le: 10 mai 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 janvier 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 février 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 790 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 1 514 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 738 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 770 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 84 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 114/90 mmHg; Heart rate 71 bpm; Body temperature 37.8 C; Blood pressure 103/99 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

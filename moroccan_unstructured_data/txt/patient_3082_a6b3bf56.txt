@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: a6b3bf56-849d-4b36-9a7a-78c0d863c23c
+Sexe: Masculin, Né(e) le: 27 avril 1962
+Âge: 63 ans
+Adresse: Avenue Fès 74, Rabat
+
+Médecin: Dr. Cordier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a6b3bf56-849d-4b36-9a7a-78c0d863c23c",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1962-04-27",
+  "birthdate_iso": "1962-04-27",
+  "gender": "M",
+  "address": "Avenue Fès 74, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/03/2024 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/06/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 93/60 mmHg (Date: 10/06/2024)
+- Heart rate: 90 bpm (Date: 10/06/2024)
+- Body temperature: 36.8 C (Date: 10/06/2024)
+- Total cholesterol: 234 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juillet 2022)
+- Pneumococcal (Administré le: 10 novembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Peanuts (Identifiée le: 10/11/2010)
+- Aspirin (Identifiée le: 10/11/2016)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 713 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 713 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 63 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 93/60 mmHg; Heart rate 90 bpm; Body temperature 36.8 C; Total cholesterol 234 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

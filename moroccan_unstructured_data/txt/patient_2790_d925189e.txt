@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: d925189e-4322-47d7-b011-3321e454a263
+Sexe: Masculin, Né(e) le: 14 juin 1936
+Âge: 89 ans
+Adresse: Rue Hassan II 191, Casablanca
+
+Médecin: Dr. Lecoq | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d925189e-4322-47d7-b011-3321e454a263",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1936-06-14",
+  "birthdate_iso": "1936-06-14",
+  "gender": "M",
+  "address": "Rue Hassan II 191, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2018)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 03/01/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/99 mmHg (Date: 10/04/2024)
+- Heart rate: 96 bpm (Date: 10/04/2024)
+- Body temperature: 36.7 C (Date: 10/04/2024)
+- Total cholesterol: 230 mg/dL (Date: 10/04/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juillet 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 720 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 720 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 89 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 99/99 mmHg; Heart rate 96 bpm; Body temperature 36.7 C; Total cholesterol 230 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

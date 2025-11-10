@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: 3e87e772-519f-43fe-a389-f34cd3a4bf93
+Sexe: Masculin, Né(e) le: 7 janvier 1968
+Âge: 57 ans
+Adresse: Rue Mohammed V 46, Casablanca
+
+Médecin: Dr. Vasseur | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3e87e772-519f-43fe-a389-f34cd3a4bf93",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1968-01-07",
+  "birthdate_iso": "1968-01-07",
+  "gender": "M",
+  "address": "Rue Mohammed V 46, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/10/2024)
+- Hypertension (Diagnostiquée le: 10/09/2022)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 08/11/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 19/09/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/74 mmHg (Date: 10/11/2024)
+- Heart rate: 85 bpm (Date: 10/11/2024)
+- Body temperature: 37.3 C (Date: 10/11/2024)
+- Glucose: 116 mg/dL (Date: 10/11/2024)
+- Hemoglobin A1c: 5.3 % (Date: 10/11/2024)
+- Total cholesterol: 192 mg/dL (Date: 10/11/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 468 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 468 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 57 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 91/74 mmHg; Heart rate 85 bpm; Body temperature 37.3 C; Glucose 116 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

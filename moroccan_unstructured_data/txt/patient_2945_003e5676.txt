@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alaoui
+ID Patient: 003e5676-20fb-4c72-b305-def4991c8dd5
+Sexe: Masculin, Né(e) le: 9 juillet 1949
+Âge: 76 ans
+Adresse: Boulevard Casablanca 155, Rabat
+
+Médecin: Dr. Guichard | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "003e5676-20fb-4c72-b305-def4991c8dd5",
+  "first_name": "Mohamed",
+  "last_name": "Alaoui",
+  "full_name": "Mohamed Alaoui",
+  "birthdate": "1949-07-09",
+  "birthdate_iso": "1949-07-09",
+  "gender": "M",
+  "address": "Boulevard Casablanca 155, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 16/11/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/67 mmHg (Date: 10/09/2024)
+- Heart rate: 117 bpm (Date: 10/09/2024)
+- Body temperature: 38.0 C (Date: 10/09/2024)
+- Total cholesterol: 179 mg/dL (Date: 10/09/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 décembre 2024)
+- Pneumococcal (elderly) (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Dairy (Identifiée le: 10/11/2019)
+- Aspirin (Identifiée le: 10/11/2008)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 935 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 935 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 76 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 124/67 mmHg; Heart rate 117 bpm; Body temperature 38.0 C; Total cholesterol 179 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

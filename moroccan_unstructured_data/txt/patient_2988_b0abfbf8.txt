@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Bennani
+ID Patient: b0abfbf8-5f83-4662-9e7f-a30ffe1a21e5
+Sexe: Féminin, Né(e) le: 3 janvier 1932
+Âge: 93 ans
+Adresse: Avenue Al Wahda 101, Casablanca
+
+Médecin: Dr. Sauvage | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b0abfbf8-5f83-4662-9e7f-a30ffe1a21e5",
+  "first_name": "Fatima",
+  "last_name": "Bennani",
+  "full_name": "Fatima Bennani",
+  "birthdate": "1932-01-03",
+  "birthdate_iso": "1932-01-03",
+  "gender": "F",
+  "address": "Avenue Al Wahda 101, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/05/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/81 mmHg (Date: 10/08/2025)
+- Heart rate: 107 bpm (Date: 10/08/2025)
+- Body temperature: 36.8 C (Date: 10/08/2025)
+- Total cholesterol: 234 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mai 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 929 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 929 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 93 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 130/81 mmHg; Heart rate 107 bpm; Body temperature 36.8 C; Total cholesterol 234 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

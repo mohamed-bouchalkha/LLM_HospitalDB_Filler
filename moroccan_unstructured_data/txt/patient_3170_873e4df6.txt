@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alaoui
+ID Patient: 873e4df6-d15e-4ee1-8f2b-755d6b53dde1
+Sexe: Masculin, Né(e) le: 28 octobre 1963
+Âge: 62 ans
+Adresse: Rue Al Massira 146, Casablanca
+
+Médecin: Dr. Berthelot | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "873e4df6-d15e-4ee1-8f2b-755d6b53dde1",
+  "first_name": "Mohamed",
+  "last_name": "Alaoui",
+  "full_name": "Mohamed Alaoui",
+  "birthdate": "1963-10-28",
+  "birthdate_iso": "1963-10-28",
+  "gender": "M",
+  "address": "Rue Al Massira 146, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2010)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 08/10/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/89 mmHg (Date: 10/10/2024)
+- Heart rate: 72 bpm (Date: 10/10/2024)
+- Body temperature: 36.5 C (Date: 10/10/2024)
+- Total cholesterol: 178 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2025)
+- Pneumococcal (Administré le: 10 février 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 700 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 700 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 62 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 132/89 mmHg; Heart rate 72 bpm; Body temperature 36.5 C; Total cholesterol 178 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

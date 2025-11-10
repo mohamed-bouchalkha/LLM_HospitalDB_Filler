@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zakaria Lamrani
+ID Patient: d6195153-e913-4cc4-a196-23b58c002070
+Sexe: Masculin, Né(e) le: 8 novembre 1948
+Âge: 77 ans
+Adresse: Avenue Marrakech 125, Rabat
+
+Médecin: Dr. De Sousa | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d6195153-e913-4cc4-a196-23b58c002070",
+  "first_name": "Zakaria",
+  "last_name": "Lamrani",
+  "full_name": "Zakaria Lamrani",
+  "birthdate": "1948-11-08",
+  "birthdate_iso": "1948-11-08",
+  "gender": "M",
+  "address": "Avenue Marrakech 125, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2010)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 18/01/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 94/72 mmHg (Date: 10/06/2025)
+- Heart rate: 100 bpm (Date: 10/06/2025)
+- Body temperature: 36.6 C (Date: 10/06/2025)
+- Blood pressure: 102/82 mmHg (Date: 10/11/2025)
+- Heart rate: 70 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 648 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 507 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 828 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 042 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 77 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 94/72 mmHg; Heart rate 100 bpm; Body temperature 36.6 C; Blood pressure 102/82 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

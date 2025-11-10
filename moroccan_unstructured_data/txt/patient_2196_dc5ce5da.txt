@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: dc5ce5da-4c29-4b06-acc7-07c237e4fd00
+Sexe: Masculin, Né(e) le: 4 octobre 1949
+Âge: 76 ans
+Adresse: Boulevard Casablanca 157, Casablanca
+
+Médecin: Dr. Clerc | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "dc5ce5da-4c29-4b06-acc7-07c237e4fd00",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1949-10-04",
+  "birthdate_iso": "1949-10-04",
+  "gender": "M",
+  "address": "Boulevard Casablanca 157, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2014)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 05/06/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/96 mmHg (Date: 10/02/2024)
+- Heart rate: 74 bpm (Date: 10/02/2024)
+- Body temperature: 37.6 C (Date: 10/02/2024)
+- Total cholesterol: 193 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 819 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 819 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 76 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 98/96 mmHg; Heart rate 74 bpm; Body temperature 37.6 C; Total cholesterol 193 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

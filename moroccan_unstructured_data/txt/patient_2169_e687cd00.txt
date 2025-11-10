@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: e687cd00-6d7d-4c66-bf84-c5c6fb2ba2ef
+Sexe: Masculin, Né(e) le: 24 novembre 1938
+Âge: 86 ans
+Adresse: Place Fès 163, Casablanca
+
+Médecin: Dr. Poirier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e687cd00-6d7d-4c66-bf84-c5c6fb2ba2ef",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1938-11-24",
+  "birthdate_iso": "1938-11-24",
+  "gender": "M",
+  "address": "Place Fès 163, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2011)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/09/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/89 mmHg (Date: 10/01/2024)
+- Heart rate: 84 bpm (Date: 10/01/2024)
+- Body temperature: 37.8 C (Date: 10/01/2024)
+- Total cholesterol: 186 mg/dL (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 634 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 634 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 86 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 122/89 mmHg; Heart rate 84 bpm; Body temperature 37.8 C; Total cholesterol 186 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

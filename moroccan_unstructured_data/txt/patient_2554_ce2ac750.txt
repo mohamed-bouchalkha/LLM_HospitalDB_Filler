@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: ce2ac750-ee45-4944-8c41-e33b98dd0fe8
+Sexe: Féminin, Né(e) le: 27 mai 1952
+Âge: 73 ans
+Adresse: Place Al Massira 22, Casablanca
+
+Médecin: Dr. Simon | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ce2ac750-ee45-4944-8c41-e33b98dd0fe8",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1952-05-27",
+  "birthdate_iso": "1952-05-27",
+  "gender": "F",
+  "address": "Place Al Massira 22, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 31/12/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 125/81 mmHg (Date: 10/06/2024)
+- Heart rate: 84 bpm (Date: 10/06/2024)
+- Body temperature: 36.6 C (Date: 10/06/2024)
+- Total cholesterol: 229 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 février 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Latex (Identifiée le: 10/11/2015)
+- Penicillin (Identifiée le: 10/11/2007)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 008 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 008 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 73 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 125/81 mmHg; Heart rate 84 bpm; Body temperature 36.6 C; Total cholesterol 229 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

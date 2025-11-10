@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Iman Himmich
+ID Patient: 9d0e785d-0890-4582-a0f4-827995e9f3f3
+Sexe: Féminin, Né(e) le: 4 janvier 1986
+Âge: 39 ans
+Adresse: Place Al Massira 199, Rabat
+
+Médecin: Dr. Hamon | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "9d0e785d-0890-4582-a0f4-827995e9f3f3",
+  "first_name": "Iman",
+  "last_name": "Himmich",
+  "full_name": "Iman Himmich",
+  "birthdate": "1986-01-04",
+  "birthdate_iso": "1986-01-04",
+  "gender": "F",
+  "address": "Place Al Massira 199, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2021)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/02/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/81 mmHg (Date: 10/11/2025)
+- Heart rate: 117 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+- Blood pressure: 123/76 mmHg (Date: 10/11/2025)
+- Heart rate: 90 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2025)
+- Electrocardiogram (Effectuée le: 10 décembre 2023)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Latex (Identifiée le: 10/11/2019)
+- Aspirin (Identifiée le: 10/11/2009)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 869 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 420 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 289 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 39 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 105/81 mmHg; Heart rate 117 bpm; Body temperature 37.2 C; Blood pressure 123/76 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

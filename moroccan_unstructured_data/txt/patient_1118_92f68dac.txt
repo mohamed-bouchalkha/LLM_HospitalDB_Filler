@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 92f68dac-c441-4e99-8da3-4fc4b61b51fa
+Sexe: Masculin, Né(e) le: 25 juin 1932
+Âge: 93 ans
+Adresse: Boulevard Fès 25, Casablanca
+
+Médecin: Dr. De Sousa | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "92f68dac-c441-4e99-8da3-4fc4b61b51fa",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1932-06-25",
+  "birthdate_iso": "1932-06-25",
+  "gender": "M",
+  "address": "Boulevard Fès 25, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2006)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 12/01/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/88 mmHg (Date: 10/06/2025)
+- Heart rate: 115 bpm (Date: 10/06/2025)
+- Body temperature: 37.8 C (Date: 10/06/2025)
+- Total cholesterol: 228 mg/dL (Date: 10/06/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 698 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 698 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 93 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 102/88 mmHg; Heart rate 115 bpm; Body temperature 37.8 C; Total cholesterol 228 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

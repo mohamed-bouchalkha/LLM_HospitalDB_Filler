@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: c1f816d8-887e-4bd6-bc71-e491700e464d
+Sexe: Masculin, Né(e) le: 6 février 1976
+Âge: 49 ans
+Adresse: Place Casablanca 58, Casablanca
+
+Médecin: Dr. Dijoux | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c1f816d8-887e-4bd6-bc71-e491700e464d",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1976-02-06",
+  "birthdate_iso": "1976-02-06",
+  "gender": "M",
+  "address": "Place Casablanca 58, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2023)
+- Asthma (Diagnostiquée le: 10/07/2024)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/10/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 17/03/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 127/60 mmHg (Date: 10/01/2024)
+- Heart rate: 68 bpm (Date: 10/01/2024)
+- Body temperature: 37.1 C (Date: 10/01/2024)
+- Blood pressure: 90/90 mmHg (Date: 10/04/2024)
+- Heart rate: 83 bpm (Date: 10/04/2024)
+- Body temperature: 37.8 C (Date: 10/04/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 juillet 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Peanuts (Identifiée le: 10/11/2021)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 091 MAD
+- Visite le 10 avril 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 312 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 403 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 49 ans. Antécédents: Asthma, Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 127/60 mmHg; Heart rate 68 bpm; Body temperature 37.1 C; Blood pressure 90/90 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

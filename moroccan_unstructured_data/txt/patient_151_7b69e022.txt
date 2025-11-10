@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khalid Alaoui
+ID Patient: 7b69e022-ea67-41e2-8712-02c956608211
+Sexe: Masculin, Né(e) le: 2 janvier 2021
+Âge: 4 ans
+Adresse: Rue Hassan II 200, Rabat
+
+Médecin: Dr. Moreno | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "7b69e022-ea67-41e2-8712-02c956608211",
+  "first_name": "Khalid",
+  "last_name": "Alaoui",
+  "full_name": "Khalid Alaoui",
+  "birthdate": "2021-01-02",
+  "birthdate_iso": "2021-01-02",
+  "gender": "M",
+  "address": "Rue Hassan II 200, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 101/65 mmHg (Date: 10/11/2025)
+- Heart rate: 88 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+- Blood pressure: 109/67 mmHg (Date: 10/11/2025)
+- Heart rate: 88 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 juillet 2025)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 mars 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2023)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 650 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 649 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 299 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 4 ans. Pas d'antécédents pathologiques notables documentés. Fatigue modérée à l'effort, pas de dyspnée au repos. Dernières mesures pertinentes: Blood pressure 101/65 mmHg; Heart rate 88 bpm; Body temperature 37.9 C; Blood pressure 109/67 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: 6c5beb54-184d-48f0-adcc-07cb5083c621
+Sexe: Masculin, Né(e) le: 12 août 1953
+Âge: 72 ans
+Adresse: Avenue Marrakech 12, Casablanca
+
+Médecin: Dr. Schmitt | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6c5beb54-184d-48f0-adcc-07cb5083c621",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1953-08-12",
+  "birthdate_iso": "1953-08-12",
+  "gender": "M",
+  "address": "Avenue Marrakech 12, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/03/2025)
+- Hypertension (Diagnostiquée le: 10/03/2015)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 07/04/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 24/03/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/72 mmHg (Date: 10/12/2024)
+- Heart rate: 118 bpm (Date: 10/12/2024)
+- Body temperature: 36.8 C (Date: 10/12/2024)
+- Glucose: 179 mg/dL (Date: 10/12/2024)
+- Hemoglobin A1c: 5.1 % (Date: 10/12/2024)
+- Total cholesterol: 207 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 713 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 713 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 72 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 99/72 mmHg; Heart rate 118 bpm; Body temperature 36.8 C; Glucose 179 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

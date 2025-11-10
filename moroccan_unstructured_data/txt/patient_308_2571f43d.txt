@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hassan Skalli
+ID Patient: 2571f43d-3f24-478f-9ea6-37a34cce9a57
+Sexe: Masculin, Né(e) le: 16 novembre 1953
+Âge: 71 ans
+Adresse: Boulevard Al Massira 80, Rabat
+
+Médecin: Dr. Mercier | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2571f43d-3f24-478f-9ea6-37a34cce9a57",
+  "first_name": "Hassan",
+  "last_name": "Skalli",
+  "full_name": "Hassan Skalli",
+  "birthdate": "1953-11-16",
+  "birthdate_iso": "1953-11-16",
+  "gender": "M",
+  "address": "Boulevard Al Massira 80, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2011)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 05/11/2011 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/64 mmHg (Date: 10/06/2025)
+- Heart rate: 65 bpm (Date: 10/06/2025)
+- Body temperature: 37.7 C (Date: 10/06/2025)
+- Blood pressure: 117/98 mmHg (Date: 10/11/2025)
+- Heart rate: 85 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 393 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 569 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 929 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 891 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 71 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 95/64 mmHg; Heart rate 65 bpm; Body temperature 37.7 C; Blood pressure 117/98 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

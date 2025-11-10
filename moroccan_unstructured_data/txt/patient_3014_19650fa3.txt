@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: 19650fa3-86d1-469f-b514-c212c73517cb
+Sexe: Féminin, Né(e) le: 10 octobre 1961
+Âge: 64 ans
+Adresse: Place Fès 19, Casablanca
+
+Médecin: Dr. Mary | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "19650fa3-86d1-469f-b514-c212c73517cb",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1961-10-10",
+  "birthdate_iso": "1961-10-10",
+  "gender": "F",
+  "address": "Place Fès 19, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2007)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 24/06/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 121/90 mmHg (Date: 10/12/2024)
+- Heart rate: 70 bpm (Date: 10/12/2024)
+- Body temperature: 36.7 C (Date: 10/12/2024)
+- Total cholesterol: 154 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 novembre 2023)
+- Pneumococcal (Administré le: 10 mars 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 754 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 754 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 64 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 121/90 mmHg; Heart rate 70 bpm; Body temperature 36.7 C; Total cholesterol 154 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

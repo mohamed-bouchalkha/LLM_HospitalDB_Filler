@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: 46cbc676-e824-4855-a395-3935c7494fab
+Sexe: Féminin, Né(e) le: 3 octobre 1942
+Âge: 83 ans
+Adresse: Place Al Massira 129, Casablanca
+
+Médecin: Dr. Imbert | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "46cbc676-e824-4855-a395-3935c7494fab",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "1942-10-03",
+  "birthdate_iso": "1942-10-03",
+  "gender": "F",
+  "address": "Place Al Massira 129, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/02/2025)
+- Hypertension (Diagnostiquée le: 10/03/2016)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 04/03/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 20/03/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 113/89 mmHg (Date: 10/01/2025)
+- Heart rate: 97 bpm (Date: 10/01/2025)
+- Body temperature: 37.2 C (Date: 10/01/2025)
+- Glucose: 125 mg/dL (Date: 10/01/2025)
+- Hemoglobin A1c: 6.7 % (Date: 10/01/2025)
+- Total cholesterol: 188 mg/dL (Date: 10/01/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 81745001
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 404 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 404 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 83 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 113/89 mmHg; Heart rate 97 bpm; Body temperature 37.2 C; Glucose 125 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

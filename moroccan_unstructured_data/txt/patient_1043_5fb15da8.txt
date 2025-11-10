@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 5fb15da8-9f2b-4afc-b4a5-162f492f40d9
+Sexe: Masculin, Né(e) le: 17 avril 1945
+Âge: 80 ans
+Adresse: Boulevard Hassan II 176, Casablanca
+
+Médecin: Dr. Gaillard | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5fb15da8-9f2b-4afc-b4a5-162f492f40d9",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1945-04-17",
+  "birthdate_iso": "1945-04-17",
+  "gender": "M",
+  "address": "Boulevard Hassan II 176, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 16/04/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 133/63 mmHg (Date: 10/01/2024)
+- Heart rate: 71 bpm (Date: 10/01/2024)
+- Body temperature: 36.8 C (Date: 10/01/2024)
+- Total cholesterol: 206 mg/dL (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 611 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 611 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 80 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 133/63 mmHg; Heart rate 71 bpm; Body temperature 36.8 C; Total cholesterol 206 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

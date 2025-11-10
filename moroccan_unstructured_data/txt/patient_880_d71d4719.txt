@@ -1,0 +1,81 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zakaria Alami
+ID Patient: d71d4719-5c20-4979-9e0e-e556daed3b14
+Sexe: Masculin, Né(e) le: 23 août 1968
+Âge: 57 ans
+Adresse: Boulevard Al Massira 118, Rabat
+
+Médecin: Dr. Nicolas | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d71d4719-5c20-4979-9e0e-e556daed3b14",
+  "first_name": "Zakaria",
+  "last_name": "Alami",
+  "full_name": "Zakaria Alami",
+  "birthdate": "1968-08-23",
+  "birthdate_iso": "1968-08-23",
+  "gender": "M",
+  "address": "Boulevard Al Massira 118, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/12/2024)
+- Hypertension (Diagnostiquée le: 10/03/2018)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/01/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 05/04/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 116/77 mmHg (Date: 10/11/2025)
+- Heart rate: 85 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+- Blood pressure: 124/81 mmHg (Date: 10/11/2025)
+- Heart rate: 72 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 décembre 2023)
+- Hemoglobin A1c test (Effectuée le: 10 juin 2025)
+- Blood pressure measurement (Effectuée le: 10 mars 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 963 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 870 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 982 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 815 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 57 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 116/77 mmHg; Heart rate 85 bpm; Body temperature 37.0 C; Blood pressure 124/81 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

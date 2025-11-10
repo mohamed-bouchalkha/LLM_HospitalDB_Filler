@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: 0b6e4ab4-eb37-4494-a1bf-635f38ed2fb8
+Sexe: Féminin, Né(e) le: 25 août 2003
+Âge: 22 ans
+Adresse: Avenue Marrakech 176, Casablanca
+
+Médecin: Dr. Delattre | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0b6e4ab4-eb37-4494-a1bf-635f38ed2fb8",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "2003-08-25",
+  "birthdate_iso": "2003-08-25",
+  "gender": "F",
+  "address": "Avenue Marrakech 176, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/01/2025 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/03/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/68 mmHg (Date: 10/11/2024)
+- Heart rate: 103 bpm (Date: 10/11/2024)
+- Body temperature: 36.9 C (Date: 10/11/2024)
+- Total cholesterol: 247 mg/dL (Date: 10/11/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Penicillin (Identifiée le: 10/11/2020)
+- Aspirin (Identifiée le: 10/11/2019)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 694 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 694 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 22 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 118/68 mmHg; Heart rate 103 bpm; Body temperature 36.9 C; Total cholesterol 247 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

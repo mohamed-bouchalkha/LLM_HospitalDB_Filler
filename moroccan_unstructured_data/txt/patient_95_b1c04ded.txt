@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hamid Cherkaoui
+ID Patient: b1c04ded-4ca7-48fc-85c9-904e7c9251f2
+Sexe: Masculin, Né(e) le: 27 février 1973
+Âge: 52 ans
+Adresse: Avenue Mohammed V 122, Rabat
+
+Médecin: Dr. Bègue | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b1c04ded-4ca7-48fc-85c9-904e7c9251f2",
+  "first_name": "Hamid",
+  "last_name": "Cherkaoui",
+  "full_name": "Hamid Cherkaoui",
+  "birthdate": "1973-02-27",
+  "birthdate_iso": "1973-02-27",
+  "gender": "M",
+  "address": "Avenue Mohammed V 122, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2016)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/06/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 121/79 mmHg (Date: 10/10/2025)
+- Heart rate: 102 bpm (Date: 10/10/2025)
+- Body temperature: 36.5 C (Date: 10/10/2025)
+- Blood pressure: 125/80 mmHg (Date: 10/11/2025)
+- Heart rate: 75 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2023)
+- Electrocardiogram (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 836 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 930 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 642 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 408 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 52 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 121/79 mmHg; Heart rate 102 bpm; Body temperature 36.5 C; Blood pressure 125/80 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

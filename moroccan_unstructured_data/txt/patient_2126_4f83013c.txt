@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: 4f83013c-8c52-46ec-a957-3dffe5a5b510
+Sexe: Féminin, Né(e) le: 12 juillet 1929
+Âge: 96 ans
+Adresse: Avenue Hassan II 180, Casablanca
+
+Médecin: Dr. Da Silva | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4f83013c-8c52-46ec-a957-3dffe5a5b510",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "1929-07-12",
+  "birthdate_iso": "1929-07-12",
+  "gender": "F",
+  "address": "Avenue Hassan II 180, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2014)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/02/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 94/78 mmHg (Date: 10/08/2024)
+- Heart rate: 112 bpm (Date: 10/08/2024)
+- Body temperature: 37.7 C (Date: 10/08/2024)
+- Total cholesterol: 209 mg/dL (Date: 10/08/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 octobre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 777 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 777 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 96 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 94/78 mmHg; Heart rate 112 bpm; Body temperature 37.7 C; Total cholesterol 209 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: c463f3f6-acbe-452b-9f5a-0626cff02ce4
+Sexe: Féminin, Né(e) le: 26 février 1953
+Âge: 72 ans
+Adresse: Avenue Al Massira 121, Casablanca
+
+Médecin: Dr. Menard | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c463f3f6-acbe-452b-9f5a-0626cff02ce4",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1953-02-26",
+  "birthdate_iso": "1953-02-26",
+  "gender": "F",
+  "address": "Avenue Al Massira 121, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2011)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/10/2011 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 107/79 mmHg (Date: 10/08/2025)
+- Heart rate: 77 bpm (Date: 10/08/2025)
+- Body temperature: 37.5 C (Date: 10/08/2025)
+- Total cholesterol: 166 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 mai 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Sulfa drugs (Identifiée le: 10/11/2013)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 321 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 321 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 72 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 107/79 mmHg; Heart rate 77 bpm; Body temperature 37.5 C; Total cholesterol 166 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

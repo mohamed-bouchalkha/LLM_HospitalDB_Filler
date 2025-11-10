@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zakaria Alaoui
+ID Patient: 5b339a5c-e156-4690-9533-ab9531f0e6ee
+Sexe: Masculin, Né(e) le: 30 avril 1936
+Âge: 89 ans
+Adresse: Place Marrakech 167, Rabat
+
+Médecin: Dr. Marchal | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5b339a5c-e156-4690-9533-ab9531f0e6ee",
+  "first_name": "Zakaria",
+  "last_name": "Alaoui",
+  "full_name": "Zakaria Alaoui",
+  "birthdate": "1936-04-30",
+  "birthdate_iso": "1936-04-30",
+  "gender": "M",
+  "address": "Place Marrakech 167, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/02/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/83 mmHg (Date: 10/09/2025)
+- Heart rate: 105 bpm (Date: 10/09/2025)
+- Body temperature: 37.9 C (Date: 10/09/2025)
+- Blood pressure: 114/95 mmHg (Date: 10/11/2025)
+- Heart rate: 106 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2025)
+- Electrocardiogram (Effectuée le: 10 juin 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 321 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 821 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 1 194 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 335 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 89 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 128/83 mmHg; Heart rate 105 bpm; Body temperature 37.9 C; Blood pressure 114/95 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

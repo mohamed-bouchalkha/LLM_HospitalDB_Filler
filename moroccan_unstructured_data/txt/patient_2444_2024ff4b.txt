@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: 2024ff4b-7643-4b96-b596-a5d298e7e17c
+Sexe: Féminin, Né(e) le: 22 novembre 1928
+Âge: 96 ans
+Adresse: Boulevard Casablanca 168, Casablanca
+
+Médecin: Dr. Pichon | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2024ff4b-7643-4b96-b596-a5d298e7e17c",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1928-11-22",
+  "birthdate_iso": "1928-11-22",
+  "gender": "F",
+  "address": "Boulevard Casablanca 168, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2024)
+- Hypertension (Diagnostiquée le: 10/03/2007)
+- Asthma (Diagnostiquée le: 10/05/2017)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/11/2025 au En cours] (Actif)
+- Metformin 500 mg [Du 26/05/2024 au En cours] (Actif)
+- Salbutamol inhaler [Du 01/06/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 108/90 mmHg (Date: 10/01/2024)
+- Heart rate: 90 bpm (Date: 10/01/2024)
+- Body temperature: 36.8 C (Date: 10/01/2024)
+- Glucose: 117 mg/dL (Date: 10/01/2024)
+- Hemoglobin A1c: 5.8 % (Date: 10/01/2024)
+- Total cholesterol: 207 mg/dL (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juin 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 916 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 916 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 96 ans. Antécédents: Asthma, Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Metformin 500 mg, Salbutamol 100 mcg inhaler, Salbutamol inhaler. Dernières mesures pertinentes: Blood pressure 108/90 mmHg; Heart rate 90 bpm; Body temperature 36.8 C; Glucose 117 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

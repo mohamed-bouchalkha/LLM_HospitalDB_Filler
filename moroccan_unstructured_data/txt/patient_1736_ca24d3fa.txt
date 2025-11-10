@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: ca24d3fa-fb52-4865-a7c1-af365d698373
+Sexe: Masculin, Né(e) le: 30 décembre 1937
+Âge: 87 ans
+Adresse: Place Mohammed V 185, Casablanca
+
+Médecin: Dr. Barre | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ca24d3fa-fb52-4865-a7c1-af365d698373",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1937-12-30",
+  "birthdate_iso": "1937-12-30",
+  "gender": "M",
+  "address": "Place Mohammed V 185, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2010)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/09/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/61 mmHg (Date: 10/11/2024)
+- Heart rate: 114 bpm (Date: 10/11/2024)
+- Body temperature: 38.0 C (Date: 10/11/2024)
+- Total cholesterol: 246 mg/dL (Date: 10/11/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 639 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 639 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 87 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 99/61 mmHg; Heart rate 114 bpm; Body temperature 38.0 C; Total cholesterol 246 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: bf65c710-bca6-4ca9-bd3b-76cda3715839
+Sexe: Masculin, Né(e) le: 26 octobre 1928
+Âge: 97 ans
+Adresse: Place Al Massira 196, Casablanca
+
+Médecin: Dr. Martins | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "bf65c710-bca6-4ca9-bd3b-76cda3715839",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1928-10-26",
+  "birthdate_iso": "1928-10-26",
+  "gender": "M",
+  "address": "Place Al Massira 196, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 02/02/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 133/94 mmHg (Date: 10/12/2024)
+- Heart rate: 64 bpm (Date: 10/12/2024)
+- Body temperature: 37.7 C (Date: 10/12/2024)
+- Total cholesterol: 219 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 avril 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 358 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 358 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 97 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 133/94 mmHg; Heart rate 64 bpm; Body temperature 37.7 C; Total cholesterol 219 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

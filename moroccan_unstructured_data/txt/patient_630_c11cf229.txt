@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ali Jabri
+ID Patient: c11cf229-36f9-4023-972c-69aa3365e218
+Sexe: Masculin, Né(e) le: 16 septembre 1926
+Âge: 99 ans
+Adresse: Rue Hassan II 158, Rabat
+
+Médecin: Dr. Sauvage | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c11cf229-36f9-4023-972c-69aa3365e218",
+  "first_name": "Ali",
+  "last_name": "Jabri",
+  "full_name": "Ali Jabri",
+  "birthdate": "1926-09-16",
+  "birthdate_iso": "1926-09-16",
+  "gender": "M",
+  "address": "Rue Hassan II 158, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2010)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 03/06/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 119/93 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+- Blood pressure: 90/96 mmHg (Date: 10/11/2025)
+- Heart rate: 118 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2025)
+- Pneumococcal (elderly) (Administré le: 10 février 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 598 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 533 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 131 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 99 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 119/93 mmHg; Heart rate 89 bpm; Body temperature 36.7 C; Blood pressure 90/96 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

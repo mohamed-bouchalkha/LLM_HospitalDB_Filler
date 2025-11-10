@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: 02901b7b-f3e3-4eed-9740-7fe13be8a3ff
+Sexe: Masculin, Né(e) le: 2 janvier 1957
+Âge: 68 ans
+Adresse: Boulevard Fès 41, Casablanca
+
+Médecin: Dr. Munoz | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "02901b7b-f3e3-4eed-9740-7fe13be8a3ff",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1957-01-02",
+  "birthdate_iso": "1957-01-02",
+  "gender": "M",
+  "address": "Boulevard Fès 41, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2014)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 19/03/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/63 mmHg (Date: 10/08/2025)
+- Heart rate: 98 bpm (Date: 10/08/2025)
+- Body temperature: 38.0 C (Date: 10/08/2025)
+- Total cholesterol: 222 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 879 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 879 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 68 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 91/63 mmHg; Heart rate 98 bpm; Body temperature 38.0 C; Total cholesterol 222 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

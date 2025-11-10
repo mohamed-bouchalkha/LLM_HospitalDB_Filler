@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Omar Mernissi
+ID Patient: b500e462-b4e7-478c-9cfc-5ab619faabcc
+Sexe: Masculin, Né(e) le: 26 février 1978
+Âge: 47 ans
+Adresse: Boulevard Al Wahda 119, Rabat
+
+Médecin: Dr. Andre | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b500e462-b4e7-478c-9cfc-5ab619faabcc",
+  "first_name": "Omar",
+  "last_name": "Mernissi",
+  "full_name": "Omar Mernissi",
+  "birthdate": "1978-02-26",
+  "birthdate_iso": "1978-02-26",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 119, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 03/12/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 116/88 mmHg (Date: 10/08/2024)
+- Heart rate: 87 bpm (Date: 10/08/2024)
+- Body temperature: 37.5 C (Date: 10/08/2024)
+- Blood pressure: 100/79 mmHg (Date: 10/11/2025)
+- Heart rate: 83 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2023)
+- Electrocardiogram (Effectuée le: 10 octobre 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 1 050 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 871 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 695 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 410 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 47 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 116/88 mmHg; Heart rate 87 bpm; Body temperature 37.5 C; Blood pressure 100/79 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

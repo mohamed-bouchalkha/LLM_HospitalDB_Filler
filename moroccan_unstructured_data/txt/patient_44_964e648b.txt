@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Said Berrada
+ID Patient: 964e648b-199e-4fe2-b176-d1d2e05b84df
+Sexe: Masculin, Né(e) le: 12 septembre 2010
+Âge: 15 ans
+Adresse: Place Marrakech 152, Rabat
+
+Médecin: Dr. Parent | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "964e648b-199e-4fe2-b176-d1d2e05b84df",
+  "first_name": "Said",
+  "last_name": "Berrada",
+  "full_name": "Said Berrada",
+  "birthdate": "2010-09-12",
+  "birthdate_iso": "2010-09-12",
+  "gender": "M",
+  "address": "Place Marrakech 152, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 139/89 mmHg (Date: 10/11/2025)
+- Heart rate: 82 bpm (Date: 10/11/2025)
+- Body temperature: 38.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 juillet 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 601 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 601 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 15 ans de sexe masculin, venu(e) pour un contrôle clinique. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 139/89 mmHg; Heart rate 82 bpm; Body temperature 38.0 C. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

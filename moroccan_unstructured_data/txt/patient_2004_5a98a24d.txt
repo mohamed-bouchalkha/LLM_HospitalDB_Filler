@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: 5a98a24d-526c-47bb-a6e1-432e48e83bf6
+Sexe: Féminin, Né(e) le: 18 janvier 1971
+Âge: 54 ans
+Adresse: Boulevard Mohammed V 38, Casablanca
+
+Médecin: Dr. Delannoy | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5a98a24d-526c-47bb-a6e1-432e48e83bf6",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1971-01-18",
+  "birthdate_iso": "1971-01-18",
+  "gender": "F",
+  "address": "Boulevard Mohammed V 38, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2018)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/02/2025 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/03/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/75 mmHg (Date: 10/02/2025)
+- Heart rate: 98 bpm (Date: 10/02/2025)
+- Body temperature: 37.3 C (Date: 10/02/2025)
+- Total cholesterol: 234 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 858 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 858 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 54 ans. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 118/75 mmHg; Heart rate 98 bpm; Body temperature 37.3 C; Total cholesterol 234 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

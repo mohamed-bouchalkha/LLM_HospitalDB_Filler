@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: e5b6c40f-4c47-4838-8688-18209a3d27d8
+Sexe: Masculin, Né(e) le: 4 octobre 1934
+Âge: 91 ans
+Adresse: Rue Marrakech 181, Casablanca
+
+Médecin: Dr. Chevallier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e5b6c40f-4c47-4838-8688-18209a3d27d8",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1934-10-04",
+  "birthdate_iso": "1934-10-04",
+  "gender": "M",
+  "address": "Rue Marrakech 181, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/02/2025 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/02/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/89 mmHg (Date: 10/12/2023)
+- Heart rate: 74 bpm (Date: 10/12/2023)
+- Body temperature: 36.7 C (Date: 10/12/2023)
+- Total cholesterol: 154 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 octobre 2022)
+- Pneumococcal (elderly) (Administré le: 10 décembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 997 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 997 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 91 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 130/89 mmHg; Heart rate 74 bpm; Body temperature 36.7 C; Total cholesterol 154 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

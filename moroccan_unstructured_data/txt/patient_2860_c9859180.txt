@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: c9859180-66f7-4a3a-90c4-d6a6647aa679
+Sexe: Masculin, Né(e) le: 15 juillet 1945
+Âge: 80 ans
+Adresse: Place Fès 145, Casablanca
+
+Médecin: Dr. Collet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c9859180-66f7-4a3a-90c4-d6a6647aa679",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1945-07-15",
+  "birthdate_iso": "1945-07-15",
+  "gender": "M",
+  "address": "Place Fès 145, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2017)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/12/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/88 mmHg (Date: 10/09/2024)
+- Heart rate: 69 bpm (Date: 10/09/2024)
+- Body temperature: 37.0 C (Date: 10/09/2024)
+- Total cholesterol: 177 mg/dL (Date: 10/09/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2025)
+- Pneumococcal (elderly) (Administré le: 10 janvier 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 666 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 666 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 80 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 111/88 mmHg; Heart rate 69 bpm; Body temperature 37.0 C; Total cholesterol 177 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hanane Alaoui
+ID Patient: dba948db-f856-44f6-9b7c-36e2e88a0e90
+Sexe: Féminin, Né(e) le: 6 juillet 1995
+Âge: 30 ans
+Adresse: Rue Casablanca 103, Rabat
+
+Médecin: Dr. Ruiz | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "dba948db-f856-44f6-9b7c-36e2e88a0e90",
+  "first_name": "Hanane",
+  "last_name": "Alaoui",
+  "full_name": "Hanane Alaoui",
+  "birthdate": "1995-07-06",
+  "birthdate_iso": "1995-07-06",
+  "gender": "F",
+  "address": "Rue Casablanca 103, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 04/05/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 135/62 mmHg (Date: 10/08/2025)
+- Heart rate: 93 bpm (Date: 10/08/2025)
+- Body temperature: 37.8 C (Date: 10/08/2025)
+- Blood pressure: 92/80 mmHg (Date: 10/11/2025)
+- Heart rate: 62 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2024)
+- Electrocardiogram (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 634 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 1 060 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 317 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 012 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 30 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 135/62 mmHg; Heart rate 93 bpm; Body temperature 37.8 C; Blood pressure 92/80 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alaoui
+ID Patient: b4a36af4-4054-4a31-b21e-09d23ef8b776
+Sexe: Féminin, Né(e) le: 4 octobre 1940
+Âge: 85 ans
+Adresse: Avenue Casablanca 109, Casablanca
+
+Médecin: Dr. De Sousa | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b4a36af4-4054-4a31-b21e-09d23ef8b776",
+  "first_name": "Fatima",
+  "last_name": "Alaoui",
+  "full_name": "Fatima Alaoui",
+  "birthdate": "1940-10-04",
+  "birthdate_iso": "1940-10-04",
+  "gender": "F",
+  "address": "Avenue Casablanca 109, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2020)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 08/10/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/66 mmHg (Date: 10/04/2025)
+- Heart rate: 60 bpm (Date: 10/04/2025)
+- Body temperature: 37.3 C (Date: 10/04/2025)
+- Total cholesterol: 219 mg/dL (Date: 10/04/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2023)
+- Pneumococcal (elderly) (Administré le: 10 octobre 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 979 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 979 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 85 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 91/66 mmHg; Heart rate 60 bpm; Body temperature 37.3 C; Total cholesterol 219 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

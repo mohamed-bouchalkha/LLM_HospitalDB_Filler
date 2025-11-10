@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hayat Benjelloun
+ID Patient: 4315193f-c265-4ed6-8d2d-3b4e245fc66c
+Sexe: Féminin, Né(e) le: 8 juin 1993
+Âge: 32 ans
+Adresse: Avenue Mohammed V 30, Rabat
+
+Médecin: Dr. Peltier | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4315193f-c265-4ed6-8d2d-3b4e245fc66c",
+  "first_name": "Hayat",
+  "last_name": "Benjelloun",
+  "full_name": "Hayat Benjelloun",
+  "birthdate": "1993-06-08",
+  "birthdate_iso": "1993-06-08",
+  "gender": "F",
+  "address": "Avenue Mohammed V 30, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 26/12/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 131/69 mmHg (Date: 10/10/2025)
+- Heart rate: 111 bpm (Date: 10/10/2025)
+- Body temperature: 37.6 C (Date: 10/10/2025)
+- Blood pressure: 108/60 mmHg (Date: 10/11/2025)
+- Heart rate: 107 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 février 2024)
+- Electrocardiogram (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 696 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 981 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 498 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 883 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 32 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 131/69 mmHg; Heart rate 111 bpm; Body temperature 37.6 C; Blood pressure 108/60 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

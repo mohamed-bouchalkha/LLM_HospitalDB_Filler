@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Naima Chraibi
+ID Patient: 1ae3249e-c0c7-43ab-a8f1-575bd3462065
+Sexe: Féminin, Né(e) le: 28 novembre 2014
+Âge: 10 ans
+Adresse: Avenue Marrakech 92, Rabat
+
+Médecin: Dr. Robin | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1ae3249e-c0c7-43ab-a8f1-575bd3462065",
+  "first_name": "Naima",
+  "last_name": "Chraibi",
+  "full_name": "Naima Chraibi",
+  "birthdate": "2014-11-28",
+  "birthdate_iso": "2014-11-28",
+  "gender": "F",
+  "address": "Avenue Marrakech 92, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Asthma (Diagnostiquée le: 10/07/2024)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/03/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 94/88 mmHg (Date: 10/07/2025)
+- Heart rate: 86 bpm (Date: 10/07/2025)
+- Body temperature: 37.0 C (Date: 10/07/2025)
+- Blood pressure: 120/84 mmHg (Date: 10/11/2025)
+- Heart rate: 85 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Spirometry (Effectuée le: 10 septembre 2025)
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 mars 2025)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2025)
+- Shellfish (Identifiée le: 10/11/2006)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 864 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 671 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 908 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 443 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 10 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Asthma. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 94/88 mmHg; Heart rate 86 bpm; Body temperature 37.0 C; Blood pressure 120/84 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

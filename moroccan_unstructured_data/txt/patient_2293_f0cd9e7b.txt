@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: f0cd9e7b-c73c-47f4-a154-f3ad525e51ae
+Sexe: Masculin, Né(e) le: 19 septembre 1946
+Âge: 79 ans
+Adresse: Boulevard Marrakech 132, Casablanca
+
+Médecin: Dr. Faivre | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f0cd9e7b-c73c-47f4-a154-f3ad525e51ae",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1946-09-19",
+  "birthdate_iso": "1946-09-19",
+  "gender": "M",
+  "address": "Boulevard Marrakech 132, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2024)
+- Hypertension (Diagnostiquée le: 10/05/2019)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 19/05/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 26/05/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 90/88 mmHg (Date: 10/02/2024)
+- Heart rate: 99 bpm (Date: 10/02/2024)
+- Body temperature: 37.5 C (Date: 10/02/2024)
+- Glucose: 116 mg/dL (Date: 10/02/2024)
+- Hemoglobin A1c: 7.2 % (Date: 10/02/2024)
+- Total cholesterol: 225 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 838 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 838 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 79 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 90/88 mmHg; Heart rate 99 bpm; Body temperature 37.5 C; Glucose 116 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: b3cc7ed0-9837-4e85-940f-3afcbede960d
+Sexe: Masculin, Né(e) le: 22 mars 1966
+Âge: 59 ans
+Adresse: Place Casablanca 190, Casablanca
+
+Médecin: Dr. Gonzalez | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b3cc7ed0-9837-4e85-940f-3afcbede960d",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1966-03-22",
+  "birthdate_iso": "1966-03-22",
+  "gender": "M",
+  "address": "Place Casablanca 190, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2018)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/03/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 90/65 mmHg (Date: 10/09/2024)
+- Heart rate: 114 bpm (Date: 10/09/2024)
+- Body temperature: 37.1 C (Date: 10/09/2024)
+- Total cholesterol: 157 mg/dL (Date: 10/09/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 636 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 636 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 59 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 90/65 mmHg; Heart rate 114 bpm; Body temperature 37.1 C; Total cholesterol 157 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

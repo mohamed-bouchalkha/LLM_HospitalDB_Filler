@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mariam Saidi
+ID Patient: 42380f8f-b28a-4c46-938e-ce0ba4201834
+Sexe: Féminin, Né(e) le: 15 décembre 1956
+Âge: 68 ans
+Adresse: Avenue Hassan II 71, Rabat
+
+Médecin: Dr. Lévy | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "42380f8f-b28a-4c46-938e-ce0ba4201834",
+  "first_name": "Mariam",
+  "last_name": "Saidi",
+  "full_name": "Mariam Saidi",
+  "birthdate": "1956-12-15",
+  "birthdate_iso": "1956-12-15",
+  "gender": "F",
+  "address": "Avenue Hassan II 71, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 21/09/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 100/71 mmHg (Date: 10/03/2025)
+- Heart rate: 75 bpm (Date: 10/03/2025)
+- Body temperature: 37.1 C (Date: 10/03/2025)
+- Blood pressure: 114/64 mmHg (Date: 10/11/2025)
+- Heart rate: 81 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2025)
+- Electrocardiogram (Effectuée le: 10 mars 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mai 2022)
+- Pneumococcal (elderly) (Administré le: 10 juin 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 472 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 1 104 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 700 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 275 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 68 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 100/71 mmHg; Heart rate 75 bpm; Body temperature 37.1 C; Blood pressure 114/64 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: 99a22679-22e5-459c-b8cd-963ac4828357
+Sexe: Masculin, Né(e) le: 26 septembre 1940
+Âge: 85 ans
+Adresse: Boulevard Fès 120, Casablanca
+
+Médecin: Dr. Rémy | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "99a22679-22e5-459c-b8cd-963ac4828357",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1940-09-26",
+  "birthdate_iso": "1940-09-26",
+  "gender": "M",
+  "address": "Boulevard Fès 120, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2016)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/05/2025 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/07/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/70 mmHg (Date: 10/04/2024)
+- Heart rate: 102 bpm (Date: 10/04/2024)
+- Body temperature: 36.9 C (Date: 10/04/2024)
+- Total cholesterol: 238 mg/dL (Date: 10/04/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 septembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 544 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 544 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 85 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 99/70 mmHg; Heart rate 102 bpm; Body temperature 36.9 C; Total cholesterol 238 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: 53ed328b-1c17-4314-9d48-554a1e2fdcb7
+Sexe: Féminin, Né(e) le: 20 octobre 1984
+Âge: 41 ans
+Adresse: Place Al Wahda 9, Casablanca
+
+Médecin: Dr. Bazin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "53ed328b-1c17-4314-9d48-554a1e2fdcb7",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1984-10-20",
+  "birthdate_iso": "1984-10-20",
+  "gender": "F",
+  "address": "Place Al Wahda 9, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 24/11/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/62 mmHg (Date: 10/12/2023)
+- Heart rate: 106 bpm (Date: 10/12/2023)
+- Body temperature: 37.6 C (Date: 10/12/2023)
+- Total cholesterol: 206 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 622 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 622 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 41 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 124/62 mmHg; Heart rate 106 bpm; Body temperature 37.6 C; Total cholesterol 206 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

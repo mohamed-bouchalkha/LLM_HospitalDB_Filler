@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: 1e452a4b-c665-4b73-9114-e0f17ce0f6f2
+Sexe: Masculin, Né(e) le: 5 octobre 1995
+Âge: 30 ans
+Adresse: Avenue Al Wahda 155, Casablanca
+
+Médecin: Dr. Deschamps | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1e452a4b-c665-4b73-9114-e0f17ce0f6f2",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1995-10-05",
+  "birthdate_iso": "1995-10-05",
+  "gender": "M",
+  "address": "Avenue Al Wahda 155, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/06/2024 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/07/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/73 mmHg (Date: 10/02/2024)
+- Heart rate: 115 bpm (Date: 10/02/2024)
+- Body temperature: 38.0 C (Date: 10/02/2024)
+- Total cholesterol: 210 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 décembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 055 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 055 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 30 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 132/73 mmHg; Heart rate 115 bpm; Body temperature 38.0 C; Total cholesterol 210 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

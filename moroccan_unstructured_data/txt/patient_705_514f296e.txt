@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Omar Mernissi
+ID Patient: 514f296e-e0b2-4c24-80b1-1c6b05048245
+Sexe: Masculin, Né(e) le: 14 février 2012
+Âge: 13 ans
+Adresse: Boulevard Al Wahda 27, Rabat
+
+Médecin: Dr. Parent | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "514f296e-e0b2-4c24-80b1-1c6b05048245",
+  "first_name": "Omar",
+  "last_name": "Mernissi",
+  "full_name": "Omar Mernissi",
+  "birthdate": "2012-02-14",
+  "birthdate_iso": "2012-02-14",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 27, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 97/89 mmHg (Date: 10/11/2025)
+- Heart rate: 95 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 octobre 2021)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 septembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 592 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 592 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 13 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 97/89 mmHg; Heart rate 95 bpm; Body temperature 36.6 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: be1286ed-fbf8-4ea6-bcd9-7a01687be5c7
+Sexe: Masculin, Né(e) le: 29 avril 1996
+Âge: 29 ans
+Adresse: Avenue Al Wahda 97, Casablanca
+
+Médecin: Dr. Mendès | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "be1286ed-fbf8-4ea6-bcd9-7a01687be5c7",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1996-04-29",
+  "birthdate_iso": "1996-04-29",
+  "gender": "M",
+  "address": "Avenue Al Wahda 97, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2023)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/02/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/80 mmHg (Date: 10/12/2023)
+- Heart rate: 105 bpm (Date: 10/12/2023)
+- Body temperature: 37.0 C (Date: 10/12/2023)
+- Total cholesterol: 216 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 548 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 548 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 29 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 115/80 mmHg; Heart rate 105 bpm; Body temperature 37.0 C; Total cholesterol 216 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

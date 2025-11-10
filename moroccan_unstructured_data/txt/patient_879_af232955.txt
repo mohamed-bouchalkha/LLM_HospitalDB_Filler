@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Saidi
+ID Patient: af232955-f62d-49cc-a56f-e12b3c4b0c23
+Sexe: Masculin, Né(e) le: 8 février 1953
+Âge: 72 ans
+Adresse: Rue Al Wahda 90, Rabat
+
+Médecin: Dr. Duval | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "af232955-f62d-49cc-a56f-e12b3c4b0c23",
+  "first_name": "Mohamed",
+  "last_name": "Saidi",
+  "full_name": "Mohamed Saidi",
+  "birthdate": "1953-02-08",
+  "birthdate_iso": "1953-02-08",
+  "gender": "M",
+  "address": "Rue Al Wahda 90, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 16/03/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/81 mmHg (Date: 10/12/2024)
+- Heart rate: 79 bpm (Date: 10/12/2024)
+- Body temperature: 37.3 C (Date: 10/12/2024)
+- Blood pressure: 105/63 mmHg (Date: 10/11/2025)
+- Heart rate: 119 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+- Electrocardiogram (Effectuée le: 10 octobre 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 novembre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 486 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 968 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 314 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 195 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 72 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 95/81 mmHg; Heart rate 79 bpm; Body temperature 37.3 C; Blood pressure 105/63 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

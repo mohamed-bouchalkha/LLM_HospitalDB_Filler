@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Souad Mernissi
+ID Patient: 1de80b8c-aea6-4dcd-8aa8-2d6b2f561734
+Sexe: Féminin, Né(e) le: 18 avril 1928
+Âge: 97 ans
+Adresse: Boulevard Marrakech 170, Rabat
+
+Médecin: Dr. Turpin | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1de80b8c-aea6-4dcd-8aa8-2d6b2f561734",
+  "first_name": "Souad",
+  "last_name": "Mernissi",
+  "full_name": "Souad Mernissi",
+  "birthdate": "1928-04-18",
+  "birthdate_iso": "1928-04-18",
+  "gender": "F",
+  "address": "Boulevard Marrakech 170, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2016)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 02/12/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 120/89 mmHg (Date: 10/11/2025)
+- Heart rate: 92 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 125/99 mmHg (Date: 10/11/2025)
+- Heart rate: 68 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2025)
+- Electrocardiogram (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juin 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 février 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 339 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 1 029 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 712 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 081 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 97 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 120/89 mmHg; Heart rate 92 bpm; Body temperature 37.7 C; Blood pressure 125/99 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

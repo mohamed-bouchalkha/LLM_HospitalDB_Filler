@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Said Khalil
+ID Patient: ab105568-efd4-4fbd-86ea-1cf271cca319
+Sexe: Masculin, Né(e) le: 24 mai 1989
+Âge: 36 ans
+Adresse: Avenue Al Massira 135, Rabat
+
+Médecin: Dr. Evrard | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ab105568-efd4-4fbd-86ea-1cf271cca319",
+  "first_name": "Said",
+  "last_name": "Khalil",
+  "full_name": "Said Khalil",
+  "birthdate": "1989-05-24",
+  "birthdate_iso": "1989-05-24",
+  "gender": "M",
+  "address": "Avenue Al Massira 135, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/83 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+- Blood pressure: 136/69 mmHg (Date: 10/11/2025)
+- Heart rate: 68 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juillet 2025)
+- Pneumococcal (Administré le: 10 avril 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 701 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 722 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 423 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 36 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 134/83 mmHg; Heart rate 114 bpm; Body temperature 37.4 C; Blood pressure 136/69 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

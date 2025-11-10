@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Nora Skalli
+ID Patient: 1ffbe115-57e0-4455-b6cb-728a704a3352
+Sexe: Féminin, Né(e) le: 1 janvier 1943
+Âge: 82 ans
+Adresse: Rue Fès 147, Rabat
+
+Médecin: Dr. Richard | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1ffbe115-57e0-4455-b6cb-728a704a3352",
+  "first_name": "Nora",
+  "last_name": "Skalli",
+  "full_name": "Nora Skalli",
+  "birthdate": "1943-01-01",
+  "birthdate_iso": "1943-01-01",
+  "gender": "F",
+  "address": "Rue Fès 147, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 22/05/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/62 mmHg (Date: 10/09/2025)
+- Heart rate: 117 bpm (Date: 10/09/2025)
+- Body temperature: 37.6 C (Date: 10/09/2025)
+- Blood pressure: 117/93 mmHg (Date: 10/11/2025)
+- Heart rate: 111 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Latex (Identifiée le: 10/11/2025)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 614 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 1 210 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 395 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 219 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 82 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 115/62 mmHg; Heart rate 117 bpm; Body temperature 37.6 C; Blood pressure 117/93 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

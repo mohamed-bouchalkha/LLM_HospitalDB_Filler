@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: b697095f-aeda-455f-9cad-a1f6fb7f38a0
+Sexe: Masculin, Né(e) le: 30 juillet 1935
+Âge: 90 ans
+Adresse: Rue Al Wahda 39, Rabat
+
+Médecin: Dr. Gillet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b697095f-aeda-455f-9cad-a1f6fb7f38a0",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1935-07-30",
+  "birthdate_iso": "1935-07-30",
+  "gender": "M",
+  "address": "Rue Al Wahda 39, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/06/2024)
+- Hypertension (Diagnostiquée le: 10/10/2018)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 17/06/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 08/11/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/81 mmHg (Date: 10/04/2024)
+- Heart rate: 81 bpm (Date: 10/04/2024)
+- Body temperature: 37.8 C (Date: 10/04/2024)
+- Glucose: 127 mg/dL (Date: 10/04/2024)
+- Hemoglobin A1c: 5.4 % (Date: 10/04/2024)
+- Total cholesterol: 201 mg/dL (Date: 10/04/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juillet 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2025, modalité: 366740001, site: 81745001
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 217 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 217 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 90 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 134/81 mmHg; Heart rate 81 bpm; Body temperature 37.8 C; Glucose 127 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Bilal Alaoui
+ID Patient: eae9936e-236c-4910-a1fa-2249037ded36
+Sexe: Masculin, Né(e) le: 25 janvier 1988
+Âge: 37 ans
+Adresse: Boulevard Fès 29, Rabat
+
+Médecin: Dr. Techer | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "eae9936e-236c-4910-a1fa-2249037ded36",
+  "first_name": "Bilal",
+  "last_name": "Alaoui",
+  "full_name": "Bilal Alaoui",
+  "birthdate": "1988-01-25",
+  "birthdate_iso": "1988-01-25",
+  "gender": "M",
+  "address": "Boulevard Fès 29, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/04/2024)
+- Hypertension (Diagnostiquée le: 10/09/2023)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 28/04/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 25/09/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/63 mmHg (Date: 10/11/2025)
+- Heart rate: 78 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+- Blood pressure: 98/80 mmHg (Date: 10/11/2025)
+- Heart rate: 119 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 avril 2024)
+- Blood pressure measurement (Effectuée le: 10 juillet 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 828 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 840 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 862 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 529 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 37 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 130/63 mmHg; Heart rate 78 bpm; Body temperature 36.6 C; Blood pressure 98/80 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

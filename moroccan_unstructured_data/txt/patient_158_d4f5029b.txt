@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yassin Mernissi
+ID Patient: d4f5029b-fd8c-4221-8e88-22a8e04a27f2
+Sexe: Masculin, Né(e) le: 11 mars 1925
+Âge: 100 ans
+Adresse: Avenue Al Massira 109, Rabat
+
+Médecin: Dr. Bousquet | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d4f5029b-fd8c-4221-8e88-22a8e04a27f2",
+  "first_name": "Yassin",
+  "last_name": "Mernissi",
+  "full_name": "Yassin Mernissi",
+  "birthdate": "1925-03-11",
+  "birthdate_iso": "1925-03-11",
+  "gender": "M",
+  "address": "Avenue Al Massira 109, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/09/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 93/61 mmHg (Date: 10/11/2024)
+- Heart rate: 71 bpm (Date: 10/11/2024)
+- Body temperature: 37.7 C (Date: 10/11/2024)
+- Blood pressure: 108/70 mmHg (Date: 10/11/2025)
+- Heart rate: 101 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 janvier 2024)
+- Electrocardiogram (Effectuée le: 10 juillet 2024)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 815 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 889 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 849 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 553 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 100 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 93/61 mmHg; Heart rate 71 bpm; Body temperature 37.7 C; Blood pressure 108/70 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

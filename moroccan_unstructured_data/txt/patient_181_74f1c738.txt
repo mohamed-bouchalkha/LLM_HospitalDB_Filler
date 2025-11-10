@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Samir Mansouri
+ID Patient: 74f1c738-0f4f-4b64-9cc6-2fa980bb6063
+Sexe: Masculin, Né(e) le: 24 janvier 2020
+Âge: 5 ans
+Adresse: Boulevard Mohammed V 55, Rabat
+
+Médecin: Dr. Mercier | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "74f1c738-0f4f-4b64-9cc6-2fa980bb6063",
+  "first_name": "Samir",
+  "last_name": "Mansouri",
+  "full_name": "Samir Mansouri",
+  "birthdate": "2020-01-24",
+  "birthdate_iso": "2020-01-24",
+  "gender": "M",
+  "address": "Boulevard Mohammed V 55, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/93 mmHg (Date: 10/11/2025)
+- Heart rate: 106 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+- Blood pressure: 138/84 mmHg (Date: 10/11/2025)
+- Heart rate: 78 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 septembre 2022)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 août 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 534 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 545 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 079 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 5 ans. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 102/93 mmHg; Heart rate 106 bpm; Body temperature 37.2 C; Blood pressure 138/84 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

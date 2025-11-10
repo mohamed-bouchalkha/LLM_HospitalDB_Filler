@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Samira Rhanem
+ID Patient: 129ad1d5-1edf-4a90-8772-20d6a55cd713
+Sexe: Féminin, Né(e) le: 18 juin 1928
+Âge: 97 ans
+Adresse: Boulevard Al Wahda 106, Rabat
+
+Médecin: Dr. Navarro | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "129ad1d5-1edf-4a90-8772-20d6a55cd713",
+  "first_name": "Samira",
+  "last_name": "Rhanem",
+  "full_name": "Samira Rhanem",
+  "birthdate": "1928-06-18",
+  "birthdate_iso": "1928-06-18",
+  "gender": "F",
+  "address": "Boulevard Al Wahda 106, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2018)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/10/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/68 mmHg (Date: 10/02/2024)
+- Heart rate: 64 bpm (Date: 10/02/2024)
+- Body temperature: 37.5 C (Date: 10/02/2024)
+- Blood pressure: 123/74 mmHg (Date: 10/11/2025)
+- Heart rate: 65 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 435 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 532 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 731 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 698 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 97 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 95/68 mmHg; Heart rate 64 bpm; Body temperature 37.5 C; Blood pressure 123/74 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

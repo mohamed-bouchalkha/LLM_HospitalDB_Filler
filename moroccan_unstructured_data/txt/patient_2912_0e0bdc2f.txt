@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 0e0bdc2f-1582-4c26-9801-e1fac6b3f156
+Sexe: Masculin, Né(e) le: 28 août 1939
+Âge: 86 ans
+Adresse: Rue Al Wahda 106, Casablanca
+
+Médecin: Dr. Cordier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0e0bdc2f-1582-4c26-9801-e1fac6b3f156",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1939-08-28",
+  "birthdate_iso": "1939-08-28",
+  "gender": "M",
+  "address": "Rue Al Wahda 106, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2014)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 24/08/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 106/99 mmHg (Date: 10/10/2024)
+- Heart rate: 99 bpm (Date: 10/10/2024)
+- Body temperature: 37.6 C (Date: 10/10/2024)
+- Total cholesterol: 163 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 577 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 577 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 86 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 106/99 mmHg; Heart rate 99 bpm; Body temperature 37.6 C; Total cholesterol 163 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

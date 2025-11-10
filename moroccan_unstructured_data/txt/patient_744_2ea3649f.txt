@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hafsa Laraki
+ID Patient: 2ea3649f-5f34-4b16-a1bb-13063f8d3d10
+Sexe: Féminin, Né(e) le: 6 juillet 1995
+Âge: 30 ans
+Adresse: Boulevard Marrakech 44, Rabat
+
+Médecin: Dr. Benoit | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2ea3649f-5f34-4b16-a1bb-13063f8d3d10",
+  "first_name": "Hafsa",
+  "last_name": "Laraki",
+  "full_name": "Hafsa Laraki",
+  "birthdate": "1995-07-06",
+  "birthdate_iso": "1995-07-06",
+  "gender": "F",
+  "address": "Boulevard Marrakech 44, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 13/09/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 104/60 mmHg (Date: 10/11/2025)
+- Heart rate: 88 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 114/92 mmHg (Date: 10/11/2025)
+- Heart rate: 100 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 782 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 635 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 417 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 30 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 104/60 mmHg; Heart rate 88 bpm; Body temperature 37.7 C; Blood pressure 114/92 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

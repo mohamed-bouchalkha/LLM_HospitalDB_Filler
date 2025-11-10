@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Lamrani
+ID Patient: cd6aa7e5-0fcf-4d73-b2ae-23d1056d3409
+Sexe: Féminin, Né(e) le: 17 juillet 1938
+Âge: 87 ans
+Adresse: Rue Al Wahda 58, Rabat
+
+Médecin: Dr. Hernandez | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "cd6aa7e5-0fcf-4d73-b2ae-23d1056d3409",
+  "first_name": "Aicha",
+  "last_name": "Lamrani",
+  "full_name": "Aicha Lamrani",
+  "birthdate": "1938-07-17",
+  "birthdate_iso": "1938-07-17",
+  "gender": "F",
+  "address": "Rue Al Wahda 58, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2010)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/04/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 123/96 mmHg (Date: 10/05/2024)
+- Heart rate: 119 bpm (Date: 10/05/2024)
+- Body temperature: 37.8 C (Date: 10/05/2024)
+- Blood pressure: 96/98 mmHg (Date: 10/11/2025)
+- Heart rate: 91 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2025)
+- Electrocardiogram (Effectuée le: 10 octobre 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 décembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 1 012 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 653 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 603 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 268 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 87 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 123/96 mmHg; Heart rate 119 bpm; Body temperature 37.8 C; Blood pressure 96/98 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

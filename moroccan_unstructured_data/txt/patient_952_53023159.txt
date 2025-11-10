@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Anas Laraki
+ID Patient: 53023159-1000-4256-9c04-d5572914be99
+Sexe: Masculin, Né(e) le: 17 juin 1966
+Âge: 59 ans
+Adresse: Avenue Casablanca 107, Rabat
+
+Médecin: Dr. Henry | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "53023159-1000-4256-9c04-d5572914be99",
+  "first_name": "Anas",
+  "last_name": "Laraki",
+  "full_name": "Anas Laraki",
+  "birthdate": "1966-06-17",
+  "birthdate_iso": "1966-06-17",
+  "gender": "M",
+  "address": "Avenue Casablanca 107, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/02/2025)
+- Hypertension (Diagnostiquée le: 10/09/2018)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 14/02/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 29/09/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/92 mmHg (Date: 10/09/2025)
+- Heart rate: 109 bpm (Date: 10/09/2025)
+- Body temperature: 36.7 C (Date: 10/09/2025)
+- Blood pressure: 109/81 mmHg (Date: 10/11/2025)
+- Heart rate: 73 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 novembre 2024)
+- Blood pressure measurement (Effectuée le: 10 octobre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 893 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 837 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 572 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 019 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 59 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 134/92 mmHg; Heart rate 109 bpm; Body temperature 36.7 C; Blood pressure 109/81 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

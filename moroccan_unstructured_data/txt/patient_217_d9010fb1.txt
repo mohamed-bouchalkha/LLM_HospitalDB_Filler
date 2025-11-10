@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yasmin Cherkaoui
+ID Patient: d9010fb1-9135-44ab-a5bb-8cebfb415a5c
+Sexe: Féminin, Né(e) le: 14 mars 2009
+Âge: 16 ans
+Adresse: Avenue Mohammed V 137, Rabat
+
+Médecin: Dr. Carre | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d9010fb1-9135-44ab-a5bb-8cebfb415a5c",
+  "first_name": "Yasmin",
+  "last_name": "Cherkaoui",
+  "full_name": "Yasmin Cherkaoui",
+  "birthdate": "2009-03-14",
+  "birthdate_iso": "2009-03-14",
+  "gender": "F",
+  "address": "Avenue Mohammed V 137, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 110/92 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 622 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 622 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 16 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 110/92 mmHg; Heart rate 114 bpm; Body temperature 37.3 C. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

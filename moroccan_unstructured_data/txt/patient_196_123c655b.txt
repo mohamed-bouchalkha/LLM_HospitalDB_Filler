@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ali El Khattabi
+ID Patient: 123c655b-a8aa-4601-8386-d0f819a656e1
+Sexe: Masculin, Né(e) le: 9 janvier 1937
+Âge: 88 ans
+Adresse: Rue Al Massira 68, Rabat
+
+Médecin: Dr. Perret | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "123c655b-a8aa-4601-8386-d0f819a656e1",
+  "first_name": "Ali",
+  "last_name": "El Khattabi",
+  "full_name": "Ali El Khattabi",
+  "birthdate": "1937-01-09",
+  "birthdate_iso": "1937-01-09",
+  "gender": "M",
+  "address": "Rue Al Massira 68, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 08/09/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/75 mmHg (Date: 10/01/2024)
+- Heart rate: 89 bpm (Date: 10/01/2024)
+- Body temperature: 37.4 C (Date: 10/01/2024)
+- Blood pressure: 119/64 mmHg (Date: 10/11/2025)
+- Heart rate: 74 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juin 2025)
+- Electrocardiogram (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 775 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 593 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 782 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 687 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 88 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 111/75 mmHg; Heart rate 89 bpm; Body temperature 37.4 C; Blood pressure 119/64 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

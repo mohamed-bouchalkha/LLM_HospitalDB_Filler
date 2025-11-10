@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: 296e471f-c5b7-49ea-b77b-8f3f7e3db454
+Sexe: Féminin, Né(e) le: 27 janvier 1961
+Âge: 64 ans
+Adresse: Rue Fès 37, Casablanca
+
+Médecin: Dr. Duval | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "296e471f-c5b7-49ea-b77b-8f3f7e3db454",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1961-01-27",
+  "birthdate_iso": "1961-01-27",
+  "gender": "F",
+  "address": "Rue Fès 37, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2011)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/11/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/85 mmHg (Date: 10/12/2024)
+- Heart rate: 112 bpm (Date: 10/12/2024)
+- Body temperature: 37.7 C (Date: 10/12/2024)
+- Total cholesterol: 226 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 446 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 446 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 64 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 111/85 mmHg; Heart rate 112 bpm; Body temperature 37.7 C; Total cholesterol 226 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hicham Khalil
+ID Patient: af40cb80-94ef-4e9f-9894-2b072a814035
+Sexe: Masculin, Né(e) le: 14 juillet 2021
+Âge: 4 ans
+Adresse: Boulevard Al Wahda 124, Rabat
+
+Médecin: Dr. Martins | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "af40cb80-94ef-4e9f-9894-2b072a814035",
+  "first_name": "Hicham",
+  "last_name": "Khalil",
+  "full_name": "Hicham Khalil",
+  "birthdate": "2021-07-14",
+  "birthdate_iso": "2021-07-14",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 124, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 104/79 mmHg (Date: 10/11/2025)
+- Heart rate: 87 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 831 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 831 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 4 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 104/79 mmHg; Heart rate 87 bpm; Body temperature 36.7 C. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

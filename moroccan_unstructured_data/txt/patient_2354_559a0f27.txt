@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: 559a0f27-2b74-4ce9-9799-39aafb30cbdb
+Sexe: Masculin, Né(e) le: 16 mai 1968
+Âge: 57 ans
+Adresse: Place Al Massira 104, Rabat
+
+Médecin: Dr. Bernier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "559a0f27-2b74-4ce9-9799-39aafb30cbdb",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1968-05-16",
+  "birthdate_iso": "1968-05-16",
+  "gender": "M",
+  "address": "Place Al Massira 104, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/10/2024)
+- Hypertension (Diagnostiquée le: 10/01/2018)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 06/11/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 04/02/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 116/69 mmHg (Date: 10/04/2025)
+- Heart rate: 90 bpm (Date: 10/04/2025)
+- Body temperature: 37.5 C (Date: 10/04/2025)
+- Glucose: 192 mg/dL (Date: 10/04/2025)
+- Hemoglobin A1c: 7.9 % (Date: 10/04/2025)
+- Total cholesterol: 225 mg/dL (Date: 10/04/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 728 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 728 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 57 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 116/69 mmHg; Heart rate 90 bpm; Body temperature 37.5 C; Glucose 192 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

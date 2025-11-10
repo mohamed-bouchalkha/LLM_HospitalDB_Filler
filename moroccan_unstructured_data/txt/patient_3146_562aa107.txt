@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alami
+ID Patient: 562aa107-6df1-43b7-b8be-42b673cf4422
+Sexe: Féminin, Né(e) le: 8 mai 1948
+Âge: 77 ans
+Adresse: Rue Casablanca 35, Casablanca
+
+Médecin: Dr. Perrin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "562aa107-6df1-43b7-b8be-42b673cf4422",
+  "first_name": "Khadija",
+  "last_name": "Alami",
+  "full_name": "Khadija Alami",
+  "birthdate": "1948-05-08",
+  "birthdate_iso": "1948-05-08",
+  "gender": "F",
+  "address": "Rue Casablanca 35, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2024)
+- Hypertension (Diagnostiquée le: 10/02/2018)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 14/05/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 11/03/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 127/72 mmHg (Date: 10/03/2025)
+- Heart rate: 100 bpm (Date: 10/03/2025)
+- Body temperature: 37.2 C (Date: 10/03/2025)
+- Glucose: 175 mg/dL (Date: 10/03/2025)
+- Hemoglobin A1c: 7.8 % (Date: 10/03/2025)
+- Total cholesterol: 177 mg/dL (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 avril 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 487 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 487 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 77 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 127/72 mmHg; Heart rate 100 bpm; Body temperature 37.2 C; Glucose 175 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 2f2f3ac7-d4e2-4985-968d-1d3219a46c16
+Sexe: Masculin, Né(e) le: 5 août 2002
+Âge: 23 ans
+Adresse: Place Al Massira 195, Casablanca
+
+Médecin: Dr. Camus | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2f2f3ac7-d4e2-4985-968d-1d3219a46c16",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "2002-08-05",
+  "birthdate_iso": "2002-08-05",
+  "gender": "M",
+  "address": "Place Al Massira 195, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 05/09/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 114/87 mmHg (Date: 10/12/2023)
+- Heart rate: 92 bpm (Date: 10/12/2023)
+- Body temperature: 37.2 C (Date: 10/12/2023)
+- Total cholesterol: 163 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Shellfish (Identifiée le: 10/11/2006)
+- Sulfa drugs (Identifiée le: 10/11/2011)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 578 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 578 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 23 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 114/87 mmHg; Heart rate 92 bpm; Body temperature 37.2 C; Total cholesterol 163 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

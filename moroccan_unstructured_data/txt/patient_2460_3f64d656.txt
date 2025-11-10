@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: 3f64d656-ba1b-41a7-9c9d-af579e828b94
+Sexe: Féminin, Né(e) le: 20 mai 1971
+Âge: 54 ans
+Adresse: Rue Hassan II 87, Casablanca
+
+Médecin: Dr. Lopes | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3f64d656-ba1b-41a7-9c9d-af579e828b94",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1971-05-20",
+  "birthdate_iso": "1971-05-20",
+  "gender": "F",
+  "address": "Rue Hassan II 87, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2015)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/09/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 94/61 mmHg (Date: 10/07/2025)
+- Heart rate: 66 bpm (Date: 10/07/2025)
+- Body temperature: 37.0 C (Date: 10/07/2025)
+- Total cholesterol: 249 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 448 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 448 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 54 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 94/61 mmHg; Heart rate 66 bpm; Body temperature 37.0 C; Total cholesterol 249 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

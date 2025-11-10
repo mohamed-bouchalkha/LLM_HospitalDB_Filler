@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hayat Alami
+ID Patient: 281e52db-baa0-4d25-a7cb-cd62512e4f39
+Sexe: Féminin, Né(e) le: 30 novembre 1964
+Âge: 60 ans
+Adresse: Place Hassan II 14, Rabat
+
+Médecin: Dr. Merle | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "281e52db-baa0-4d25-a7cb-cd62512e4f39",
+  "first_name": "Hayat",
+  "last_name": "Alami",
+  "full_name": "Hayat Alami",
+  "birthdate": "1964-11-30",
+  "birthdate_iso": "1964-11-30",
+  "gender": "F",
+  "address": "Place Hassan II 14, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2009)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 30/06/2009 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 109/71 mmHg (Date: 10/11/2025)
+- Heart rate: 81 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+- Blood pressure: 112/83 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 février 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 390 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 677 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 995 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 062 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 60 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 109/71 mmHg; Heart rate 81 bpm; Body temperature 37.9 C; Blood pressure 112/83 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

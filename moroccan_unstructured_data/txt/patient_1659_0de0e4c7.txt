@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alami
+ID Patient: 0de0e4c7-e85b-4799-93d6-a041e087993e
+Sexe: Féminin, Né(e) le: 15 avril 1994
+Âge: 31 ans
+Adresse: Place Fès 39, Casablanca
+
+Médecin: Dr. Vincent | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0de0e4c7-e85b-4799-93d6-a041e087993e",
+  "first_name": "Khadija",
+  "last_name": "Alami",
+  "full_name": "Khadija Alami",
+  "birthdate": "1994-04-15",
+  "birthdate_iso": "1994-04-15",
+  "gender": "F",
+  "address": "Place Fès 39, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 04/05/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 106/96 mmHg (Date: 10/07/2025)
+- Heart rate: 81 bpm (Date: 10/07/2025)
+- Body temperature: 37.3 C (Date: 10/07/2025)
+- Total cholesterol: 166 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 613 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 613 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 31 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 106/96 mmHg; Heart rate 81 bpm; Body temperature 37.3 C; Total cholesterol 166 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

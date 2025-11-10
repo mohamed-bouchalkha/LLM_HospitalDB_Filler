@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zakaria Skalli
+ID Patient: cd663fc1-dcda-4f25-91a6-fce1db14e575
+Sexe: Masculin, Né(e) le: 25 mai 1957
+Âge: 68 ans
+Adresse: Avenue Al Massira 159, Rabat
+
+Médecin: Dr. Labbé | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "cd663fc1-dcda-4f25-91a6-fce1db14e575",
+  "first_name": "Zakaria",
+  "last_name": "Skalli",
+  "full_name": "Zakaria Skalli",
+  "birthdate": "1957-05-25",
+  "birthdate_iso": "1957-05-25",
+  "gender": "M",
+  "address": "Avenue Al Massira 159, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/12/2024)
+- Hypertension (Diagnostiquée le: 10/08/2006)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/12/2023 au En cours] (Actif)
+- Metformin 500 mg [Du 21/12/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 116/82 mmHg (Date: 10/11/2025)
+- Heart rate: 81 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+- Blood pressure: 127/95 mmHg (Date: 10/11/2025)
+- Heart rate: 101 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 juin 2024)
+- Blood pressure measurement (Effectuée le: 10 septembre 2025)
+- Electrocardiogram (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 672 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 1 074 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 1 132 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 879 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 68 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Bisoprolol 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 116/82 mmHg; Heart rate 81 bpm; Body temperature 36.7 C; Blood pressure 127/95 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

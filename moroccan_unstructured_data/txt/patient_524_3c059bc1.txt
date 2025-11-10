@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khalid Lamrani
+ID Patient: 3c059bc1-b4c2-464f-9945-ec7f2afd47a3
+Sexe: Masculin, Né(e) le: 19 février 1953
+Âge: 72 ans
+Adresse: Avenue Casablanca 20, Rabat
+
+Médecin: Dr. Lejeune | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3c059bc1-b4c2-464f-9945-ec7f2afd47a3",
+  "first_name": "Khalid",
+  "last_name": "Lamrani",
+  "full_name": "Khalid Lamrani",
+  "birthdate": "1953-02-19",
+  "birthdate_iso": "1953-02-19",
+  "gender": "M",
+  "address": "Avenue Casablanca 20, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2011)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/01/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 109/89 mmHg (Date: 10/10/2024)
+- Heart rate: 114 bpm (Date: 10/10/2024)
+- Body temperature: 37.2 C (Date: 10/10/2024)
+- Blood pressure: 94/75 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2025)
+- Electrocardiogram (Effectuée le: 10 novembre 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 383 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 625 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 924 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 639 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 72 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 109/89 mmHg; Heart rate 114 bpm; Body temperature 37.2 C; Blood pressure 94/75 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

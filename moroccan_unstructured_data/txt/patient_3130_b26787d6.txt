@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: b26787d6-8c8c-48fe-92ff-a192726011a5
+Sexe: Masculin, Né(e) le: 6 février 1937
+Âge: 88 ans
+Adresse: Avenue Mohammed V 117, Casablanca
+
+Médecin: Dr. Léger | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b26787d6-8c8c-48fe-92ff-a192726011a5",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1937-02-06",
+  "birthdate_iso": "1937-02-06",
+  "gender": "M",
+  "address": "Avenue Mohammed V 117, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 19/12/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/76 mmHg (Date: 10/01/2024)
+- Heart rate: 117 bpm (Date: 10/01/2024)
+- Body temperature: 36.5 C (Date: 10/01/2024)
+- Total cholesterol: 223 mg/dL (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 février 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Sulfa drugs (Identifiée le: 10/11/2012)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 819 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 819 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 88 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 130/76 mmHg; Heart rate 117 bpm; Body temperature 36.5 C; Total cholesterol 223 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

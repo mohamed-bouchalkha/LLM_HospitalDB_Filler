@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 2a553cc5-97d9-48cc-94e7-0cb2b2be0243
+Sexe: Masculin, Né(e) le: 29 novembre 1997
+Âge: 27 ans
+Adresse: Rue Fès 13, Casablanca
+
+Médecin: Dr. Roche | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2a553cc5-97d9-48cc-94e7-0cb2b2be0243",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1997-11-29",
+  "birthdate_iso": "1997-11-29",
+  "gender": "M",
+  "address": "Rue Fès 13, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/08/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/62 mmHg (Date: 10/01/2024)
+- Heart rate: 104 bpm (Date: 10/01/2024)
+- Body temperature: 37.6 C (Date: 10/01/2024)
+- Total cholesterol: 157 mg/dL (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 août 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Peanuts (Identifiée le: 10/11/2010)
+- Penicillin (Identifiée le: 10/11/2011)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 681 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 681 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 27 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 103/62 mmHg; Heart rate 104 bpm; Body temperature 37.6 C; Total cholesterol 157 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

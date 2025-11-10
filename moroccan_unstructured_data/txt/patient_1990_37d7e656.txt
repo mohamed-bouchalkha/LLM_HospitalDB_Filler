@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alami
+ID Patient: 37d7e656-32bd-4612-b9d9-56019bf19479
+Sexe: Masculin, Né(e) le: 30 décembre 1930
+Âge: 94 ans
+Adresse: Place Fès 76, Casablanca
+
+Médecin: Dr. Léger | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "37d7e656-32bd-4612-b9d9-56019bf19479",
+  "first_name": "Mohamed",
+  "last_name": "Alami",
+  "full_name": "Mohamed Alami",
+  "birthdate": "1930-12-30",
+  "birthdate_iso": "1930-12-30",
+  "gender": "M",
+  "address": "Place Fès 76, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2008)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 01/12/2008 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 129/69 mmHg (Date: 10/10/2025)
+- Heart rate: 110 bpm (Date: 10/10/2025)
+- Body temperature: 36.9 C (Date: 10/10/2025)
+- Total cholesterol: 205 mg/dL (Date: 10/10/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 491 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 491 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 94 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 129/69 mmHg; Heart rate 110 bpm; Body temperature 36.9 C; Total cholesterol 205 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

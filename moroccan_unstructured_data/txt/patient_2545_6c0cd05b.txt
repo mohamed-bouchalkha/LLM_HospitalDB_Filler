@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 6c0cd05b-eaeb-4e01-a323-a8c679d30c8c
+Sexe: Masculin, Né(e) le: 16 décembre 1985
+Âge: 39 ans
+Adresse: Place Mohammed V 195, Casablanca
+
+Médecin: Dr. Julien | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6c0cd05b-eaeb-4e01-a323-a8c679d30c8c",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1985-12-16",
+  "birthdate_iso": "1985-12-16",
+  "gender": "M",
+  "address": "Place Mohammed V 195, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/03/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 114/65 mmHg (Date: 10/09/2025)
+- Heart rate: 115 bpm (Date: 10/09/2025)
+- Body temperature: 36.6 C (Date: 10/09/2025)
+- Total cholesterol: 225 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2021)
+- Pneumococcal (Administré le: 10 juillet 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 464 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 464 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 39 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 114/65 mmHg; Heart rate 115 bpm; Body temperature 36.6 C; Total cholesterol 225 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

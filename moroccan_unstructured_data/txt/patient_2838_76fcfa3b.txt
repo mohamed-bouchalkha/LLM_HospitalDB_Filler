@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alaoui
+ID Patient: 76fcfa3b-2654-4c0f-851a-6fe69671acaf
+Sexe: Masculin, Né(e) le: 7 août 1933
+Âge: 92 ans
+Adresse: Rue Mohammed V 22, Casablanca
+
+Médecin: Dr. Collet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "76fcfa3b-2654-4c0f-851a-6fe69671acaf",
+  "first_name": "Mohamed",
+  "last_name": "Alaoui",
+  "full_name": "Mohamed Alaoui",
+  "birthdate": "1933-08-07",
+  "birthdate_iso": "1933-08-07",
+  "gender": "M",
+  "address": "Rue Mohammed V 22, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 26/12/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/72 mmHg (Date: 10/06/2025)
+- Heart rate: 70 bpm (Date: 10/06/2025)
+- Body temperature: 37.5 C (Date: 10/06/2025)
+- Total cholesterol: 184 mg/dL (Date: 10/06/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 664 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 664 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 92 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 122/72 mmHg; Heart rate 70 bpm; Body temperature 37.5 C; Total cholesterol 184 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

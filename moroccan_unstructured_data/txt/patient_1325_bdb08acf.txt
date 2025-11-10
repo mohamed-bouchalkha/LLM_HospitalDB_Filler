@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alami
+ID Patient: bdb08acf-6555-407f-9e3c-bee8eb754f83
+Sexe: Masculin, Né(e) le: 25 janvier 1941
+Âge: 84 ans
+Adresse: Rue Marrakech 24, Casablanca
+
+Médecin: Dr. Roger | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "bdb08acf-6555-407f-9e3c-bee8eb754f83",
+  "first_name": "Mohamed",
+  "last_name": "Alami",
+  "full_name": "Mohamed Alami",
+  "birthdate": "1941-01-25",
+  "birthdate_iso": "1941-01-25",
+  "gender": "M",
+  "address": "Rue Marrakech 24, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2025)
+- Hypertension (Diagnostiquée le: 10/10/2013)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 04/06/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 24/10/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/95 mmHg (Date: 10/03/2025)
+- Heart rate: 105 bpm (Date: 10/03/2025)
+- Body temperature: 37.5 C (Date: 10/03/2025)
+- Glucose: 125 mg/dL (Date: 10/03/2025)
+- Hemoglobin A1c: 7.9 % (Date: 10/03/2025)
+- Total cholesterol: 186 mg/dL (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 février 2024, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 931 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 931 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 84 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 118/95 mmHg; Heart rate 105 bpm; Body temperature 37.5 C; Glucose 125 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

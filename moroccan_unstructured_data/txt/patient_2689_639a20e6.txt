@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: 639a20e6-3ea1-424a-843f-26324818dcd7
+Sexe: Masculin, Né(e) le: 6 septembre 1929
+Âge: 96 ans
+Adresse: Boulevard Al Wahda 131, Casablanca
+
+Médecin: Dr. Grenier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "639a20e6-3ea1-424a-843f-26324818dcd7",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1929-09-06",
+  "birthdate_iso": "1929-09-06",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 131, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2009)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/01/2024 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/06/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 139/66 mmHg (Date: 10/02/2024)
+- Heart rate: 65 bpm (Date: 10/02/2024)
+- Body temperature: 36.8 C (Date: 10/02/2024)
+- Total cholesterol: 220 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mai 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 681 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 681 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 96 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 139/66 mmHg; Heart rate 65 bpm; Body temperature 36.8 C; Total cholesterol 220 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

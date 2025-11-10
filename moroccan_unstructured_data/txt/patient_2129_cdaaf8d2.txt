@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: cdaaf8d2-35f8-4b48-8252-8c9cc8c61207
+Sexe: Masculin, Né(e) le: 22 mai 1954
+Âge: 71 ans
+Adresse: Place Al Massira 76, Rabat
+
+Médecin: Dr. Chrétien | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "cdaaf8d2-35f8-4b48-8252-8c9cc8c61207",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1954-05-22",
+  "birthdate_iso": "1954-05-22",
+  "gender": "M",
+  "address": "Place Al Massira 76, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/11/2024)
+- Hypertension (Diagnostiquée le: 10/04/2015)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/06/2024 au En cours] (Actif)
+- Metformin 500 mg [Du 07/12/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 135/82 mmHg (Date: 10/05/2024)
+- Heart rate: 87 bpm (Date: 10/05/2024)
+- Body temperature: 36.7 C (Date: 10/05/2024)
+- Glucose: 80 mg/dL (Date: 10/05/2024)
+- Hemoglobin A1c: 5.9 % (Date: 10/05/2024)
+- Total cholesterol: 209 mg/dL (Date: 10/05/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 février 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2014)
+- Ibuprofen (Identifiée le: 10/11/2025)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 663 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 663 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 71 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Losartan 50 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 135/82 mmHg; Heart rate 87 bpm; Body temperature 36.7 C; Glucose 80 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

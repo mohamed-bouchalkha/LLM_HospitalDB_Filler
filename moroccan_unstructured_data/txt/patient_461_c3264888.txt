@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Bilal Tazi
+ID Patient: c3264888-953e-407c-b786-e819b1bc9b15
+Sexe: Masculin, Né(e) le: 23 août 1965
+Âge: 60 ans
+Adresse: Boulevard Casablanca 65, Rabat
+
+Médecin: Dr. Blanc | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c3264888-953e-407c-b786-e819b1bc9b15",
+  "first_name": "Bilal",
+  "last_name": "Tazi",
+  "full_name": "Bilal Tazi",
+  "birthdate": "1965-08-23",
+  "birthdate_iso": "1965-08-23",
+  "gender": "M",
+  "address": "Boulevard Casablanca 65, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2010)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/05/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 139/87 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+- Blood pressure: 131/81 mmHg (Date: 10/11/2025)
+- Heart rate: 96 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2025)
+- Electrocardiogram (Effectuée le: 10 septembre 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2021)
+- Shellfish (Identifiée le: 10/11/2023)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 1 173 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 682 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 1 029 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 884 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 60 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 139/87 mmHg; Heart rate 89 bpm; Body temperature 36.7 C; Blood pressure 131/81 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alaoui
+ID Patient: 8d83661e-5e81-4801-9e05-d1cc62070f5d
+Sexe: Féminin, Né(e) le: 23 mai 1926
+Âge: 99 ans
+Adresse: Rue Al Massira 130, Casablanca
+
+Médecin: Dr. Navarro | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8d83661e-5e81-4801-9e05-d1cc62070f5d",
+  "first_name": "Fatima",
+  "last_name": "Alaoui",
+  "full_name": "Fatima Alaoui",
+  "birthdate": "1926-05-23",
+  "birthdate_iso": "1926-05-23",
+  "gender": "F",
+  "address": "Rue Al Massira 130, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2020)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/12/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/75 mmHg (Date: 10/11/2025)
+- Heart rate: 108 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+- Total cholesterol: 215 mg/dL (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 mai 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 609 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 609 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 99 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 130/75 mmHg; Heart rate 108 bpm; Body temperature 37.0 C; Total cholesterol 215 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

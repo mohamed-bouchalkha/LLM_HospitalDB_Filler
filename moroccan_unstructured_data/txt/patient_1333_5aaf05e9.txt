@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: 5aaf05e9-2419-4eec-a112-ea25edc16734
+Sexe: Masculin, Né(e) le: 13 décembre 1931
+Âge: 93 ans
+Adresse: Avenue Hassan II 62, Casablanca
+
+Médecin: Dr. Gauthier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5aaf05e9-2419-4eec-a112-ea25edc16734",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1931-12-13",
+  "birthdate_iso": "1931-12-13",
+  "gender": "M",
+  "address": "Avenue Hassan II 62, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2016)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/07/2025 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/09/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/85 mmHg (Date: 10/01/2025)
+- Heart rate: 79 bpm (Date: 10/01/2025)
+- Body temperature: 37.7 C (Date: 10/01/2025)
+- Total cholesterol: 201 mg/dL (Date: 10/01/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 octobre 2024)
+- Pneumococcal (elderly) (Administré le: 10 octobre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 067 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 067 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 93 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 118/85 mmHg; Heart rate 79 bpm; Body temperature 37.7 C; Total cholesterol 201 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

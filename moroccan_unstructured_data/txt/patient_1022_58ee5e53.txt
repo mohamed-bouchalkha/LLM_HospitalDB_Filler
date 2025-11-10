@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alaoui
+ID Patient: 58ee5e53-7780-4d56-a865-e5bf410447b5
+Sexe: Masculin, Né(e) le: 25 avril 1965
+Âge: 60 ans
+Adresse: Place Al Massira 144, Casablanca
+
+Médecin: Dr. Joseph | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "58ee5e53-7780-4d56-a865-e5bf410447b5",
+  "first_name": "Mohamed",
+  "last_name": "Alaoui",
+  "full_name": "Mohamed Alaoui",
+  "birthdate": "1965-04-25",
+  "birthdate_iso": "1965-04-25",
+  "gender": "M",
+  "address": "Place Al Massira 144, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2009)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/02/2009 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/65 mmHg (Date: 10/06/2025)
+- Heart rate: 89 bpm (Date: 10/06/2025)
+- Body temperature: 36.7 C (Date: 10/06/2025)
+- Total cholesterol: 155 mg/dL (Date: 10/06/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 870 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 870 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 60 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 124/65 mmHg; Heart rate 89 bpm; Body temperature 36.7 C; Total cholesterol 155 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

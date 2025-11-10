@@ -1,0 +1,68 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: 2300908d-51a3-4a06-b4de-79f7b9e11b60
+Sexe: Masculin, Né(e) le: 28 juillet 2014
+Âge: 11 ans
+Adresse: Rue Mohammed V 58, Casablanca
+
+Médecin: Dr. Guillon | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2300908d-51a3-4a06-b4de-79f7b9e11b60",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "2014-07-28",
+  "birthdate_iso": "2014-07-28",
+  "gender": "M",
+  "address": "Rue Mohammed V 58, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Asthma (Diagnostiquée le: 10/01/2024)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/03/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 129/61 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 décembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 647 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 647 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 11 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Asthma. Sommeil globalement correct, appétit conservé. Traitements en cours: Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 129/61 mmHg; Heart rate 61 bpm; Body temperature 37.8 C. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

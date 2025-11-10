@@ -1,0 +1,81 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zahra Mansouri
+ID Patient: b5f45e24-a7d4-4120-8260-3af67f824728
+Sexe: Féminin, Né(e) le: 27 mars 1968
+Âge: 57 ans
+Adresse: Boulevard Al Massira 16, Rabat
+
+Médecin: Dr. Giraud | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b5f45e24-a7d4-4120-8260-3af67f824728",
+  "first_name": "Zahra",
+  "last_name": "Mansouri",
+  "full_name": "Zahra Mansouri",
+  "birthdate": "1968-03-27",
+  "birthdate_iso": "1968-03-27",
+  "gender": "F",
+  "address": "Boulevard Al Massira 16, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/11/2024)
+- Hypertension (Diagnostiquée le: 10/10/2015)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/12/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 02/11/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 113/84 mmHg (Date: 10/11/2025)
+- Heart rate: 91 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+- Blood pressure: 102/90 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 octobre 2024)
+- Hemoglobin A1c test (Effectuée le: 10 août 2024)
+- Blood pressure measurement (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2025, modalité: 366740001, site: 81745001
+- Imagerie du 10 septembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 933 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 768 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 1 161 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 862 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 57 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 113/84 mmHg; Heart rate 91 bpm; Body temperature 37.5 C; Blood pressure 102/90 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alaoui
+ID Patient: 06898d9c-48e2-4879-a2fb-98a918fd545f
+Sexe: Masculin, Né(e) le: 13 août 1941
+Âge: 84 ans
+Adresse: Boulevard Mohammed V 135, Casablanca
+
+Médecin: Dr. Blondel | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "06898d9c-48e2-4879-a2fb-98a918fd545f",
+  "first_name": "Mohamed",
+  "last_name": "Alaoui",
+  "full_name": "Mohamed Alaoui",
+  "birthdate": "1941-08-13",
+  "birthdate_iso": "1941-08-13",
+  "gender": "M",
+  "address": "Boulevard Mohammed V 135, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2017)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 22/06/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/63 mmHg (Date: 10/12/2023)
+- Heart rate: 76 bpm (Date: 10/12/2023)
+- Body temperature: 37.9 C (Date: 10/12/2023)
+- Total cholesterol: 201 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juillet 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Peanuts (Identifiée le: 10/11/2017)
+- Dairy (Identifiée le: 10/11/2013)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 914 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 914 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 84 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 118/63 mmHg; Heart rate 76 bpm; Body temperature 37.9 C; Total cholesterol 201 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

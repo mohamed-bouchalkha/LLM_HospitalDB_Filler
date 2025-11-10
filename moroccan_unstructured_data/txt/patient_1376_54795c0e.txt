@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alami
+ID Patient: 54795c0e-661b-43cb-bcd3-fdfd7a6a2195
+Sexe: Féminin, Né(e) le: 28 juin 1981
+Âge: 44 ans
+Adresse: Boulevard Al Massira 15, Casablanca
+
+Médecin: Dr. Paul | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "54795c0e-661b-43cb-bcd3-fdfd7a6a2195",
+  "first_name": "Khadija",
+  "last_name": "Alami",
+  "full_name": "Khadija Alami",
+  "birthdate": "1981-06-28",
+  "birthdate_iso": "1981-06-28",
+  "gender": "F",
+  "address": "Boulevard Al Massira 15, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/08/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 106/73 mmHg (Date: 10/04/2025)
+- Heart rate: 76 bpm (Date: 10/04/2025)
+- Body temperature: 37.7 C (Date: 10/04/2025)
+- Total cholesterol: 169 mg/dL (Date: 10/04/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Eggs (Identifiée le: 10/11/2014)
+- Shellfish (Identifiée le: 10/11/2025)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 068 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 068 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 44 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 106/73 mmHg; Heart rate 76 bpm; Body temperature 37.7 C; Total cholesterol 169 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

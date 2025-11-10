@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: c4b84b27-591b-4d12-ba58-6a9fed178b14
+Sexe: Féminin, Né(e) le: 21 novembre 1927
+Âge: 97 ans
+Adresse: Place Hassan II 158, Casablanca
+
+Médecin: Dr. Reynaud | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c4b84b27-591b-4d12-ba58-6a9fed178b14",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1927-11-21",
+  "birthdate_iso": "1927-11-21",
+  "gender": "F",
+  "address": "Place Hassan II 158, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/01/2025)
+- Hypertension (Diagnostiquée le: 10/08/2009)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 12/01/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 06/09/2009 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 135/65 mmHg (Date: 10/09/2024)
+- Heart rate: 115 bpm (Date: 10/09/2024)
+- Body temperature: 37.1 C (Date: 10/09/2024)
+- Glucose: 71 mg/dL (Date: 10/09/2024)
+- Hemoglobin A1c: 5.1 % (Date: 10/09/2024)
+- Total cholesterol: 234 mg/dL (Date: 10/09/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 avril 2025)
+- Pneumococcal (elderly) (Administré le: 10 décembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2025, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 836 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 836 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 97 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 135/65 mmHg; Heart rate 115 bpm; Body temperature 37.1 C; Glucose 71 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

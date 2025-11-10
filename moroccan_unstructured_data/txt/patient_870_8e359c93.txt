@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Zeroual
+ID Patient: 8e359c93-7e44-4e93-b48e-12ea2154cf92
+Sexe: Féminin, Né(e) le: 22 novembre 2016
+Âge: 8 ans
+Adresse: Boulevard Fès 27, Rabat
+
+Médecin: Dr. Richard | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8e359c93-7e44-4e93-b48e-12ea2154cf92",
+  "first_name": "Khadija",
+  "last_name": "Zeroual",
+  "full_name": "Khadija Zeroual",
+  "birthdate": "2016-11-22",
+  "birthdate_iso": "2016-11-22",
+  "gender": "F",
+  "address": "Boulevard Fès 27, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/83 mmHg (Date: 10/11/2025)
+- Heart rate: 106 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 août 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 607 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 607 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 8 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 122/83 mmHg; Heart rate 106 bpm; Body temperature 36.9 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Sara Chraibi
+ID Patient: af50a50a-d49f-4a88-84a0-73c2377606ef
+Sexe: Féminin, Né(e) le: 5 avril 1986
+Âge: 39 ans
+Adresse: Boulevard Mohammed V 69, Rabat
+
+Médecin: Dr. Nicolas | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "af50a50a-d49f-4a88-84a0-73c2377606ef",
+  "first_name": "Sara",
+  "last_name": "Chraibi",
+  "full_name": "Sara Chraibi",
+  "birthdate": "1986-04-05",
+  "birthdate_iso": "1986-04-05",
+  "gender": "F",
+  "address": "Boulevard Mohammed V 69, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2022)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/11/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 96/72 mmHg (Date: 10/05/2025)
+- Heart rate: 68 bpm (Date: 10/05/2025)
+- Body temperature: 37.8 C (Date: 10/05/2025)
+- Blood pressure: 126/64 mmHg (Date: 10/11/2025)
+- Heart rate: 75 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 août 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 781 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 520 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 604 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 905 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 39 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 96/72 mmHg; Heart rate 68 bpm; Body temperature 37.8 C; Blood pressure 126/64 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

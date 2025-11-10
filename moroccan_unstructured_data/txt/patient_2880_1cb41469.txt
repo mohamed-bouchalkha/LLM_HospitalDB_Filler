@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: 1cb41469-8eaa-44ed-8b8c-62a005481b19
+Sexe: Masculin, Né(e) le: 4 juin 1982
+Âge: 43 ans
+Adresse: Place Marrakech 137, Rabat
+
+Médecin: Dr. Paris | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1cb41469-8eaa-44ed-8b8c-62a005481b19",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1982-06-04",
+  "birthdate_iso": "1982-06-04",
+  "gender": "M",
+  "address": "Place Marrakech 137, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2022)
+- Asthma (Diagnostiquée le: 10/01/2007)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/01/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 18/08/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 113/73 mmHg (Date: 10/06/2025)
+- Heart rate: 73 bpm (Date: 10/06/2025)
+- Body temperature: 37.9 C (Date: 10/06/2025)
+- Total cholesterol: 172 mg/dL (Date: 10/06/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 39607008
+- Imagerie du 10 septembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 922 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 922 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 43 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Asthma, Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 113/73 mmHg; Heart rate 73 bpm; Body temperature 37.9 C; Total cholesterol 172 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

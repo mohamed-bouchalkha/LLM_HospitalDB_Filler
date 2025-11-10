@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Samir Chraibi
+ID Patient: b8c64d22-9076-41c2-bd7b-ae3ce59bb4d5
+Sexe: Masculin, Né(e) le: 14 janvier 1940
+Âge: 85 ans
+Adresse: Place Fès 178, Rabat
+
+Médecin: Dr. Renault | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b8c64d22-9076-41c2-bd7b-ae3ce59bb4d5",
+  "first_name": "Samir",
+  "last_name": "Chraibi",
+  "full_name": "Samir Chraibi",
+  "birthdate": "1940-01-14",
+  "birthdate_iso": "1940-01-14",
+  "gender": "M",
+  "address": "Place Fès 178, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 19/06/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/97 mmHg (Date: 10/07/2025)
+- Heart rate: 75 bpm (Date: 10/07/2025)
+- Body temperature: 37.8 C (Date: 10/07/2025)
+- Blood pressure: 137/89 mmHg (Date: 10/11/2025)
+- Heart rate: 66 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 janvier 2024)
+- Electrocardiogram (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 avril 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 443 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 613 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 816 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 939 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 85 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 91/97 mmHg; Heart rate 75 bpm; Body temperature 37.8 C; Blood pressure 137/89 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

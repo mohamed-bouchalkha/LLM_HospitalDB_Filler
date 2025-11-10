@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Abdellah Kabbaj
+ID Patient: 0c9a1ba7-67ee-4a3b-8e80-3f63da163e27
+Sexe: Masculin, Né(e) le: 31 août 1968
+Âge: 57 ans
+Adresse: Rue Casablanca 172, Rabat
+
+Médecin: Dr. Clément | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0c9a1ba7-67ee-4a3b-8e80-3f63da163e27",
+  "first_name": "Abdellah",
+  "last_name": "Kabbaj",
+  "full_name": "Abdellah Kabbaj",
+  "birthdate": "1968-08-31",
+  "birthdate_iso": "1968-08-31",
+  "gender": "M",
+  "address": "Rue Casablanca 172, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 19/05/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 127/87 mmHg (Date: 10/07/2024)
+- Heart rate: 70 bpm (Date: 10/07/2024)
+- Body temperature: 37.1 C (Date: 10/07/2024)
+- Blood pressure: 110/99 mmHg (Date: 10/11/2025)
+- Heart rate: 83 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2025)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 août 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 505 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 929 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 869 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 303 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 57 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 127/87 mmHg; Heart rate 70 bpm; Body temperature 37.1 C; Blood pressure 110/99 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

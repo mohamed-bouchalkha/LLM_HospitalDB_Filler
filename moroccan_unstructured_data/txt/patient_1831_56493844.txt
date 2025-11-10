@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: 56493844-269a-49d6-943c-c983fe38af3d
+Sexe: Masculin, Né(e) le: 4 juin 1953
+Âge: 72 ans
+Adresse: Rue Fès 51, Casablanca
+
+Médecin: Dr. Joseph | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "56493844-269a-49d6-943c-c983fe38af3d",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1953-06-04",
+  "birthdate_iso": "1953-06-04",
+  "gender": "M",
+  "address": "Rue Fès 51, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2009)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/02/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/67 mmHg (Date: 10/10/2024)
+- Heart rate: 66 bpm (Date: 10/10/2024)
+- Body temperature: 36.6 C (Date: 10/10/2024)
+- Total cholesterol: 248 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 janvier 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Penicillin (Identifiée le: 10/11/2025)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 751 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 751 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 72 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 132/67 mmHg; Heart rate 66 bpm; Body temperature 36.6 C; Total cholesterol 248 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

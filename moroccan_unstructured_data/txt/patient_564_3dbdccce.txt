@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Saadia Zeroual
+ID Patient: 3dbdccce-10d1-4b9a-80b2-21384cab6605
+Sexe: Féminin, Né(e) le: 14 février 1974
+Âge: 51 ans
+Adresse: Place Al Wahda 118, Rabat
+
+Médecin: Dr. Denis | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3dbdccce-10d1-4b9a-80b2-21384cab6605",
+  "first_name": "Saadia",
+  "last_name": "Zeroual",
+  "full_name": "Saadia Zeroual",
+  "birthdate": "1974-02-14",
+  "birthdate_iso": "1974-02-14",
+  "gender": "F",
+  "address": "Place Al Wahda 118, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2018)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 24/07/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 125/68 mmHg (Date: 10/10/2025)
+- Heart rate: 91 bpm (Date: 10/10/2025)
+- Body temperature: 36.8 C (Date: 10/10/2025)
+- Blood pressure: 136/79 mmHg (Date: 10/11/2025)
+- Heart rate: 81 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+- Electrocardiogram (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 octobre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 784 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 698 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 823 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 305 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 51 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 125/68 mmHg; Heart rate 91 bpm; Body temperature 36.8 C; Blood pressure 136/79 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

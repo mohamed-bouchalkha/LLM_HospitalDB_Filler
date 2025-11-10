@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: d5639b25-e014-445c-b8ca-663405d5d197
+Sexe: Masculin, Né(e) le: 23 août 1932
+Âge: 93 ans
+Adresse: Rue Marrakech 1, Casablanca
+
+Médecin: Dr. Mallet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d5639b25-e014-445c-b8ca-663405d5d197",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1932-08-23",
+  "birthdate_iso": "1932-08-23",
+  "gender": "M",
+  "address": "Rue Marrakech 1, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 17/09/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/94 mmHg (Date: 10/07/2024)
+- Heart rate: 76 bpm (Date: 10/07/2024)
+- Body temperature: 37.3 C (Date: 10/07/2024)
+- Total cholesterol: 232 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 696 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 696 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 93 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 98/94 mmHg; Heart rate 76 bpm; Body temperature 37.3 C; Total cholesterol 232 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

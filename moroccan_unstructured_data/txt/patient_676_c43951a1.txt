@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Karim Mouline
+ID Patient: c43951a1-eb25-4d5d-823c-70ee7fd0c43c
+Sexe: Masculin, Né(e) le: 30 juin 2012
+Âge: 13 ans
+Adresse: Avenue Hassan II 33, Rabat
+
+Médecin: Dr. De Sousa | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c43951a1-eb25-4d5d-823c-70ee7fd0c43c",
+  "first_name": "Karim",
+  "last_name": "Mouline",
+  "full_name": "Karim Mouline",
+  "birthdate": "2012-06-30",
+  "birthdate_iso": "2012-06-30",
+  "gender": "M",
+  "address": "Avenue Hassan II 33, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/62 mmHg (Date: 10/11/2025)
+- Heart rate: 101 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 février 2021)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 mai 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 586 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 586 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 13 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 130/62 mmHg; Heart rate 101 bpm; Body temperature 36.8 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

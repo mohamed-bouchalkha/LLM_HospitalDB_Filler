@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alami
+ID Patient: 6feedaa1-80cf-45ac-ab3d-1fb2c6e1b6c1
+Sexe: Féminin, Né(e) le: 23 mars 1959
+Âge: 66 ans
+Adresse: Place Fès 192, Casablanca
+
+Médecin: Dr. Lenoir | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6feedaa1-80cf-45ac-ab3d-1fb2c6e1b6c1",
+  "first_name": "Khadija",
+  "last_name": "Alami",
+  "full_name": "Khadija Alami",
+  "birthdate": "1959-03-23",
+  "birthdate_iso": "1959-03-23",
+  "gender": "F",
+  "address": "Place Fès 192, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2010)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 14/09/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/96 mmHg (Date: 10/08/2025)
+- Heart rate: 105 bpm (Date: 10/08/2025)
+- Body temperature: 37.7 C (Date: 10/08/2025)
+- Total cholesterol: 163 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2025)
+- Pneumococcal (elderly) (Administré le: 10 novembre 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 409 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 409 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 66 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 128/96 mmHg; Heart rate 105 bpm; Body temperature 37.7 C; Total cholesterol 163 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

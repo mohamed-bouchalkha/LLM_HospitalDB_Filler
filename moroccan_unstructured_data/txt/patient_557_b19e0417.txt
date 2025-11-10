@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Nora Bennani
+ID Patient: b19e0417-bf8b-401d-b4ea-7b3b00c51e2b
+Sexe: Féminin, Né(e) le: 16 avril 2022
+Âge: 3 ans
+Adresse: Avenue Fès 40, Rabat
+
+Médecin: Dr. Bernard | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b19e0417-bf8b-401d-b4ea-7b3b00c51e2b",
+  "first_name": "Nora",
+  "last_name": "Bennani",
+  "full_name": "Nora Bennani",
+  "birthdate": "2022-04-16",
+  "birthdate_iso": "2022-04-16",
+  "gender": "F",
+  "address": "Avenue Fès 40, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/90 mmHg (Date: 10/11/2025)
+- Heart rate: 66 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 mai 2023)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 décembre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 804 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 804 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 3 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de signe d'infection active (fièvre, toux productive). Dernières mesures pertinentes: Blood pressure 111/90 mmHg; Heart rate 66 bpm; Body temperature 36.6 C. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

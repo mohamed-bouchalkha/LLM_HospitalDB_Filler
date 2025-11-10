@@ -1,0 +1,68 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: cfceefa7-6114-45ba-aa55-374b21c7be05
+Sexe: Féminin, Né(e) le: 18 novembre 2013
+Âge: 11 ans
+Adresse: Avenue Mohammed V 165, Rabat
+
+Médecin: Dr. Noël | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "cfceefa7-6114-45ba-aa55-374b21c7be05",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "2013-11-18",
+  "birthdate_iso": "2013-11-18",
+  "gender": "F",
+  "address": "Avenue Mohammed V 165, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Asthma (Diagnostiquée le: 10/01/2023)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/11/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/94 mmHg (Date: 10/11/2025)
+- Heart rate: 108 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 novembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Shellfish (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 801 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 801 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 11 ans. Antécédents: Asthma. Sommeil globalement correct, appétit conservé. Traitements en cours: Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 102/94 mmHg; Heart rate 108 bpm; Body temperature 37.3 C. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

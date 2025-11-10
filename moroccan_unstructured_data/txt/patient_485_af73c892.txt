@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Youssef Alami
+ID Patient: af73c892-ceb8-4e86-b0d0-836e55ef0371
+Sexe: Masculin, Né(e) le: 25 juin 1988
+Âge: 37 ans
+Adresse: Place Mohammed V 109, Rabat
+
+Médecin: Dr. Lemaire | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "af73c892-ceb8-4e86-b0d0-836e55ef0371",
+  "first_name": "Youssef",
+  "last_name": "Alami",
+  "full_name": "Youssef Alami",
+  "birthdate": "1988-06-25",
+  "birthdate_iso": "1988-06-25",
+  "gender": "M",
+  "address": "Place Mohammed V 109, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 09/12/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 133/61 mmHg (Date: 10/08/2025)
+- Heart rate: 113 bpm (Date: 10/08/2025)
+- Body temperature: 37.0 C (Date: 10/08/2025)
+- Blood pressure: 105/75 mmHg (Date: 10/11/2025)
+- Heart rate: 114 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2024)
+- Electrocardiogram (Effectuée le: 10 septembre 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 avril 2023)
+- Pneumococcal (Administré le: 10 janvier 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 622 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 598 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 616 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 836 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 37 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 133/61 mmHg; Heart rate 113 bpm; Body temperature 37.0 C; Blood pressure 105/75 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

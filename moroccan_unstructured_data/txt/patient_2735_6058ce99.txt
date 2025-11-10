@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 6058ce99-ddb1-4ff6-8fd0-0a98da39ad2a
+Sexe: Masculin, Né(e) le: 20 février 2006
+Âge: 19 ans
+Adresse: Avenue Al Wahda 13, Casablanca
+
+Médecin: Dr. Pons | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6058ce99-ddb1-4ff6-8fd0-0a98da39ad2a",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "2006-02-20",
+  "birthdate_iso": "2006-02-20",
+  "gender": "M",
+  "address": "Avenue Al Wahda 13, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2023)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/12/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 133/99 mmHg (Date: 10/02/2024)
+- Heart rate: 90 bpm (Date: 10/02/2024)
+- Body temperature: 37.3 C (Date: 10/02/2024)
+- Total cholesterol: 243 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 168 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 168 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 19 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 133/99 mmHg; Heart rate 90 bpm; Body temperature 37.3 C; Total cholesterol 243 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

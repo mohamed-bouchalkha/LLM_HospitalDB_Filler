@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Bennani
+ID Patient: fe789510-c6c6-4ba4-9c35-e82338879f18
+Sexe: Féminin, Né(e) le: 9 janvier 1959
+Âge: 66 ans
+Adresse: Boulevard Al Wahda 79, Casablanca
+
+Médecin: Dr. Chevallier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fe789510-c6c6-4ba4-9c35-e82338879f18",
+  "first_name": "Fatima",
+  "last_name": "Bennani",
+  "full_name": "Fatima Bennani",
+  "birthdate": "1959-01-09",
+  "birthdate_iso": "1959-01-09",
+  "gender": "F",
+  "address": "Boulevard Al Wahda 79, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/10/2024)
+- Hypertension (Diagnostiquée le: 10/07/2019)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/07/2025 au En cours] (Actif)
+- Metformin 500 mg [Du 24/10/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 119/60 mmHg (Date: 10/11/2024)
+- Heart rate: 93 bpm (Date: 10/11/2024)
+- Body temperature: 38.0 C (Date: 10/11/2024)
+- Glucose: 196 mg/dL (Date: 10/11/2024)
+- Hemoglobin A1c: 5.7 % (Date: 10/11/2024)
+- Total cholesterol: 168 mg/dL (Date: 10/11/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 760 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 760 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 66 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 119/60 mmHg; Heart rate 93 bpm; Body temperature 38.0 C; Glucose 196 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

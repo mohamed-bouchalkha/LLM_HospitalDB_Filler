@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: 4c4104ed-c0b7-498d-85d5-dd51f4c88e76
+Sexe: Féminin, Né(e) le: 20 décembre 1975
+Âge: 49 ans
+Adresse: Rue Casablanca 182, Casablanca
+
+Médecin: Dr. Rey | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4c4104ed-c0b7-498d-85d5-dd51f4c88e76",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1975-12-20",
+  "birthdate_iso": "1975-12-20",
+  "gender": "F",
+  "address": "Rue Casablanca 182, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2018)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 24/12/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 108/99 mmHg (Date: 10/04/2025)
+- Heart rate: 106 bpm (Date: 10/04/2025)
+- Body temperature: 37.5 C (Date: 10/04/2025)
+- Total cholesterol: 173 mg/dL (Date: 10/04/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2021)
+- Pneumococcal (Administré le: 10 mars 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 359 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 359 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 49 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 108/99 mmHg; Heart rate 106 bpm; Body temperature 37.5 C; Total cholesterol 173 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

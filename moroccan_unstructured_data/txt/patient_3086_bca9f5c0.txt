@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: bca9f5c0-8fdd-46a8-bb50-d161b8e015f7
+Sexe: Masculin, Né(e) le: 3 décembre 1977
+Âge: 47 ans
+Adresse: Place Mohammed V 29, Casablanca
+
+Médecin: Dr. Garcia | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "bca9f5c0-8fdd-46a8-bb50-d161b8e015f7",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1977-12-03",
+  "birthdate_iso": "1977-12-03",
+  "gender": "M",
+  "address": "Place Mohammed V 29, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/06/2024)
+- Hypertension (Diagnostiquée le: 10/05/2017)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/06/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 17/05/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/77 mmHg (Date: 10/07/2025)
+- Heart rate: 101 bpm (Date: 10/07/2025)
+- Body temperature: 37.3 C (Date: 10/07/2025)
+- Glucose: 162 mg/dL (Date: 10/07/2025)
+- Hemoglobin A1c: 6.7 % (Date: 10/07/2025)
+- Total cholesterol: 173 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 81745001
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 410 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 410 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 47 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 99/77 mmHg; Heart rate 101 bpm; Body temperature 37.3 C; Glucose 162 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

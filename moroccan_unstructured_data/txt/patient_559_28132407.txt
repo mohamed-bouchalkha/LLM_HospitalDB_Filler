@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zakaria Alami
+ID Patient: 28132407-b754-49df-bf7e-11332a5e060a
+Sexe: Masculin, Né(e) le: 9 juillet 1956
+Âge: 69 ans
+Adresse: Avenue Al Wahda 33, Rabat
+
+Médecin: Dr. Blanc | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "28132407-b754-49df-bf7e-11332a5e060a",
+  "first_name": "Zakaria",
+  "last_name": "Alami",
+  "full_name": "Zakaria Alami",
+  "birthdate": "1956-07-09",
+  "birthdate_iso": "1956-07-09",
+  "gender": "M",
+  "address": "Avenue Al Wahda 33, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2012)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 31/10/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/68 mmHg (Date: 10/11/2025)
+- Heart rate: 66 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 117/66 mmHg (Date: 10/11/2025)
+- Heart rate: 62 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juin 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 décembre 2021)
+- Pneumococcal (elderly) (Administré le: 10 novembre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 690 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 735 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 425 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 69 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 122/68 mmHg; Heart rate 66 bpm; Body temperature 37.7 C; Blood pressure 117/66 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

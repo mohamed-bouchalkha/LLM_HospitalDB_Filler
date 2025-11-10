@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: a2d9310a-1a78-4a4d-acd5-e7eef2c81835
+Sexe: Féminin, Né(e) le: 16 juin 1929
+Âge: 96 ans
+Adresse: Avenue Al Wahda 181, Casablanca
+
+Médecin: Dr. Barbier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a2d9310a-1a78-4a4d-acd5-e7eef2c81835",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1929-06-16",
+  "birthdate_iso": "1929-06-16",
+  "gender": "F",
+  "address": "Avenue Al Wahda 181, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2014)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 12/03/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/67 mmHg (Date: 10/12/2024)
+- Heart rate: 117 bpm (Date: 10/12/2024)
+- Body temperature: 37.1 C (Date: 10/12/2024)
+- Total cholesterol: 235 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 835 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 835 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 96 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 124/67 mmHg; Heart rate 117 bpm; Body temperature 37.1 C; Total cholesterol 235 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

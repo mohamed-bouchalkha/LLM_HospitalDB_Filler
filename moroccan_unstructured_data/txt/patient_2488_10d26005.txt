@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alaoui
+ID Patient: 10d26005-e2a7-4774-b471-1c75fa228e29
+Sexe: Masculin, Né(e) le: 11 avril 1957
+Âge: 68 ans
+Adresse: Avenue Casablanca 155, Casablanca
+
+Médecin: Dr. Lagarde | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "10d26005-e2a7-4774-b471-1c75fa228e29",
+  "first_name": "Mohamed",
+  "last_name": "Alaoui",
+  "full_name": "Mohamed Alaoui",
+  "birthdate": "1957-04-11",
+  "birthdate_iso": "1957-04-11",
+  "gender": "M",
+  "address": "Avenue Casablanca 155, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2025)
+- Hypertension (Diagnostiquée le: 10/07/2014)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 25/05/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 05/08/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 120/67 mmHg (Date: 10/12/2024)
+- Heart rate: 91 bpm (Date: 10/12/2024)
+- Body temperature: 37.8 C (Date: 10/12/2024)
+- Glucose: 97 mg/dL (Date: 10/12/2024)
+- Hemoglobin A1c: 5.1 % (Date: 10/12/2024)
+- Total cholesterol: 242 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 653 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 653 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 68 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 120/67 mmHg; Heart rate 91 bpm; Body temperature 37.8 C; Glucose 97 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

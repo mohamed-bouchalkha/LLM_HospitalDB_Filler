@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hamid Mansouri
+ID Patient: fec410c8-2142-4524-80f2-44f383d7685b
+Sexe: Masculin, Né(e) le: 28 décembre 1951
+Âge: 73 ans
+Adresse: Place Hassan II 146, Rabat
+
+Médecin: Dr. Delaunay | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fec410c8-2142-4524-80f2-44f383d7685b",
+  "first_name": "Hamid",
+  "last_name": "Mansouri",
+  "full_name": "Hamid Mansouri",
+  "birthdate": "1951-12-28",
+  "birthdate_iso": "1951-12-28",
+  "gender": "M",
+  "address": "Place Hassan II 146, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 28/05/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/74 mmHg (Date: 10/11/2025)
+- Heart rate: 88 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+- Blood pressure: 112/63 mmHg (Date: 10/11/2025)
+- Heart rate: 74 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2025)
+- Electrocardiogram (Effectuée le: 10 août 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 1 341 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 877 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 839 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 4 317 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 73 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 95/74 mmHg; Heart rate 88 bpm; Body temperature 37.3 C; Blood pressure 112/63 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

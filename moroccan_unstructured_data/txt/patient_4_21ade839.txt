@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Tabbal
+ID Patient: 21ade839-1638-4b1f-af61-c13704ffe4a6
+Sexe: Féminin, Né(e) le: 15 juillet 1937
+Âge: 88 ans
+Adresse: Rue Fès 26, Rabat
+
+Médecin: Dr. Bertin | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "21ade839-1638-4b1f-af61-c13704ffe4a6",
+  "first_name": "Aicha",
+  "last_name": "Tabbal",
+  "full_name": "Aicha Tabbal",
+  "birthdate": "1937-07-15",
+  "birthdate_iso": "1937-07-15",
+  "gender": "F",
+  "address": "Rue Fès 26, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2006)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 14/04/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 96/61 mmHg (Date: 10/11/2025)
+- Heart rate: 91 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+- Blood pressure: 133/80 mmHg (Date: 10/11/2025)
+- Heart rate: 110 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2025)
+- Electrocardiogram (Effectuée le: 10 juin 2024)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juin 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 710 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 1 076 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 786 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 88 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 96/61 mmHg; Heart rate 91 bpm; Body temperature 37.5 C; Blood pressure 133/80 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

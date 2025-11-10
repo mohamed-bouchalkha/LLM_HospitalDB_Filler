@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Skalli
+ID Patient: c5141123-3dac-4e02-aaec-c0920cfa3bbd
+Sexe: Féminin, Né(e) le: 6 mars 1945
+Âge: 80 ans
+Adresse: Avenue Al Wahda 13, Rabat
+
+Médecin: Dr. Costa | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c5141123-3dac-4e02-aaec-c0920cfa3bbd",
+  "first_name": "Khadija",
+  "last_name": "Skalli",
+  "full_name": "Khadija Skalli",
+  "birthdate": "1945-03-06",
+  "birthdate_iso": "1945-03-06",
+  "gender": "F",
+  "address": "Avenue Al Wahda 13, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2006)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 29/11/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/93 mmHg (Date: 10/11/2024)
+- Heart rate: 88 bpm (Date: 10/11/2024)
+- Body temperature: 37.4 C (Date: 10/11/2024)
+- Blood pressure: 95/70 mmHg (Date: 10/11/2025)
+- Heart rate: 104 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 septembre 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 986 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 795 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 610 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 391 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 80 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 130/93 mmHg; Heart rate 88 bpm; Body temperature 37.4 C; Blood pressure 95/70 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

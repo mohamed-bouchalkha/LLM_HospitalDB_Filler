@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 7eb938af-d47a-4e84-89c6-87ba828dc19b
+Sexe: Masculin, Né(e) le: 19 mars 1925
+Âge: 100 ans
+Adresse: Boulevard Mohammed V 106, Rabat
+
+Médecin: Dr. Wagner | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "7eb938af-d47a-4e84-89c6-87ba828dc19b",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1925-03-19",
+  "birthdate_iso": "1925-03-19",
+  "gender": "M",
+  "address": "Boulevard Mohammed V 106, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2014)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 27/03/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 135/81 mmHg (Date: 10/10/2025)
+- Heart rate: 60 bpm (Date: 10/10/2025)
+- Body temperature: 38.0 C (Date: 10/10/2025)
+- Total cholesterol: 222 mg/dL (Date: 10/10/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mai 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 146 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 146 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 100 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 135/81 mmHg; Heart rate 60 bpm; Body temperature 38.0 C; Total cholesterol 222 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

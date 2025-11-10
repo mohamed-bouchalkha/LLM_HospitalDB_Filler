@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Khalil
+ID Patient: 0963faa3-6ca4-4357-9104-3a3a7bdcc9fc
+Sexe: Masculin, Né(e) le: 29 août 1966
+Âge: 59 ans
+Adresse: Place Marrakech 121, Rabat
+
+Médecin: Dr. Blanchard | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "0963faa3-6ca4-4357-9104-3a3a7bdcc9fc",
+  "first_name": "Mustapha",
+  "last_name": "Khalil",
+  "full_name": "Mustapha Khalil",
+  "birthdate": "1966-08-29",
+  "birthdate_iso": "1966-08-29",
+  "gender": "M",
+  "address": "Place Marrakech 121, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2015)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/11/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 112/65 mmHg (Date: 10/04/2024)
+- Heart rate: 95 bpm (Date: 10/04/2024)
+- Body temperature: 37.8 C (Date: 10/04/2024)
+- Blood pressure: 127/97 mmHg (Date: 10/11/2025)
+- Heart rate: 95 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2024)
+- Electrocardiogram (Effectuée le: 10 janvier 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 février 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2024 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 758 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 479 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 511 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 893 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 59 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 112/65 mmHg; Heart rate 95 bpm; Body temperature 37.8 C; Blood pressure 127/97 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

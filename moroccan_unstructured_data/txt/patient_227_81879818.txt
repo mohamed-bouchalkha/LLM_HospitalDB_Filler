@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hassan Himmich
+ID Patient: 81879818-37b6-460a-a634-7751b6ebe620
+Sexe: Masculin, Né(e) le: 11 mars 1993
+Âge: 32 ans
+Adresse: Rue Fès 151, Rabat
+
+Médecin: Dr. Maury | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "81879818-37b6-460a-a634-7751b6ebe620",
+  "first_name": "Hassan",
+  "last_name": "Himmich",
+  "full_name": "Hassan Himmich",
+  "birthdate": "1993-03-11",
+  "birthdate_iso": "1993-03-11",
+  "gender": "M",
+  "address": "Rue Fès 151, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 30/08/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 114/80 mmHg (Date: 10/09/2024)
+- Heart rate: 81 bpm (Date: 10/09/2024)
+- Body temperature: 36.8 C (Date: 10/09/2024)
+- Blood pressure: 137/82 mmHg (Date: 10/11/2025)
+- Heart rate: 64 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 août 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 1 102 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 708 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 526 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 335 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 32 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 114/80 mmHg; Heart rate 81 bpm; Body temperature 36.8 C; Blood pressure 137/82 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

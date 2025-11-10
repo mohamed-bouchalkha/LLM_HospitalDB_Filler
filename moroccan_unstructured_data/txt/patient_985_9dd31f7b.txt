@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Samira Alami
+ID Patient: 9dd31f7b-f908-47c9-b0d9-e9ee5b9d9dc4
+Sexe: Féminin, Né(e) le: 26 février 1996
+Âge: 29 ans
+Adresse: Rue Marrakech 88, Rabat
+
+Médecin: Dr. Bodin | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "9dd31f7b-f908-47c9-b0d9-e9ee5b9d9dc4",
+  "first_name": "Samira",
+  "last_name": "Alami",
+  "full_name": "Samira Alami",
+  "birthdate": "1996-02-26",
+  "birthdate_iso": "1996-02-26",
+  "gender": "F",
+  "address": "Rue Marrakech 88, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 129/75 mmHg (Date: 10/11/2025)
+- Heart rate: 112 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 316 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 316 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 29 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Fatigue modérée à l'effort, pas de dyspnée au repos. Dernières mesures pertinentes: Blood pressure 129/75 mmHg; Heart rate 112 bpm; Body temperature 37.4 C. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

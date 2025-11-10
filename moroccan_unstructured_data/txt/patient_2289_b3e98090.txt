@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: b3e98090-e609-49c6-a2e8-3db689c6cc44
+Sexe: Féminin, Né(e) le: 28 avril 1955
+Âge: 70 ans
+Adresse: Place Al Massira 7, Rabat
+
+Médecin: Dr. Brunet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b3e98090-e609-49c6-a2e8-3db689c6cc44",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1955-04-28",
+  "birthdate_iso": "1955-04-28",
+  "gender": "F",
+  "address": "Place Al Massira 7, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2006)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 31/03/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 97/89 mmHg (Date: 10/01/2025)
+- Heart rate: 106 bpm (Date: 10/01/2025)
+- Body temperature: 37.9 C (Date: 10/01/2025)
+- Total cholesterol: 168 mg/dL (Date: 10/01/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 783 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 783 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 70 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 97/89 mmHg; Heart rate 106 bpm; Body temperature 37.9 C; Total cholesterol 168 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

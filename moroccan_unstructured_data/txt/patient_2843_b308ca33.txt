@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: b308ca33-c6c2-4c40-a80c-12eac705ad7a
+Sexe: Masculin, Né(e) le: 1 mars 1931
+Âge: 94 ans
+Adresse: Rue Al Wahda 190, Casablanca
+
+Médecin: Dr. Vallet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b308ca33-c6c2-4c40-a80c-12eac705ad7a",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1931-03-01",
+  "birthdate_iso": "1931-03-01",
+  "gender": "M",
+  "address": "Rue Al Wahda 190, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2018)
+- Asthma (Diagnostiquée le: 10/06/2023)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/10/2024 au En cours] (Actif)
+- Salbutamol inhaler [Du 29/06/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/64 mmHg (Date: 10/06/2024)
+- Heart rate: 79 bpm (Date: 10/06/2024)
+- Body temperature: 36.5 C (Date: 10/06/2024)
+- Blood pressure: 121/62 mmHg (Date: 10/07/2025)
+- Heart rate: 98 bpm (Date: 10/07/2025)
+- Body temperature: 37.8 C (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 avril 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 811 MAD
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 603 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 414 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 94 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Asthma, Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Salbutamol 100 mcg inhaler, Salbutamol inhaler. Dernières mesures pertinentes: Blood pressure 124/64 mmHg; Heart rate 79 bpm; Body temperature 36.5 C; Blood pressure 121/62 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

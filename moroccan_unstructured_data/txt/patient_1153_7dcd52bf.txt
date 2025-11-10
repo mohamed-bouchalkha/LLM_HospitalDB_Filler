@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 7dcd52bf-5c78-4b03-8ed9-ff64ed4f65b6
+Sexe: Masculin, Né(e) le: 22 juillet 1952
+Âge: 73 ans
+Adresse: Rue Mohammed V 32, Casablanca
+
+Médecin: Dr. Dias | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "7dcd52bf-5c78-4b03-8ed9-ff64ed4f65b6",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1952-07-22",
+  "birthdate_iso": "1952-07-22",
+  "gender": "M",
+  "address": "Rue Mohammed V 32, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2017)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 08/03/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/81 mmHg (Date: 10/07/2025)
+- Heart rate: 100 bpm (Date: 10/07/2025)
+- Body temperature: 36.9 C (Date: 10/07/2025)
+- Total cholesterol: 190 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 août 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2022)
+- Dairy (Identifiée le: 10/11/2015)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 371 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 371 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 73 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 105/81 mmHg; Heart rate 100 bpm; Body temperature 36.9 C; Total cholesterol 190 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

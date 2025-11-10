@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Bennani
+ID Patient: aa9c5496-00c5-41af-b201-318f41f52a66
+Sexe: Féminin, Né(e) le: 13 février 1962
+Âge: 63 ans
+Adresse: Avenue Marrakech 21, Casablanca
+
+Médecin: Dr. Bigot | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "aa9c5496-00c5-41af-b201-318f41f52a66",
+  "first_name": "Fatima",
+  "last_name": "Bennani",
+  "full_name": "Fatima Bennani",
+  "birthdate": "1962-02-13",
+  "birthdate_iso": "1962-02-13",
+  "gender": "F",
+  "address": "Avenue Marrakech 21, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/01/2025)
+- Hypertension (Diagnostiquée le: 10/06/2013)
+- Asthma (Diagnostiquée le: 10/06/2010)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/09/2024 au En cours] (Actif)
+- Salbutamol 100 mcg inhaler [Du 10/02/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 01/07/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/85 mmHg (Date: 10/05/2024)
+- Heart rate: 118 bpm (Date: 10/05/2024)
+- Body temperature: 37.2 C (Date: 10/05/2024)
+- Glucose: 148 mg/dL (Date: 10/05/2024)
+- Hemoglobin A1c: 7.6 % (Date: 10/05/2024)
+- Total cholesterol: 236 mg/dL (Date: 10/05/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 février 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Eggs (Identifiée le: 10/11/2021)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 895 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 895 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 63 ans. Antécédents: Asthma, Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Bisoprolol 5 mg, Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 122/85 mmHg; Heart rate 118 bpm; Body temperature 37.2 C; Glucose 148 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

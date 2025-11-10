@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: 30d3f307-d705-4f6b-9d28-d213a7847419
+Sexe: Masculin, Né(e) le: 20 septembre 1952
+Âge: 73 ans
+Adresse: Rue Al Massira 140, Casablanca
+
+Médecin: Dr. Turpin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "30d3f307-d705-4f6b-9d28-d213a7847419",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1952-09-20",
+  "birthdate_iso": "1952-09-20",
+  "gender": "M",
+  "address": "Rue Al Massira 140, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/10/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 130/88 mmHg (Date: 10/02/2025)
+- Heart rate: 114 bpm (Date: 10/02/2025)
+- Body temperature: 36.7 C (Date: 10/02/2025)
+- Total cholesterol: 212 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mai 2021)
+- Pneumococcal (elderly) (Administré le: 10 juillet 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 176 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 176 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 73 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 130/88 mmHg; Heart rate 114 bpm; Body temperature 36.7 C; Total cholesterol 212 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

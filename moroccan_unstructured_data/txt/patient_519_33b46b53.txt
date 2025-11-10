@@ -1,0 +1,81 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zakaria Cherkaoui
+ID Patient: 33b46b53-1229-44db-9815-fbed867bc93e
+Sexe: Masculin, Né(e) le: 10 mai 1983
+Âge: 42 ans
+Adresse: Avenue Hassan II 107, Rabat
+
+Médecin: Dr. Renault | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "33b46b53-1229-44db-9815-fbed867bc93e",
+  "first_name": "Zakaria",
+  "last_name": "Cherkaoui",
+  "full_name": "Zakaria Cherkaoui",
+  "birthdate": "1983-05-10",
+  "birthdate_iso": "1983-05-10",
+  "gender": "M",
+  "address": "Avenue Hassan II 107, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2025)
+- Hypertension (Diagnostiquée le: 10/01/2019)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 10/05/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 04/02/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 138/84 mmHg (Date: 10/11/2025)
+- Heart rate: 76 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+- Blood pressure: 125/71 mmHg (Date: 10/11/2025)
+- Heart rate: 77 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 juillet 2024)
+- Hemoglobin A1c test (Effectuée le: 10 novembre 2025)
+- Blood pressure measurement (Effectuée le: 10 avril 2024)
+- Electrocardiogram (Effectuée le: 10 novembre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 943 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 1 174 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 922 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 040 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 42 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 138/84 mmHg; Heart rate 76 bpm; Body temperature 37.0 C; Blood pressure 125/71 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

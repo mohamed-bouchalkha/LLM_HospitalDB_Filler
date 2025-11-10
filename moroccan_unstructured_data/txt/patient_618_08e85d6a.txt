@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Chraibi
+ID Patient: 08e85d6a-4333-43e5-a339-8e16c194c9e1
+Sexe: Masculin, Né(e) le: 10 janvier 1960
+Âge: 65 ans
+Adresse: Place Mohammed V 111, Rabat
+
+Médecin: Dr. Laroche | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "08e85d6a-4333-43e5-a339-8e16c194c9e1",
+  "first_name": "Ahmed",
+  "last_name": "Chraibi",
+  "full_name": "Ahmed Chraibi",
+  "birthdate": "1960-01-10",
+  "birthdate_iso": "1960-01-10",
+  "gender": "M",
+  "address": "Place Mohammed V 111, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2015)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 24/09/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/79 mmHg (Date: 10/11/2025)
+- Heart rate: 60 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+- Blood pressure: 110/81 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 625 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 1 127 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 752 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 65 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 98/79 mmHg; Heart rate 60 bpm; Body temperature 37.0 C; Blood pressure 110/81 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

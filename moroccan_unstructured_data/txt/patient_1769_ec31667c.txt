@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Bennani
+ID Patient: ec31667c-cb80-456f-ad3e-7fd819b18f7f
+Sexe: Féminin, Né(e) le: 22 février 1950
+Âge: 75 ans
+Adresse: Place Hassan II 167, Casablanca
+
+Médecin: Dr. Cordier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ec31667c-cb80-456f-ad3e-7fd819b18f7f",
+  "first_name": "Fatima",
+  "last_name": "Bennani",
+  "full_name": "Fatima Bennani",
+  "birthdate": "1950-02-22",
+  "birthdate_iso": "1950-02-22",
+  "gender": "F",
+  "address": "Place Hassan II 167, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2020)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 18/09/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/78 mmHg (Date: 10/12/2024)
+- Heart rate: 95 bpm (Date: 10/12/2024)
+- Body temperature: 37.9 C (Date: 10/12/2024)
+- Total cholesterol: 209 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 juin 2024)
+- Pneumococcal (elderly) (Administré le: 10 février 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 867 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 867 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 75 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 103/78 mmHg; Heart rate 95 bpm; Body temperature 37.9 C; Total cholesterol 209 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

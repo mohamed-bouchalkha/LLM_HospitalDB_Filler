@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: d0e1e4a0-a48b-48d1-8330-6f0c3ca177e1
+Sexe: Masculin, Né(e) le: 2 novembre 1946
+Âge: 79 ans
+Adresse: Rue Fès 118, Casablanca
+
+Médecin: Dr. Pinto | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d0e1e4a0-a48b-48d1-8330-6f0c3ca177e1",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1946-11-02",
+  "birthdate_iso": "1946-11-02",
+  "gender": "M",
+  "address": "Rue Fès 118, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 22/08/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/96 mmHg (Date: 10/02/2025)
+- Heart rate: 114 bpm (Date: 10/02/2025)
+- Body temperature: 37.5 C (Date: 10/02/2025)
+- Total cholesterol: 206 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 décembre 2022)
+- Pneumococcal (Administré le: 10 avril 2024)
+- Pneumococcal (elderly) (Administré le: 10 avril 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 607 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 607 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 79 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 128/96 mmHg; Heart rate 114 bpm; Body temperature 37.5 C; Total cholesterol 206 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

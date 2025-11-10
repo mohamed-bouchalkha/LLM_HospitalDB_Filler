@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: cac9e491-cce1-405c-904b-440f6d8b8c5e
+Sexe: Masculin, Né(e) le: 18 mai 1934
+Âge: 91 ans
+Adresse: Place Hassan II 36, Casablanca
+
+Médecin: Dr. Gallet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "cac9e491-cce1-405c-904b-440f6d8b8c5e",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1934-05-18",
+  "birthdate_iso": "1934-05-18",
+  "gender": "M",
+  "address": "Place Hassan II 36, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2006)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 16/06/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 126/63 mmHg (Date: 10/03/2025)
+- Heart rate: 111 bpm (Date: 10/03/2025)
+- Body temperature: 37.9 C (Date: 10/03/2025)
+- Total cholesterol: 217 mg/dL (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 décembre 2023)
+- Pneumococcal (elderly) (Administré le: 10 février 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 436 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 436 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 91 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 126/63 mmHg; Heart rate 111 bpm; Body temperature 37.9 C; Total cholesterol 217 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

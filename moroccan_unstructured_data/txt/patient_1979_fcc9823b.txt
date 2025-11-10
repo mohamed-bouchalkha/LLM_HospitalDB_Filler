@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alaoui
+ID Patient: fcc9823b-9e70-4498-aa73-0f099faf3001
+Sexe: Féminin, Né(e) le: 19 juillet 1963
+Âge: 62 ans
+Adresse: Place Al Massira 157, Rabat
+
+Médecin: Dr. Fischer | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fcc9823b-9e70-4498-aa73-0f099faf3001",
+  "first_name": "Fatima",
+  "last_name": "Alaoui",
+  "full_name": "Fatima Alaoui",
+  "birthdate": "1963-07-19",
+  "birthdate_iso": "1963-07-19",
+  "gender": "F",
+  "address": "Place Al Massira 157, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/09/2025)
+- Hypertension (Diagnostiquée le: 10/10/2006)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/09/2024 au En cours] (Actif)
+- Metformin 500 mg [Du 14/09/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/88 mmHg (Date: 10/01/2025)
+- Heart rate: 97 bpm (Date: 10/01/2025)
+- Body temperature: 37.8 C (Date: 10/01/2025)
+- Glucose: 108 mg/dL (Date: 10/01/2025)
+- Hemoglobin A1c: 5.2 % (Date: 10/01/2025)
+- Total cholesterol: 186 mg/dL (Date: 10/01/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 108 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 108 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 62 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 132/88 mmHg; Heart rate 97 bpm; Body temperature 37.8 C; Glucose 108 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

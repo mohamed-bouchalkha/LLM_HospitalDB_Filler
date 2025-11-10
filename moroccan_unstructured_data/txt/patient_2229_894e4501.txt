@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: 894e4501-0baa-4ebe-a4e0-7438d133daea
+Sexe: Masculin, Né(e) le: 28 septembre 1964
+Âge: 61 ans
+Adresse: Avenue Marrakech 142, Casablanca
+
+Médecin: Dr. Benoit | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "894e4501-0baa-4ebe-a4e0-7438d133daea",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1964-09-28",
+  "birthdate_iso": "1964-09-28",
+  "gender": "M",
+  "address": "Avenue Marrakech 142, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/02/2024)
+- Hypertension (Diagnostiquée le: 10/07/2014)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 10/02/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 05/08/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/66 mmHg (Date: 10/04/2024)
+- Heart rate: 115 bpm (Date: 10/04/2024)
+- Body temperature: 36.6 C (Date: 10/04/2024)
+- Glucose: 103 mg/dL (Date: 10/04/2024)
+- Hemoglobin A1c: 7.6 % (Date: 10/04/2024)
+- Total cholesterol: 184 mg/dL (Date: 10/04/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 820 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 820 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 61 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 95/66 mmHg; Heart rate 115 bpm; Body temperature 36.6 C; Glucose 103 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

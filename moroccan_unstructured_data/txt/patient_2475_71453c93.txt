@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: 71453c93-f1ce-4dd5-9da8-ef219fdd5cfc
+Sexe: Féminin, Né(e) le: 14 mai 1967
+Âge: 58 ans
+Adresse: Place Hassan II 38, Casablanca
+
+Médecin: Dr. Fontaine | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "71453c93-f1ce-4dd5-9da8-ef219fdd5cfc",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1967-05-14",
+  "birthdate_iso": "1967-05-14",
+  "gender": "F",
+  "address": "Place Hassan II 38, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/03/2025)
+- Hypertension (Diagnostiquée le: 10/10/2021)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 08/04/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 25/10/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 123/71 mmHg (Date: 10/09/2025)
+- Heart rate: 92 bpm (Date: 10/09/2025)
+- Body temperature: 36.6 C (Date: 10/09/2025)
+- Glucose: 80 mg/dL (Date: 10/09/2025)
+- Hemoglobin A1c: 5.5 % (Date: 10/09/2025)
+- Total cholesterol: 186 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 644 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 644 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 58 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 123/71 mmHg; Heart rate 92 bpm; Body temperature 36.6 C; Glucose 80 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

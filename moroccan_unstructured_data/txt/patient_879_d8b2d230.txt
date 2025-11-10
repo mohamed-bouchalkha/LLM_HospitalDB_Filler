@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Mouline
+ID Patient: d8b2d230-84ab-46d2-8459-4ae033015517
+Sexe: Féminin, Né(e) le: 10 février 2021
+Âge: 4 ans
+Adresse: Avenue Casablanca 47, Rabat
+
+Médecin: Dr. Boulanger | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d8b2d230-84ab-46d2-8459-4ae033015517",
+  "first_name": "Aicha",
+  "last_name": "Mouline",
+  "full_name": "Aicha Mouline",
+  "birthdate": "2021-02-10",
+  "birthdate_iso": "2021-02-10",
+  "gender": "F",
+  "address": "Avenue Casablanca 47, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 112/78 mmHg (Date: 10/11/2025)
+- Heart rate: 74 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 mai 2025)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 septembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 330 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 330 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 4 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 112/78 mmHg; Heart rate 74 bpm; Body temperature 36.6 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

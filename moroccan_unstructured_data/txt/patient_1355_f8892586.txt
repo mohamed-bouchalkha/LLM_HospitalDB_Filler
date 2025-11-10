@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Bennani
+ID Patient: f8892586-1f24-432f-9ce2-312d6fe13372
+Sexe: Féminin, Né(e) le: 3 mai 1967
+Âge: 58 ans
+Adresse: Avenue Casablanca 75, Casablanca
+
+Médecin: Dr. Lesage | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f8892586-1f24-432f-9ce2-312d6fe13372",
+  "first_name": "Aicha",
+  "last_name": "Bennani",
+  "full_name": "Aicha Bennani",
+  "birthdate": "1967-05-03",
+  "birthdate_iso": "1967-05-03",
+  "gender": "F",
+  "address": "Avenue Casablanca 75, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2018)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/12/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 90/97 mmHg (Date: 10/08/2025)
+- Heart rate: 115 bpm (Date: 10/08/2025)
+- Body temperature: 38.0 C (Date: 10/08/2025)
+- Total cholesterol: 175 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 545 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 545 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 58 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 90/97 mmHg; Heart rate 115 bpm; Body temperature 38.0 C; Total cholesterol 175 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

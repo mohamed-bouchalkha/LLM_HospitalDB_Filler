@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Saadia Alaoui
+ID Patient: 2868d185-f4ef-4814-a243-11150e84c625
+Sexe: Féminin, Né(e) le: 2 janvier 1952
+Âge: 73 ans
+Adresse: Rue Casablanca 69, Rabat
+
+Médecin: Dr. Pineau | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2868d185-f4ef-4814-a243-11150e84c625",
+  "first_name": "Saadia",
+  "last_name": "Alaoui",
+  "full_name": "Saadia Alaoui",
+  "birthdate": "1952-01-02",
+  "birthdate_iso": "1952-01-02",
+  "gender": "F",
+  "address": "Rue Casablanca 69, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2008)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/07/2008 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 96/62 mmHg (Date: 10/05/2024)
+- Heart rate: 95 bpm (Date: 10/05/2024)
+- Body temperature: 36.9 C (Date: 10/05/2024)
+- Blood pressure: 120/75 mmHg (Date: 10/11/2025)
+- Heart rate: 93 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 636 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 856 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 640 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 363 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 73 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 96/62 mmHg; Heart rate 95 bpm; Body temperature 36.9 C; Blood pressure 120/75 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

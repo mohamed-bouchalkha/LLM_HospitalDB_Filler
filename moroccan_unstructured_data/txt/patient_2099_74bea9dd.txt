@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: 74bea9dd-44f9-4900-931d-4905ed2e99c7
+Sexe: Masculin, Né(e) le: 6 mars 1971
+Âge: 54 ans
+Adresse: Boulevard Marrakech 113, Casablanca
+
+Médecin: Dr. Lecoq | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "74bea9dd-44f9-4900-931d-4905ed2e99c7",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1971-03-06",
+  "birthdate_iso": "1971-03-06",
+  "gender": "M",
+  "address": "Boulevard Marrakech 113, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2018)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/02/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 131/74 mmHg (Date: 10/10/2024)
+- Heart rate: 80 bpm (Date: 10/10/2024)
+- Body temperature: 36.6 C (Date: 10/10/2024)
+- Total cholesterol: 197 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 702 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 702 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 54 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 131/74 mmHg; Heart rate 80 bpm; Body temperature 36.6 C; Total cholesterol 197 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

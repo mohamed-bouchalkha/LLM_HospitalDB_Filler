@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: b0223578-dfd1-4ed2-930c-d12c11e268b3
+Sexe: Masculin, Né(e) le: 15 juin 2024
+Âge: 1 ans
+Adresse: Place Casablanca 47, Casablanca
+
+Médecin: Dr. Grégoire | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b0223578-dfd1-4ed2-930c-d12c11e268b3",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "2024-06-15",
+  "birthdate_iso": "2024-06-15",
+  "gender": "M",
+  "address": "Place Casablanca 47, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/04/2024)
+- Asthma (Diagnostiquée le: 10/08/2025)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/10/2025 au En cours] (Actif)
+- Salbutamol inhaler [Du 11/08/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/99 mmHg (Date: 10/03/2025)
+- Heart rate: 111 bpm (Date: 10/03/2025)
+- Body temperature: 37.2 C (Date: 10/03/2025)
+- Glucose: 95 mg/dL (Date: 10/03/2025)
+- Hemoglobin A1c: 6.2 % (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Diphtheria, Tetanus, Pertussis (Administré le: 10 février 2025)
+- Poliovirus (Administré le: 10 février 2023)
+- Hepatitis B (Administré le: 10 novembre 2023)
+- Measles, Mumps, Rubella (Administré le: 10 janvier 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 81745001
+- Imagerie du 10 mars 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 992 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 992 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 1 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Asthma, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Salbutamol 100 mcg inhaler, Salbutamol inhaler. Dernières mesures pertinentes: Blood pressure 103/99 mmHg; Heart rate 111 bpm; Body temperature 37.2 C; Glucose 95 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

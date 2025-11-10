@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khalid Rhanem
+ID Patient: f7aa4a46-7742-4525-a7cc-55ddacd660cd
+Sexe: Masculin, Né(e) le: 19 février 2006
+Âge: 19 ans
+Adresse: Place Al Wahda 80, Rabat
+
+Médecin: Dr. Briand | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f7aa4a46-7742-4525-a7cc-55ddacd660cd",
+  "first_name": "Khalid",
+  "last_name": "Rhanem",
+  "full_name": "Khalid Rhanem",
+  "birthdate": "2006-02-19",
+  "birthdate_iso": "2006-02-19",
+  "gender": "M",
+  "address": "Place Al Wahda 80, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 04/09/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 135/76 mmHg (Date: 10/11/2025)
+- Heart rate: 117 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+- Total cholesterol: 157 mg/dL (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juin 2025)
+- Electrocardiogram (Effectuée le: 10 novembre 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Latex (Identifiée le: 10/11/2006)
+- Ibuprofen (Identifiée le: 10/11/2006)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 1 088 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 088 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 19 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 135/76 mmHg; Heart rate 117 bpm; Body temperature 37.4 C; Total cholesterol 157 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

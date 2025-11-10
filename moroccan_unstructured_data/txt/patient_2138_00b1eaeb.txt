@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Bennani
+ID Patient: 00b1eaeb-14ba-4484-97af-6fdc097e41a6
+Sexe: Féminin, Né(e) le: 30 novembre 1992
+Âge: 32 ans
+Adresse: Avenue Fès 197, Casablanca
+
+Médecin: Dr. Bouvier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "00b1eaeb-14ba-4484-97af-6fdc097e41a6",
+  "first_name": "Aicha",
+  "last_name": "Bennani",
+  "full_name": "Aicha Bennani",
+  "birthdate": "1992-11-30",
+  "birthdate_iso": "1992-11-30",
+  "gender": "F",
+  "address": "Avenue Fès 197, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 13/11/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 108/79 mmHg (Date: 10/05/2025)
+- Heart rate: 89 bpm (Date: 10/05/2025)
+- Body temperature: 37.7 C (Date: 10/05/2025)
+- Total cholesterol: 193 mg/dL (Date: 10/05/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 805 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 805 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 32 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 108/79 mmHg; Heart rate 89 bpm; Body temperature 37.7 C; Total cholesterol 193 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

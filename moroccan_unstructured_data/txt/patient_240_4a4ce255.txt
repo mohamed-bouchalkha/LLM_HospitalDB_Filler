@@ -1,0 +1,80 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hicham Kabbaj
+ID Patient: 4a4ce255-b30f-4570-a22f-ed11c8924455
+Sexe: Masculin, Né(e) le: 13 novembre 1959
+Âge: 65 ans
+Adresse: Boulevard Marrakech 180, Rabat
+
+Médecin: Dr. Gilbert | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4a4ce255-b30f-4570-a22f-ed11c8924455",
+  "first_name": "Hicham",
+  "last_name": "Kabbaj",
+  "full_name": "Hicham Kabbaj",
+  "birthdate": "1959-11-13",
+  "birthdate_iso": "1959-11-13",
+  "gender": "M",
+  "address": "Boulevard Marrakech 180, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/06/2024)
+- Hypertension (Diagnostiquée le: 10/08/2010)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 30/06/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 02/09/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 117/69 mmHg (Date: 10/11/2025)
+- Heart rate: 62 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+- Blood pressure: 131/80 mmHg (Date: 10/11/2025)
+- Heart rate: 113 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 février 2024)
+- Hemoglobin A1c test (Effectuée le: 10 août 2024)
+- Blood pressure measurement (Effectuée le: 10 mars 2024)
+- Electrocardiogram (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2024, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 342 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 1 138 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 1 270 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 750 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 65 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 117/69 mmHg; Heart rate 62 bpm; Body temperature 36.5 C; Blood pressure 131/80 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: a48cdd3c-1dbf-4152-b851-4ef668a95f6a
+Sexe: Masculin, Né(e) le: 9 janvier 1957
+Âge: 68 ans
+Adresse: Boulevard Al Wahda 52, Casablanca
+
+Médecin: Dr. Étienne | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a48cdd3c-1dbf-4152-b851-4ef668a95f6a",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1957-01-09",
+  "birthdate_iso": "1957-01-09",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 52, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2025)
+- Hypertension (Diagnostiquée le: 10/09/2007)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 29/05/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 12/09/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/99 mmHg (Date: 10/02/2025)
+- Heart rate: 101 bpm (Date: 10/02/2025)
+- Body temperature: 37.5 C (Date: 10/02/2025)
+- Glucose: 129 mg/dL (Date: 10/02/2025)
+- Hemoglobin A1c: 6.2 % (Date: 10/02/2025)
+- Total cholesterol: 156 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2025, modalité: 366740001, site: 81745001
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 096 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 096 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 68 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 105/99 mmHg; Heart rate 101 bpm; Body temperature 37.5 C; Glucose 129 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

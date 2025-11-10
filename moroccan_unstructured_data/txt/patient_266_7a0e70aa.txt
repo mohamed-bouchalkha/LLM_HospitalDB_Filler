@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Souad Bennani
+ID Patient: 7a0e70aa-bcb2-4d14-a658-fd50dd5f2f92
+Sexe: Féminin, Né(e) le: 11 juillet 2015
+Âge: 10 ans
+Adresse: Boulevard Casablanca 91, Rabat
+
+Médecin: Dr. Garcia | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "7a0e70aa-bcb2-4d14-a658-fd50dd5f2f92",
+  "first_name": "Souad",
+  "last_name": "Bennani",
+  "full_name": "Souad Bennani",
+  "birthdate": "2015-07-11",
+  "birthdate_iso": "2015-07-11",
+  "gender": "F",
+  "address": "Boulevard Casablanca 91, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 107/67 mmHg (Date: 10/11/2025)
+- Heart rate: 95 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 août 2021)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 octobre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2012)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 642 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 642 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 10 ans. Pas d'antécédents pathologiques notables documentés. Fatigue modérée à l'effort, pas de dyspnée au repos. Dernières mesures pertinentes: Blood pressure 107/67 mmHg; Heart rate 95 bpm; Body temperature 37.1 C. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

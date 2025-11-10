@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 49639522-87fd-4f07-9eeb-78557da0a4eb
+Sexe: Masculin, Né(e) le: 12 avril 1961
+Âge: 64 ans
+Adresse: Rue Marrakech 67, Casablanca
+
+Médecin: Dr. Dufour | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "49639522-87fd-4f07-9eeb-78557da0a4eb",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1961-04-12",
+  "birthdate_iso": "1961-04-12",
+  "gender": "M",
+  "address": "Rue Marrakech 67, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/02/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/76 mmHg (Date: 10/05/2025)
+- Heart rate: 82 bpm (Date: 10/05/2025)
+- Body temperature: 37.5 C (Date: 10/05/2025)
+- Total cholesterol: 212 mg/dL (Date: 10/05/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juillet 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 890 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 890 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 64 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 115/76 mmHg; Heart rate 82 bpm; Body temperature 37.5 C; Total cholesterol 212 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

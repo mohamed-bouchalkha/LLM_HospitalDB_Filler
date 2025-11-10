@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alaoui
+ID Patient: 8b3160ad-bbc1-4f8f-aaf5-86af8916be56
+Sexe: Masculin, Né(e) le: 27 février 1973
+Âge: 52 ans
+Adresse: Boulevard Al Wahda 196, Casablanca
+
+Médecin: Dr. Lemaître | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8b3160ad-bbc1-4f8f-aaf5-86af8916be56",
+  "first_name": "Mohamed",
+  "last_name": "Alaoui",
+  "full_name": "Mohamed Alaoui",
+  "birthdate": "1973-02-27",
+  "birthdate_iso": "1973-02-27",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 196, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 16/04/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 94/66 mmHg (Date: 10/08/2024)
+- Heart rate: 98 bpm (Date: 10/08/2024)
+- Body temperature: 37.1 C (Date: 10/08/2024)
+- Total cholesterol: 173 mg/dL (Date: 10/08/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 août 2021)
+- Pneumococcal (Administré le: 10 décembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 077 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 077 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 52 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 94/66 mmHg; Heart rate 98 bpm; Body temperature 37.1 C; Total cholesterol 173 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

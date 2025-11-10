@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alami
+ID Patient: 757d686b-76b9-4f8e-b321-e079d6ba65df
+Sexe: Féminin, Né(e) le: 18 mai 1927
+Âge: 98 ans
+Adresse: Rue Hassan II 49, Casablanca
+
+Médecin: Dr. Delmas | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "757d686b-76b9-4f8e-b321-e079d6ba65df",
+  "first_name": "Khadija",
+  "last_name": "Alami",
+  "full_name": "Khadija Alami",
+  "birthdate": "1927-05-18",
+  "birthdate_iso": "1927-05-18",
+  "gender": "F",
+  "address": "Rue Hassan II 49, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/08/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 93/81 mmHg (Date: 10/06/2025)
+- Heart rate: 115 bpm (Date: 10/06/2025)
+- Body temperature: 37.1 C (Date: 10/06/2025)
+- Total cholesterol: 230 mg/dL (Date: 10/06/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2022)
+- Pneumococcal (elderly) (Administré le: 10 septembre 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 572 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 572 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 98 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 93/81 mmHg; Heart rate 115 bpm; Body temperature 37.1 C; Total cholesterol 230 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

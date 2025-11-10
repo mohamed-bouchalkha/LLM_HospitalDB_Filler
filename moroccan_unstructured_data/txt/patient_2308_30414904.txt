@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: 30414904-a4ec-4986-a8d7-9d9da3719759
+Sexe: Masculin, Né(e) le: 15 février 1947
+Âge: 78 ans
+Adresse: Rue Marrakech 25, Casablanca
+
+Médecin: Dr. Legendre | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "30414904-a4ec-4986-a8d7-9d9da3719759",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1947-02-15",
+  "birthdate_iso": "1947-02-15",
+  "gender": "M",
+  "address": "Rue Marrakech 25, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2010)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/06/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/87 mmHg (Date: 10/05/2025)
+- Heart rate: 104 bpm (Date: 10/05/2025)
+- Body temperature: 37.2 C (Date: 10/05/2025)
+- Total cholesterol: 219 mg/dL (Date: 10/05/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juin 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 095 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 095 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 78 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 115/87 mmHg; Heart rate 104 bpm; Body temperature 37.2 C; Total cholesterol 219 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

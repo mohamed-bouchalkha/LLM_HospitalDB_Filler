@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Nadia Lamrani
+ID Patient: b4f1f96e-d693-4617-b297-b2f7562a9243
+Sexe: Féminin, Né(e) le: 9 août 1974
+Âge: 51 ans
+Adresse: Avenue Al Wahda 14, Rabat
+
+Médecin: Dr. Picard | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b4f1f96e-d693-4617-b297-b2f7562a9243",
+  "first_name": "Nadia",
+  "last_name": "Lamrani",
+  "full_name": "Nadia Lamrani",
+  "birthdate": "1974-08-09",
+  "birthdate_iso": "1974-08-09",
+  "gender": "F",
+  "address": "Avenue Al Wahda 14, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/11/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/92 mmHg (Date: 10/10/2024)
+- Heart rate: 84 bpm (Date: 10/10/2024)
+- Body temperature: 37.4 C (Date: 10/10/2024)
+- Blood pressure: 92/96 mmHg (Date: 10/11/2025)
+- Heart rate: 93 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 563 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 686 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 788 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 735 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 51 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 95/92 mmHg; Heart rate 84 bpm; Body temperature 37.4 C; Blood pressure 92/96 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

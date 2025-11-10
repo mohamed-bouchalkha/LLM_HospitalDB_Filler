@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: 69e8309b-c82e-49ea-ba16-3ea13f6d10a2
+Sexe: Masculin, Né(e) le: 21 juillet 1972
+Âge: 53 ans
+Adresse: Avenue Casablanca 131, Casablanca
+
+Médecin: Dr. Bazin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "69e8309b-c82e-49ea-ba16-3ea13f6d10a2",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1972-07-21",
+  "birthdate_iso": "1972-07-21",
+  "gender": "M",
+  "address": "Avenue Casablanca 131, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2016)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 12/02/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 120/76 mmHg (Date: 10/12/2023)
+- Heart rate: 82 bpm (Date: 10/12/2023)
+- Body temperature: 37.1 C (Date: 10/12/2023)
+- Total cholesterol: 167 mg/dL (Date: 10/12/2023)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mai 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2023 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 382 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 382 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 53 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 120/76 mmHg; Heart rate 82 bpm; Body temperature 37.1 C; Total cholesterol 167 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

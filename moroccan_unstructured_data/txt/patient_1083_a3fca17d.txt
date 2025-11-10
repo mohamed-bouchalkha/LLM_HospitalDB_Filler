@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: a3fca17d-b7cc-49c1-a9fd-08137e382f4f
+Sexe: Masculin, Né(e) le: 4 juillet 1985
+Âge: 40 ans
+Adresse: Rue Al Massira 127, Casablanca
+
+Médecin: Dr. Giraud | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a3fca17d-b7cc-49c1-a9fd-08137e382f4f",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1985-07-04",
+  "birthdate_iso": "1985-07-04",
+  "gender": "M",
+  "address": "Rue Al Massira 127, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/09/2025)
+- Hypertension (Diagnostiquée le: 10/12/2018)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/12/2024 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/01/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/81 mmHg (Date: 10/07/2025)
+- Heart rate: 88 bpm (Date: 10/07/2025)
+- Body temperature: 36.8 C (Date: 10/07/2025)
+- Glucose: 164 mg/dL (Date: 10/07/2025)
+- Hemoglobin A1c: 7.7 % (Date: 10/07/2025)
+- Total cholesterol: 223 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 725 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 725 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 40 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 105/81 mmHg; Heart rate 88 bpm; Body temperature 36.8 C; Glucose 164 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

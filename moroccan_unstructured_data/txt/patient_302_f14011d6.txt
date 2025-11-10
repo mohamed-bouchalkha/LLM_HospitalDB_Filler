@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Rachid Cherkaoui
+ID Patient: f14011d6-536b-48b8-8800-55f440ed74b7
+Sexe: Masculin, Né(e) le: 2 août 1994
+Âge: 31 ans
+Adresse: Boulevard Al Massira 174, Rabat
+
+Médecin: Dr. Besnard | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f14011d6-536b-48b8-8800-55f440ed74b7",
+  "first_name": "Rachid",
+  "last_name": "Cherkaoui",
+  "full_name": "Rachid Cherkaoui",
+  "birthdate": "1994-08-02",
+  "birthdate_iso": "1994-08-02",
+  "gender": "M",
+  "address": "Boulevard Al Massira 174, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/04/2025 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/04/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 114/70 mmHg (Date: 10/11/2025)
+- Heart rate: 113 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+- Blood pressure: 95/68 mmHg (Date: 10/11/2025)
+- Heart rate: 106 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2025)
+- Electrocardiogram (Effectuée le: 10 août 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 octobre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 665 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 937 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 602 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 31 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 114/70 mmHg; Heart rate 113 bpm; Body temperature 36.6 C; Blood pressure 95/68 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

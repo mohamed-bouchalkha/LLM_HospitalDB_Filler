@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Rachida Bennani
+ID Patient: fe53812e-d4ea-4040-a2df-53d7c03cfabc
+Sexe: Féminin, Né(e) le: 2 mars 1961
+Âge: 64 ans
+Adresse: Rue Casablanca 94, Rabat
+
+Médecin: Dr. Roussel | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fe53812e-d4ea-4040-a2df-53d7c03cfabc",
+  "first_name": "Rachida",
+  "last_name": "Bennani",
+  "full_name": "Rachida Bennani",
+  "birthdate": "1961-03-02",
+  "birthdate_iso": "1961-03-02",
+  "gender": "F",
+  "address": "Rue Casablanca 94, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2006)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 17/11/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 104/95 mmHg (Date: 10/11/2025)
+- Heart rate: 87 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+- Blood pressure: 133/68 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2025)
+- Electrocardiogram (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 avril 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 656 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 837 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 493 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 64 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 104/95 mmHg; Heart rate 87 bpm; Body temperature 37.3 C; Blood pressure 133/68 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: 2403f7e1-f1b4-47d0-83ee-1c9134af0dc8
+Sexe: Féminin, Né(e) le: 6 décembre 1982
+Âge: 42 ans
+Adresse: Boulevard Al Massira 25, Casablanca
+
+Médecin: Dr. Gautier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2403f7e1-f1b4-47d0-83ee-1c9134af0dc8",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1982-12-06",
+  "birthdate_iso": "1982-12-06",
+  "gender": "F",
+  "address": "Boulevard Al Massira 25, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2014)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/04/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/93 mmHg (Date: 10/08/2025)
+- Heart rate: 110 bpm (Date: 10/08/2025)
+- Body temperature: 37.5 C (Date: 10/08/2025)
+- Total cholesterol: 223 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 716 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 716 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 42 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 134/93 mmHg; Heart rate 110 bpm; Body temperature 37.5 C; Total cholesterol 223 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

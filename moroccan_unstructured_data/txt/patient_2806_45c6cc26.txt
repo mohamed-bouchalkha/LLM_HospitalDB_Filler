@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: 45c6cc26-3408-40d4-9b86-401d23990c21
+Sexe: Féminin, Né(e) le: 15 mai 1962
+Âge: 63 ans
+Adresse: Rue Hassan II 69, Rabat
+
+Médecin: Dr. Payet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "45c6cc26-3408-40d4-9b86-401d23990c21",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1962-05-15",
+  "birthdate_iso": "1962-05-15",
+  "gender": "F",
+  "address": "Rue Hassan II 69, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2015)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 31/05/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/99 mmHg (Date: 10/05/2025)
+- Heart rate: 63 bpm (Date: 10/05/2025)
+- Body temperature: 36.9 C (Date: 10/05/2025)
+- Total cholesterol: 243 mg/dL (Date: 10/05/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Eggs (Identifiée le: 10/11/2014)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 817 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 817 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 63 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 115/99 mmHg; Heart rate 63 bpm; Body temperature 36.9 C; Total cholesterol 243 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

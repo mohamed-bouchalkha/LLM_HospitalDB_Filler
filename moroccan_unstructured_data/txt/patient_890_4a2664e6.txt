@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khalid Bennani
+ID Patient: 4a2664e6-011c-464f-8324-2b7ba89089d4
+Sexe: Masculin, Né(e) le: 17 mai 1990
+Âge: 35 ans
+Adresse: Rue Casablanca 49, Rabat
+
+Médecin: Dr. Richard | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4a2664e6-011c-464f-8324-2b7ba89089d4",
+  "first_name": "Khalid",
+  "last_name": "Bennani",
+  "full_name": "Khalid Bennani",
+  "birthdate": "1990-05-17",
+  "birthdate_iso": "1990-05-17",
+  "gender": "M",
+  "address": "Rue Casablanca 49, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 17/06/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/86 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+- Blood pressure: 138/63 mmHg (Date: 10/11/2025)
+- Heart rate: 86 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2025)
+- Electrocardiogram (Effectuée le: 10 février 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 août 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 780 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 488 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 268 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 35 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 102/86 mmHg; Heart rate 61 bpm; Body temperature 37.0 C; Blood pressure 138/63 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

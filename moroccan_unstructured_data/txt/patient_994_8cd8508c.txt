@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Nabil Alaoui
+ID Patient: 8cd8508c-b5da-4fe3-9a83-2a54e49b3507
+Sexe: Masculin, Né(e) le: 22 novembre 1945
+Âge: 79 ans
+Adresse: Avenue Fès 144, Rabat
+
+Médecin: Dr. Perrin | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8cd8508c-b5da-4fe3-9a83-2a54e49b3507",
+  "first_name": "Nabil",
+  "last_name": "Alaoui",
+  "full_name": "Nabil Alaoui",
+  "birthdate": "1945-11-22",
+  "birthdate_iso": "1945-11-22",
+  "gender": "M",
+  "address": "Avenue Fès 144, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/02/2024)
+- Hypertension (Diagnostiquée le: 10/01/2013)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 10/03/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 10/01/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 112/62 mmHg (Date: 10/10/2024)
+- Heart rate: 65 bpm (Date: 10/10/2024)
+- Body temperature: 37.3 C (Date: 10/10/2024)
+- Blood pressure: 110/79 mmHg (Date: 10/11/2025)
+- Heart rate: 105 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 août 2025)
+- Hemoglobin A1c test (Effectuée le: 10 novembre 2024)
+- Blood pressure measurement (Effectuée le: 10 juin 2024)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 février 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 347 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 637 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 1 262 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 192 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 79 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 112/62 mmHg; Heart rate 65 bpm; Body temperature 37.3 C; Blood pressure 110/79 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

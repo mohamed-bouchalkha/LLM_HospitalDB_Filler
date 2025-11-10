@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: ed18ffb3-8b8f-4342-bc12-3315262584b5
+Sexe: Masculin, Né(e) le: 8 septembre 2000
+Âge: 25 ans
+Adresse: Place Al Wahda 190, Casablanca
+
+Médecin: Dr. Perret | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ed18ffb3-8b8f-4342-bc12-3315262584b5",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "2000-09-08",
+  "birthdate_iso": "2000-09-08",
+  "gender": "M",
+  "address": "Place Al Wahda 190, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/05/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 127/77 mmHg (Date: 10/02/2024)
+- Heart rate: 106 bpm (Date: 10/02/2024)
+- Body temperature: 37.4 C (Date: 10/02/2024)
+- Total cholesterol: 234 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 866 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 866 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 25 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 127/77 mmHg; Heart rate 106 bpm; Body temperature 37.4 C; Total cholesterol 234 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

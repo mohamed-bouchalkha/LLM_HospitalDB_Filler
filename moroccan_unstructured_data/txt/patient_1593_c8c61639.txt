@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: c8c61639-007f-4ecb-a910-0604ac9e6ee6
+Sexe: Masculin, Né(e) le: 8 mars 1967
+Âge: 58 ans
+Adresse: Place Al Massira 171, Rabat
+
+Médecin: Dr. Le Gall | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c8c61639-007f-4ecb-a910-0604ac9e6ee6",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1967-03-08",
+  "birthdate_iso": "1967-03-08",
+  "gender": "M",
+  "address": "Place Al Massira 171, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/03/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 133/72 mmHg (Date: 10/07/2025)
+- Heart rate: 95 bpm (Date: 10/07/2025)
+- Body temperature: 36.6 C (Date: 10/07/2025)
+- Total cholesterol: 164 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 776 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 776 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 58 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 133/72 mmHg; Heart rate 95 bpm; Body temperature 36.6 C; Total cholesterol 164 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

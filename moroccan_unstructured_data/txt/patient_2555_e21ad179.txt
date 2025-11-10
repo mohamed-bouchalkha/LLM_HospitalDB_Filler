@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: e21ad179-8a61-4672-bdca-084375187bf9
+Sexe: Féminin, Né(e) le: 17 janvier 1995
+Âge: 30 ans
+Adresse: Rue Al Wahda 6, Casablanca
+
+Médecin: Dr. Turpin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e21ad179-8a61-4672-bdca-084375187bf9",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1995-01-17",
+  "birthdate_iso": "1995-01-17",
+  "gender": "F",
+  "address": "Rue Al Wahda 6, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 30/11/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 101/75 mmHg (Date: 10/01/2025)
+- Heart rate: 80 bpm (Date: 10/01/2025)
+- Body temperature: 37.4 C (Date: 10/01/2025)
+- Total cholesterol: 155 mg/dL (Date: 10/01/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 décembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2022)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 543 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 543 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 30 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 101/75 mmHg; Heart rate 80 bpm; Body temperature 37.4 C; Total cholesterol 155 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

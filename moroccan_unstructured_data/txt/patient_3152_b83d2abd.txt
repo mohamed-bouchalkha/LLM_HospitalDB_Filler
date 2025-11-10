@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: b83d2abd-fec9-496b-8cee-a8fba5678633
+Sexe: Féminin, Né(e) le: 16 mars 1970
+Âge: 55 ans
+Adresse: Boulevard Fès 103, Casablanca
+
+Médecin: Dr. Maréchal | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b83d2abd-fec9-496b-8cee-a8fba5678633",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1970-03-16",
+  "birthdate_iso": "1970-03-16",
+  "gender": "F",
+  "address": "Boulevard Fès 103, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/06/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 125/87 mmHg (Date: 10/05/2024)
+- Heart rate: 75 bpm (Date: 10/05/2024)
+- Body temperature: 37.5 C (Date: 10/05/2024)
+- Total cholesterol: 235 mg/dL (Date: 10/05/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 770 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 770 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 55 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 125/87 mmHg; Heart rate 75 bpm; Body temperature 37.5 C; Total cholesterol 235 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

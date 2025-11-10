@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hanane Cherkaoui
+ID Patient: 5c9c39c9-5b85-4dcb-9044-021d9ef2a979
+Sexe: Féminin, Né(e) le: 25 novembre 2020
+Âge: 4 ans
+Adresse: Rue Casablanca 61, Rabat
+
+Médecin: Dr. Martin | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5c9c39c9-5b85-4dcb-9044-021d9ef2a979",
+  "first_name": "Hanane",
+  "last_name": "Cherkaoui",
+  "full_name": "Hanane Cherkaoui",
+  "birthdate": "2020-11-25",
+  "birthdate_iso": "2020-11-25",
+  "gender": "F",
+  "address": "Rue Casablanca 61, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 120/82 mmHg (Date: 10/11/2025)
+- Heart rate: 103 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Human papillomavirus (Administré le: 10 février 2024)
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 mars 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2023)
+- Latex (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 743 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 743 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 4 ans. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 120/82 mmHg; Heart rate 103 bpm; Body temperature 37.6 C. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

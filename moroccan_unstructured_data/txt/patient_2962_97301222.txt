@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 97301222-a118-4adb-9958-5e0fe28b2adf
+Sexe: Masculin, Né(e) le: 15 octobre 1931
+Âge: 94 ans
+Adresse: Avenue Fès 102, Casablanca
+
+Médecin: Dr. Fabre | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "97301222-a118-4adb-9958-5e0fe28b2adf",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1931-10-15",
+  "birthdate_iso": "1931-10-15",
+  "gender": "M",
+  "address": "Avenue Fès 102, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2020)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 13/07/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/89 mmHg (Date: 10/03/2025)
+- Heart rate: 99 bpm (Date: 10/03/2025)
+- Body temperature: 37.3 C (Date: 10/03/2025)
+- Total cholesterol: 164 mg/dL (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2023)
+- Pneumococcal (Administré le: 10 mai 2023)
+- Pneumococcal (elderly) (Administré le: 10 novembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 405 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 405 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 94 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 134/89 mmHg; Heart rate 99 bpm; Body temperature 37.3 C; Total cholesterol 164 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

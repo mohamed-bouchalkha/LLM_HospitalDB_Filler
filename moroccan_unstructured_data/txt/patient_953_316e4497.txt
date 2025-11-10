@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Bilal Skalli
+ID Patient: 316e4497-8d99-483e-987b-88bda7ca0459
+Sexe: Masculin, Né(e) le: 13 mai 1967
+Âge: 58 ans
+Adresse: Avenue Hassan II 98, Rabat
+
+Médecin: Dr. David | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "316e4497-8d99-483e-987b-88bda7ca0459",
+  "first_name": "Bilal",
+  "last_name": "Skalli",
+  "full_name": "Bilal Skalli",
+  "birthdate": "1967-05-13",
+  "birthdate_iso": "1967-05-13",
+  "gender": "M",
+  "address": "Avenue Hassan II 98, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2017)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/02/2017 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/73 mmHg (Date: 10/07/2025)
+- Heart rate: 87 bpm (Date: 10/07/2025)
+- Body temperature: 37.1 C (Date: 10/07/2025)
+- Blood pressure: 127/61 mmHg (Date: 10/11/2025)
+- Heart rate: 108 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2025)
+- Electrocardiogram (Effectuée le: 10 octobre 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 1 027 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 735 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 686 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 449 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 58 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 95/73 mmHg; Heart rate 87 bpm; Body temperature 37.1 C; Blood pressure 127/61 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

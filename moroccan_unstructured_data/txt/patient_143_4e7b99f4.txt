@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Zahra Tazi
+ID Patient: 4e7b99f4-4bd1-4126-9a88-3676396f91bd
+Sexe: Féminin, Né(e) le: 3 août 1991
+Âge: 34 ans
+Adresse: Boulevard Al Wahda 70, Rabat
+
+Médecin: Dr. Chauveau | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4e7b99f4-4bd1-4126-9a88-3676396f91bd",
+  "first_name": "Zahra",
+  "last_name": "Tazi",
+  "full_name": "Zahra Tazi",
+  "birthdate": "1991-08-03",
+  "birthdate_iso": "1991-08-03",
+  "gender": "F",
+  "address": "Boulevard Al Wahda 70, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 25/01/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 120/78 mmHg (Date: 10/11/2025)
+- Heart rate: 103 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+- Blood pressure: 100/86 mmHg (Date: 10/11/2025)
+- Heart rate: 116 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2013)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 823 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 367 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 876 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 065 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 34 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 120/78 mmHg; Heart rate 103 bpm; Body temperature 36.5 C; Blood pressure 100/86 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

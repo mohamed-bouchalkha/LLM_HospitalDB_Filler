@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Anas Jabri
+ID Patient: 14b73e1a-5f6f-4e5d-9208-158e0c5c8730
+Sexe: Masculin, Né(e) le: 1 août 1990
+Âge: 35 ans
+Adresse: Boulevard Hassan II 179, Rabat
+
+Médecin: Dr. Georges | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "14b73e1a-5f6f-4e5d-9208-158e0c5c8730",
+  "first_name": "Anas",
+  "last_name": "Jabri",
+  "full_name": "Anas Jabri",
+  "birthdate": "1990-08-01",
+  "birthdate_iso": "1990-08-01",
+  "gender": "M",
+  "address": "Boulevard Hassan II 179, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/73 mmHg (Date: 10/11/2025)
+- Heart rate: 82 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Latex (Identifiée le: 10/11/2019)
+- Eggs (Identifiée le: 10/11/2025)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 518 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 518 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 35 ans de sexe masculin, venu(e) pour un contrôle clinique. Pas d'antécédents pathologiques notables documentés. Sommeil globalement correct, appétit conservé. Dernières mesures pertinentes: Blood pressure 103/73 mmHg; Heart rate 82 bpm; Body temperature 37.2 C. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Bennani
+ID Patient: 4f97ba2f-0133-4458-acc8-caf070ea71f8
+Sexe: Féminin, Né(e) le: 19 novembre 1949
+Âge: 75 ans
+Adresse: Place Al Massira 183, Rabat
+
+Médecin: Dr. Dias | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "4f97ba2f-0133-4458-acc8-caf070ea71f8",
+  "first_name": "Aicha",
+  "last_name": "Bennani",
+  "full_name": "Aicha Bennani",
+  "birthdate": "1949-11-19",
+  "birthdate_iso": "1949-11-19",
+  "gender": "F",
+  "address": "Place Al Massira 183, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 17/04/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 90/69 mmHg (Date: 10/03/2025)
+- Heart rate: 110 bpm (Date: 10/03/2025)
+- Body temperature: 37.6 C (Date: 10/03/2025)
+- Total cholesterol: 210 mg/dL (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 754 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 754 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 75 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 90/69 mmHg; Heart rate 110 bpm; Body temperature 37.6 C; Total cholesterol 210 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

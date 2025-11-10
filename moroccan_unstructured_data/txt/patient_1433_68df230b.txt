@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: 68df230b-cdf2-478a-ad09-6911c0c3759d
+Sexe: Féminin, Né(e) le: 22 juin 1966
+Âge: 59 ans
+Adresse: Avenue Fès 135, Casablanca
+
+Médecin: Dr. Allain | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "68df230b-cdf2-478a-ad09-6911c0c3759d",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1966-06-22",
+  "birthdate_iso": "1966-06-22",
+  "gender": "F",
+  "address": "Avenue Fès 135, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2021)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/07/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/98 mmHg (Date: 10/07/2024)
+- Heart rate: 63 bpm (Date: 10/07/2024)
+- Body temperature: 37.0 C (Date: 10/07/2024)
+- Total cholesterol: 208 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 823 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 823 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 59 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 98/98 mmHg; Heart rate 63 bpm; Body temperature 37.0 C; Total cholesterol 208 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

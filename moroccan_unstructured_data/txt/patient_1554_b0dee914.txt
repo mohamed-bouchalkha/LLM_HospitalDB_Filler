@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alami
+ID Patient: b0dee914-7080-4bea-ae43-8f1562f476b6
+Sexe: Masculin, Né(e) le: 7 juillet 1938
+Âge: 87 ans
+Adresse: Rue Fès 25, Casablanca
+
+Médecin: Dr. Letellier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "b0dee914-7080-4bea-ae43-8f1562f476b6",
+  "first_name": "Ahmed",
+  "last_name": "Alami",
+  "full_name": "Ahmed Alami",
+  "birthdate": "1938-07-07",
+  "birthdate_iso": "1938-07-07",
+  "gender": "M",
+  "address": "Rue Fès 25, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 30/05/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/96 mmHg (Date: 10/05/2025)
+- Heart rate: 80 bpm (Date: 10/05/2025)
+- Body temperature: 37.3 C (Date: 10/05/2025)
+- Total cholesterol: 196 mg/dL (Date: 10/05/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 mars 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 517 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 517 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 87 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 122/96 mmHg; Heart rate 80 bpm; Body temperature 37.3 C; Total cholesterol 196 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

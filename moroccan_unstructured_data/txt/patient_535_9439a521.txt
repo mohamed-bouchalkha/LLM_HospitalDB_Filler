@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yasmin El Fassi
+ID Patient: 9439a521-a269-459a-bdcd-94909f4cb24b
+Sexe: Féminin, Né(e) le: 14 avril 1939
+Âge: 86 ans
+Adresse: Boulevard Casablanca 135, Rabat
+
+Médecin: Dr. Paris | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "9439a521-a269-459a-bdcd-94909f4cb24b",
+  "first_name": "Yasmin",
+  "last_name": "El Fassi",
+  "full_name": "Yasmin El Fassi",
+  "birthdate": "1939-04-14",
+  "birthdate_iso": "1939-04-14",
+  "gender": "F",
+  "address": "Boulevard Casablanca 135, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2012)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 20/07/2012 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 111/97 mmHg (Date: 10/06/2024)
+- Heart rate: 61 bpm (Date: 10/06/2024)
+- Body temperature: 36.8 C (Date: 10/06/2024)
+- Blood pressure: 97/69 mmHg (Date: 10/11/2025)
+- Heart rate: 113 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Eggs (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 523 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 771 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 627 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 921 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 86 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 111/97 mmHg; Heart rate 61 bpm; Body temperature 36.8 C; Blood pressure 97/69 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

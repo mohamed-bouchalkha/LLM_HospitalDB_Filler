@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alami
+ID Patient: 73fa0209-0bac-42df-b1e1-068be85dc6d6
+Sexe: Masculin, Né(e) le: 3 juin 1933
+Âge: 92 ans
+Adresse: Place Fès 157, Casablanca
+
+Médecin: Dr. Maillard | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "73fa0209-0bac-42df-b1e1-068be85dc6d6",
+  "first_name": "Mohamed",
+  "last_name": "Alami",
+  "full_name": "Mohamed Alami",
+  "birthdate": "1933-06-03",
+  "birthdate_iso": "1933-06-03",
+  "gender": "M",
+  "address": "Place Fès 157, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/05/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 96/92 mmHg (Date: 10/10/2024)
+- Heart rate: 74 bpm (Date: 10/10/2024)
+- Body temperature: 36.8 C (Date: 10/10/2024)
+- Total cholesterol: 234 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 novembre 2022)
+- Pneumococcal (Administré le: 10 avril 2024)
+- Pneumococcal (elderly) (Administré le: 10 octobre 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 712 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 712 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 92 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 96/92 mmHg; Heart rate 74 bpm; Body temperature 36.8 C; Total cholesterol 234 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

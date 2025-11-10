@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Bennani
+ID Patient: 080a1d49-05a7-4f7c-bc69-a132ee8dae53
+Sexe: Féminin, Né(e) le: 4 mars 1929
+Âge: 96 ans
+Adresse: Avenue Hassan II 198, Casablanca
+
+Médecin: Dr. Gimenez | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "080a1d49-05a7-4f7c-bc69-a132ee8dae53",
+  "first_name": "Fatima",
+  "last_name": "Bennani",
+  "full_name": "Fatima Bennani",
+  "birthdate": "1929-03-04",
+  "birthdate_iso": "1929-03-04",
+  "gender": "F",
+  "address": "Avenue Hassan II 198, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2016)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 18/03/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/95 mmHg (Date: 10/07/2024)
+- Heart rate: 70 bpm (Date: 10/07/2024)
+- Body temperature: 37.1 C (Date: 10/07/2024)
+- Total cholesterol: 154 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 185 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 185 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 96 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 99/95 mmHg; Heart rate 70 bpm; Body temperature 37.1 C; Total cholesterol 154 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

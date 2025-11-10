@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Samira Kabbaj
+ID Patient: 07a2286c-e1ff-443b-a9fb-00853d3415e0
+Sexe: Féminin, Né(e) le: 11 juin 2002
+Âge: 23 ans
+Adresse: Avenue Casablanca 15, Rabat
+
+Médecin: Dr. Sanchez | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "07a2286c-e1ff-443b-a9fb-00853d3415e0",
+  "first_name": "Samira",
+  "last_name": "Kabbaj",
+  "full_name": "Samira Kabbaj",
+  "birthdate": "2002-06-11",
+  "birthdate_iso": "2002-06-11",
+  "gender": "F",
+  "address": "Avenue Casablanca 15, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/99 mmHg (Date: 10/11/2025)
+- Heart rate: 99 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 avril 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 463 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 463 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 23 ans de sexe féminin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 105/99 mmHg; Heart rate 99 bpm; Body temperature 37.4 C. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

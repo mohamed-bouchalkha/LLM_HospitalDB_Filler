@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hamid Mansouri
+ID Patient: 8b70ea2b-8b91-4924-b801-cbd431d5762a
+Sexe: Masculin, Né(e) le: 19 janvier 1987
+Âge: 38 ans
+Adresse: Place Marrakech 54, Rabat
+
+Médecin: Dr. Bonneau | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8b70ea2b-8b91-4924-b801-cbd431d5762a",
+  "first_name": "Hamid",
+  "last_name": "Mansouri",
+  "full_name": "Hamid Mansouri",
+  "birthdate": "1987-01-19",
+  "birthdate_iso": "1987-01-19",
+  "gender": "M",
+  "address": "Place Marrakech 54, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 04/05/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/75 mmHg (Date: 10/01/2025)
+- Heart rate: 95 bpm (Date: 10/01/2025)
+- Body temperature: 36.8 C (Date: 10/01/2025)
+- Blood pressure: 112/71 mmHg (Date: 10/11/2025)
+- Heart rate: 98 bpm (Date: 10/11/2025)
+- Body temperature: 38.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 février 2024)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 776 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 1 009 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 464 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 249 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 38 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 124/75 mmHg; Heart rate 95 bpm; Body temperature 36.8 C; Blood pressure 112/71 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: ff4c4d38-47c7-4bc5-83f2-ae58ce501c17
+Sexe: Féminin, Né(e) le: 24 décembre 1986
+Âge: 38 ans
+Adresse: Rue Al Wahda 23, Casablanca
+
+Médecin: Dr. Maréchal | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ff4c4d38-47c7-4bc5-83f2-ae58ce501c17",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1986-12-24",
+  "birthdate_iso": "1986-12-24",
+  "gender": "F",
+  "address": "Rue Al Wahda 23, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/03/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 108/61 mmHg (Date: 10/10/2024)
+- Heart rate: 65 bpm (Date: 10/10/2024)
+- Body temperature: 37.3 C (Date: 10/10/2024)
+- Total cholesterol: 178 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 428 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 428 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 38 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 108/61 mmHg; Heart rate 65 bpm; Body temperature 37.3 C; Total cholesterol 178 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

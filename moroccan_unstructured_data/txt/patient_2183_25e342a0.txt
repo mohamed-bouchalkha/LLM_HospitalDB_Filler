@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Bennani
+ID Patient: 25e342a0-bf2c-475b-b9ac-34f6a14df417
+Sexe: Féminin, Né(e) le: 26 mars 1991
+Âge: 34 ans
+Adresse: Place Al Massira 12, Casablanca
+
+Médecin: Dr. Da Costa | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "25e342a0-bf2c-475b-b9ac-34f6a14df417",
+  "first_name": "Aicha",
+  "last_name": "Bennani",
+  "full_name": "Aicha Bennani",
+  "birthdate": "1991-03-26",
+  "birthdate_iso": "1991-03-26",
+  "gender": "F",
+  "address": "Place Al Massira 12, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 14/02/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 127/68 mmHg (Date: 10/08/2024)
+- Heart rate: 105 bpm (Date: 10/08/2024)
+- Body temperature: 37.9 C (Date: 10/08/2024)
+- Total cholesterol: 204 mg/dL (Date: 10/08/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 782 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 782 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 34 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 127/68 mmHg; Heart rate 105 bpm; Body temperature 37.9 C; Total cholesterol 204 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

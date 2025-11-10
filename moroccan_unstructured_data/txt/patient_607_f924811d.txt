@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mehdi Saidi
+ID Patient: f924811d-7ff1-463e-ae97-a3be55f18ced
+Sexe: Masculin, Né(e) le: 8 octobre 1950
+Âge: 75 ans
+Adresse: Avenue Al Massira 19, Rabat
+
+Médecin: Dr. Regnier | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f924811d-7ff1-463e-ae97-a3be55f18ced",
+  "first_name": "Mehdi",
+  "last_name": "Saidi",
+  "full_name": "Mehdi Saidi",
+  "birthdate": "1950-10-08",
+  "birthdate_iso": "1950-10-08",
+  "gender": "M",
+  "address": "Avenue Al Massira 19, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2025)
+- Hypertension (Diagnostiquée le: 10/03/2014)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 14/05/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 01/04/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 138/81 mmHg (Date: 10/11/2025)
+- Heart rate: 105 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+- Blood pressure: 132/63 mmHg (Date: 10/11/2025)
+- Heart rate: 103 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 août 2025)
+- Hemoglobin A1c test (Effectuée le: 10 mars 2025)
+- Blood pressure measurement (Effectuée le: 10 novembre 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 décembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2025)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 666 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 1 033 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 1 088 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 994 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 75 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 138/81 mmHg; Heart rate 105 bpm; Body temperature 36.5 C; Blood pressure 132/63 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

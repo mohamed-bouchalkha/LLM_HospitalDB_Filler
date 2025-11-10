@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yasmin Jabri
+ID Patient: 30d4d47d-4242-4c71-866e-ce5bbc7fad61
+Sexe: Féminin, Né(e) le: 12 juillet 1986
+Âge: 39 ans
+Adresse: Place Casablanca 127, Rabat
+
+Médecin: Dr. Martin | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "30d4d47d-4242-4c71-866e-ce5bbc7fad61",
+  "first_name": "Yasmin",
+  "last_name": "Jabri",
+  "full_name": "Yasmin Jabri",
+  "birthdate": "1986-07-12",
+  "birthdate_iso": "1986-07-12",
+  "gender": "F",
+  "address": "Place Casablanca 127, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2023)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 19/06/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 100/81 mmHg (Date: 10/04/2024)
+- Heart rate: 107 bpm (Date: 10/04/2024)
+- Body temperature: 36.8 C (Date: 10/04/2024)
+- Blood pressure: 126/70 mmHg (Date: 10/11/2025)
+- Heart rate: 82 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2024 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 812 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 652 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 631 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 130 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 39 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 100/81 mmHg; Heart rate 107 bpm; Body temperature 36.8 C; Blood pressure 126/70 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

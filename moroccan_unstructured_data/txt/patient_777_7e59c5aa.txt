@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ibrahim Saidi
+ID Patient: 7e59c5aa-f4d2-4eea-8493-b2b1b24fa33f
+Sexe: Masculin, Né(e) le: 22 mars 1957
+Âge: 68 ans
+Adresse: Place Al Massira 191, Rabat
+
+Médecin: Dr. Michel | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "7e59c5aa-f4d2-4eea-8493-b2b1b24fa33f",
+  "first_name": "Ibrahim",
+  "last_name": "Saidi",
+  "full_name": "Ibrahim Saidi",
+  "birthdate": "1957-03-22",
+  "birthdate_iso": "1957-03-22",
+  "gender": "M",
+  "address": "Place Al Massira 191, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2019)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/04/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 97/60 mmHg (Date: 10/11/2025)
+- Heart rate: 73 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+- Blood pressure: 139/68 mmHg (Date: 10/11/2025)
+- Heart rate: 68 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 602 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 353 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 955 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 68 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 97/60 mmHg; Heart rate 73 bpm; Body temperature 37.5 C; Blood pressure 139/68 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

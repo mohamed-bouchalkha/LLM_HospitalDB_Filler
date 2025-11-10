@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: 3509fdd2-7d53-4c68-b6d9-0e6dd4575053
+Sexe: Masculin, Né(e) le: 22 septembre 1927
+Âge: 98 ans
+Adresse: Place Fès 129, Casablanca
+
+Médecin: Dr. Klein | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3509fdd2-7d53-4c68-b6d9-0e6dd4575053",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1927-09-22",
+  "birthdate_iso": "1927-09-22",
+  "gender": "M",
+  "address": "Place Fès 129, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2009)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 30/09/2009 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/97 mmHg (Date: 10/12/2024)
+- Heart rate: 101 bpm (Date: 10/12/2024)
+- Body temperature: 37.7 C (Date: 10/12/2024)
+- Total cholesterol: 214 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2021)
+- Pneumococcal (Administré le: 10 décembre 2020)
+- Pneumococcal (elderly) (Administré le: 10 novembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 739 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 739 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 98 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 95/97 mmHg; Heart rate 101 bpm; Body temperature 37.7 C; Total cholesterol 214 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

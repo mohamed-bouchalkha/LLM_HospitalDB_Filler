@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Bennani
+ID Patient: 59dec8e1-f5b1-4dea-ae34-26fc60d4820c
+Sexe: Féminin, Né(e) le: 19 décembre 1927
+Âge: 97 ans
+Adresse: Place Casablanca 84, Casablanca
+
+Médecin: Dr. Fontaine | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "59dec8e1-f5b1-4dea-ae34-26fc60d4820c",
+  "first_name": "Khadija",
+  "last_name": "Bennani",
+  "full_name": "Khadija Bennani",
+  "birthdate": "1927-12-19",
+  "birthdate_iso": "1927-12-19",
+  "gender": "F",
+  "address": "Place Casablanca 84, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 03/06/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 114/62 mmHg (Date: 10/02/2025)
+- Heart rate: 83 bpm (Date: 10/02/2025)
+- Body temperature: 37.3 C (Date: 10/02/2025)
+- Total cholesterol: 239 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 décembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 593 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 593 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 97 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 114/62 mmHg; Heart rate 83 bpm; Body temperature 37.3 C; Total cholesterol 239 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

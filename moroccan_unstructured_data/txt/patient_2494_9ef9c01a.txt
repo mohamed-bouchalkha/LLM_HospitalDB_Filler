@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 9ef9c01a-b425-466f-b653-827992b8a952
+Sexe: Masculin, Né(e) le: 23 octobre 1926
+Âge: 99 ans
+Adresse: Boulevard Al Massira 171, Rabat
+
+Médecin: Dr. Bourgeois | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "9ef9c01a-b425-466f-b653-827992b8a952",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1926-10-23",
+  "birthdate_iso": "1926-10-23",
+  "gender": "M",
+  "address": "Boulevard Al Massira 171, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/08/2025)
+- Hypertension (Diagnostiquée le: 10/12/2018)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/03/2024 au En cours] (Actif)
+- Ramipril 5 mg [Du 10/06/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 103/66 mmHg (Date: 10/07/2024)
+- Heart rate: 87 bpm (Date: 10/07/2024)
+- Body temperature: 36.7 C (Date: 10/07/2024)
+- Glucose: 85 mg/dL (Date: 10/07/2024)
+- Hemoglobin A1c: 6.9 % (Date: 10/07/2024)
+- Total cholesterol: 205 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 juin 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 667 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 667 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 99 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 103/66 mmHg; Heart rate 87 bpm; Body temperature 36.7 C; Glucose 85 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

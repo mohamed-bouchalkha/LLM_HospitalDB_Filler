@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: 94e4403d-1d47-4cfe-b6ea-d3d1078c7a08
+Sexe: Féminin, Né(e) le: 27 novembre 1963
+Âge: 61 ans
+Adresse: Avenue Fès 89, Rabat
+
+Médecin: Dr. Laurent | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "94e4403d-1d47-4cfe-b6ea-d3d1078c7a08",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "1963-11-27",
+  "birthdate_iso": "1963-11-27",
+  "gender": "F",
+  "address": "Avenue Fès 89, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2011)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 12/10/2011 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 92/70 mmHg (Date: 10/07/2024)
+- Heart rate: 119 bpm (Date: 10/07/2024)
+- Body temperature: 37.8 C (Date: 10/07/2024)
+- Total cholesterol: 221 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2016)
+- Shellfish (Identifiée le: 10/11/2023)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 983 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 983 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 61 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 92/70 mmHg; Heart rate 119 bpm; Body temperature 37.8 C; Total cholesterol 221 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

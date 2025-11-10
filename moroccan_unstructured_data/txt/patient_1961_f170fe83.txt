@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: f170fe83-cd41-43cc-b9af-42b0e24dd467
+Sexe: Féminin, Né(e) le: 21 août 1960
+Âge: 65 ans
+Adresse: Avenue Fès 178, Casablanca
+
+Médecin: Dr. Robin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f170fe83-cd41-43cc-b9af-42b0e24dd467",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "1960-08-21",
+  "birthdate_iso": "1960-08-21",
+  "gender": "F",
+  "address": "Avenue Fès 178, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2007)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 28/11/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 100/60 mmHg (Date: 10/07/2025)
+- Heart rate: 97 bpm (Date: 10/07/2025)
+- Body temperature: 37.4 C (Date: 10/07/2025)
+- Total cholesterol: 151 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 633 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 633 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 65 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 100/60 mmHg; Heart rate 97 bpm; Body temperature 37.4 C; Total cholesterol 151 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

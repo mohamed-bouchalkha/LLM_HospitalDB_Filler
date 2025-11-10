@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Belghiti
+ID Patient: bc0eb7cf-a914-43a1-960a-1e659a3a4f57
+Sexe: Masculin, Né(e) le: 19 août 1961
+Âge: 64 ans
+Adresse: Rue Mohammed V 102, Rabat
+
+Médecin: Dr. Thierry | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "bc0eb7cf-a914-43a1-960a-1e659a3a4f57",
+  "first_name": "Mustapha",
+  "last_name": "Belghiti",
+  "full_name": "Mustapha Belghiti",
+  "birthdate": "1961-08-19",
+  "birthdate_iso": "1961-08-19",
+  "gender": "M",
+  "address": "Rue Mohammed V 102, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/09/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 19/09/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 90/96 mmHg (Date: 10/10/2025)
+- Heart rate: 87 bpm (Date: 10/10/2025)
+- Body temperature: 38.0 C (Date: 10/10/2025)
+- Blood pressure: 138/61 mmHg (Date: 10/11/2025)
+- Heart rate: 63 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2025)
+- Electrocardiogram (Effectuée le: 10 novembre 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 889 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 910 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 817 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 616 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 64 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 90/96 mmHg; Heart rate 87 bpm; Body temperature 38.0 C; Blood pressure 138/61 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

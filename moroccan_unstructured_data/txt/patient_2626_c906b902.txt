@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: c906b902-a019-4b3d-a803-d3df9d75f93b
+Sexe: Masculin, Né(e) le: 18 novembre 1938
+Âge: 86 ans
+Adresse: Rue Hassan II 42, Rabat
+
+Médecin: Dr. Dumas | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c906b902-a019-4b3d-a803-d3df9d75f93b",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1938-11-18",
+  "birthdate_iso": "1938-11-18",
+  "gender": "M",
+  "address": "Rue Hassan II 42, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 01/04/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 138/86 mmHg (Date: 10/09/2025)
+- Heart rate: 75 bpm (Date: 10/09/2025)
+- Body temperature: 37.2 C (Date: 10/09/2025)
+- Total cholesterol: 219 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 047 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 047 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 86 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 138/86 mmHg; Heart rate 75 bpm; Body temperature 37.2 C; Total cholesterol 219 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

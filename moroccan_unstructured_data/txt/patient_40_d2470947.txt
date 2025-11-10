@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Ouazzani
+ID Patient: d2470947-1203-4d9e-9884-33d7563e8af0
+Sexe: Féminin, Né(e) le: 15 décembre 1944
+Âge: 80 ans
+Adresse: Avenue Al Wahda 106, Rabat
+
+Médecin: Dr. Henry | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d2470947-1203-4d9e-9884-33d7563e8af0",
+  "first_name": "Fatima",
+  "last_name": "Ouazzani",
+  "full_name": "Fatima Ouazzani",
+  "birthdate": "1944-12-15",
+  "birthdate_iso": "1944-12-15",
+  "gender": "F",
+  "address": "Avenue Al Wahda 106, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2006)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 13/03/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 119/96 mmHg (Date: 10/06/2024)
+- Heart rate: 71 bpm (Date: 10/06/2024)
+- Body temperature: 36.8 C (Date: 10/06/2024)
+- Blood pressure: 127/94 mmHg (Date: 10/11/2025)
+- Heart rate: 86 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2024)
+- Electrocardiogram (Effectuée le: 10 août 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 1 008 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 691 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 412 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 850 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 80 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 119/96 mmHg; Heart rate 71 bpm; Body temperature 36.8 C; Blood pressure 127/94 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

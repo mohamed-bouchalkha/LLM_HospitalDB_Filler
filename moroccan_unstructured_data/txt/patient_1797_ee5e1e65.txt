@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: ee5e1e65-2644-4920-877e-91d184a467ab
+Sexe: Féminin, Né(e) le: 15 septembre 2006
+Âge: 19 ans
+Adresse: Place Fès 96, Casablanca
+
+Médecin: Dr. Fouquet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ee5e1e65-2644-4920-877e-91d184a467ab",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "2006-09-15",
+  "birthdate_iso": "2006-09-15",
+  "gender": "F",
+  "address": "Place Fès 96, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/05/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 108/93 mmHg (Date: 10/02/2025)
+- Heart rate: 74 bpm (Date: 10/02/2025)
+- Body temperature: 36.7 C (Date: 10/02/2025)
+- Total cholesterol: 174 mg/dL (Date: 10/02/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 avril 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 931 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 931 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 19 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 108/93 mmHg; Heart rate 74 bpm; Body temperature 36.7 C; Total cholesterol 174 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

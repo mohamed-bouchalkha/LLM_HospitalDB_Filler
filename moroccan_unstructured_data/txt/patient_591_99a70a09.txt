@@ -1,0 +1,79 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Samir Chraibi
+ID Patient: 99a70a09-715e-4079-94ae-9b1f6d7a0f69
+Sexe: Masculin, Né(e) le: 20 novembre 1946
+Âge: 78 ans
+Adresse: Boulevard Fès 23, Rabat
+
+Médecin: Dr. Brun | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "99a70a09-715e-4079-94ae-9b1f6d7a0f69",
+  "first_name": "Samir",
+  "last_name": "Chraibi",
+  "full_name": "Samir Chraibi",
+  "birthdate": "1946-11-20",
+  "birthdate_iso": "1946-11-20",
+  "gender": "M",
+  "address": "Boulevard Fès 23, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 02/08/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/80 mmHg (Date: 10/11/2025)
+- Heart rate: 69 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+- Blood pressure: 97/80 mmHg (Date: 10/11/2025)
+- Heart rate: 84 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+- Electrocardiogram (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 mars 2025)
+- Pneumococcal (Administré le: 10 avril 2022)
+- Pneumococcal (elderly) (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 969 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 775 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 744 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 78 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 128/80 mmHg; Heart rate 69 bpm; Body temperature 36.8 C; Blood pressure 97/80 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

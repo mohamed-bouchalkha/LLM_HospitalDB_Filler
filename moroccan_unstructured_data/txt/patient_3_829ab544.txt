@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Abdellah Saidi
+ID Patient: 829ab544-c4d8-4261-8cb5-ad7d6fce07aa
+Sexe: Masculin, Né(e) le: 3 septembre 1930
+Âge: 95 ans
+Adresse: Boulevard Fès 19, Rabat
+
+Médecin: Dr. Guillou | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "829ab544-c4d8-4261-8cb5-ad7d6fce07aa",
+  "first_name": "Abdellah",
+  "last_name": "Saidi",
+  "full_name": "Abdellah Saidi",
+  "birthdate": "1930-09-03",
+  "birthdate_iso": "1930-09-03",
+  "gender": "M",
+  "address": "Boulevard Fès 19, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 26/04/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 129/68 mmHg (Date: 10/11/2025)
+- Heart rate: 111 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+- Blood pressure: 133/94 mmHg (Date: 10/11/2025)
+- Heart rate: 82 bpm (Date: 10/11/2025)
+- Body temperature: 36.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 janvier 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 août 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Dairy (Identifiée le: 10/11/2022)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 891 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 384 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 275 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 95 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 129/68 mmHg; Heart rate 111 bpm; Body temperature 36.7 C; Blood pressure 133/94 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

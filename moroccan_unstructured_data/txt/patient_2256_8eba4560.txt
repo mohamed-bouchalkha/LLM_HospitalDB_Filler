@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: 8eba4560-128d-4a38-948b-3e73380850bd
+Sexe: Féminin, Né(e) le: 28 mars 1966
+Âge: 59 ans
+Adresse: Avenue Fès 3, Casablanca
+
+Médecin: Dr. Launay | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8eba4560-128d-4a38-948b-3e73380850bd",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1966-03-28",
+  "birthdate_iso": "1966-03-28",
+  "gender": "F",
+  "address": "Avenue Fès 3, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2018)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/03/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/94 mmHg (Date: 10/11/2025)
+- Heart rate: 110 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+- Total cholesterol: 236 mg/dL (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2023, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 624 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 624 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 59 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 98/94 mmHg; Heart rate 110 bpm; Body temperature 37.8 C; Total cholesterol 236 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

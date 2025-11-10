@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: cc8c4d67-5e7a-4cef-9a10-df1c6515cf17
+Sexe: Masculin, Né(e) le: 19 novembre 2015
+Âge: 9 ans
+Adresse: Rue Mohammed V 29, Casablanca
+
+Médecin: Dr. Charpentier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "cc8c4d67-5e7a-4cef-9a10-df1c6515cf17",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "2015-11-19",
+  "birthdate_iso": "2015-11-19",
+  "gender": "M",
+  "address": "Rue Mohammed V 29, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Asthma (Diagnostiquée le: 10/01/2023)
+
+MÉDICAMENTS:
+- Salbutamol 100 mcg inhaler [Du 10/03/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/66 mmHg (Date: 10/05/2024)
+- Heart rate: 86 bpm (Date: 10/05/2024)
+- Body temperature: 37.3 C (Date: 10/05/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 746 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 746 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 9 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Asthma. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Salbutamol 100 mcg inhaler. Dernières mesures pertinentes: Blood pressure 95/66 mmHg; Heart rate 86 bpm; Body temperature 37.3 C. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

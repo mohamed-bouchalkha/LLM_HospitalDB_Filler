@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: f7d1356f-4bb9-4e89-b056-b84e90eedaed
+Sexe: Masculin, Né(e) le: 27 mars 1943
+Âge: 82 ans
+Adresse: Boulevard Hassan II 107, Casablanca
+
+Médecin: Dr. Noël | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f7d1356f-4bb9-4e89-b056-b84e90eedaed",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1943-03-27",
+  "birthdate_iso": "1943-03-27",
+  "gender": "M",
+  "address": "Boulevard Hassan II 107, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/05/2025)
+- Hypertension (Diagnostiquée le: 10/03/2006)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 22/05/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 03/04/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 123/73 mmHg (Date: 10/07/2024)
+- Heart rate: 98 bpm (Date: 10/07/2024)
+- Body temperature: 36.9 C (Date: 10/07/2024)
+- Glucose: 86 mg/dL (Date: 10/07/2024)
+- Hemoglobin A1c: 5.9 % (Date: 10/07/2024)
+- Total cholesterol: 207 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 867 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 867 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 82 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 123/73 mmHg; Heart rate 98 bpm; Body temperature 36.9 C; Glucose 86 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

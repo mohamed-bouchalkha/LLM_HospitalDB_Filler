@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hassan Belghiti
+ID Patient: 5c59ae0c-2f8e-44c8-b3f0-4c8719fa62f1
+Sexe: Masculin, Né(e) le: 18 juin 2006
+Âge: 19 ans
+Adresse: Place Al Wahda 152, Rabat
+
+Médecin: Dr. Pascal | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5c59ae0c-2f8e-44c8-b3f0-4c8719fa62f1",
+  "first_name": "Hassan",
+  "last_name": "Belghiti",
+  "full_name": "Hassan Belghiti",
+  "birthdate": "2006-06-18",
+  "birthdate_iso": "2006-06-18",
+  "gender": "M",
+  "address": "Place Al Wahda 152, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 23/07/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 91/95 mmHg (Date: 10/11/2025)
+- Heart rate: 100 bpm (Date: 10/11/2025)
+- Body temperature: 37.5 C (Date: 10/11/2025)
+- Blood pressure: 100/95 mmHg (Date: 10/11/2025)
+- Heart rate: 98 bpm (Date: 10/11/2025)
+- Body temperature: 37.0 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2025)
+- Electrocardiogram (Effectuée le: 10 octobre 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mai 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 351 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 1 253 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 604 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 19 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 91/95 mmHg; Heart rate 100 bpm; Body temperature 37.5 C; Blood pressure 100/95 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Youssef Mansouri
+ID Patient: 95b620ef-0ea9-47da-90dd-6e728ace58c2
+Sexe: Masculin, Né(e) le: 8 septembre 1979
+Âge: 46 ans
+Adresse: Avenue Marrakech 59, Rabat
+
+Médecin: Dr. Adam | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "95b620ef-0ea9-47da-90dd-6e728ace58c2",
+  "first_name": "Youssef",
+  "last_name": "Mansouri",
+  "full_name": "Youssef Mansouri",
+  "birthdate": "1979-09-08",
+  "birthdate_iso": "1979-09-08",
+  "gender": "M",
+  "address": "Avenue Marrakech 59, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/03/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 132/84 mmHg (Date: 10/06/2024)
+- Heart rate: 115 bpm (Date: 10/06/2024)
+- Body temperature: 36.9 C (Date: 10/06/2024)
+- Blood pressure: 132/98 mmHg (Date: 10/11/2025)
+- Heart rate: 61 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 avril 2024)
+- Electrocardiogram (Effectuée le: 10 novembre 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 628 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 959 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 505 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 092 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 46 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 132/84 mmHg; Heart rate 115 bpm; Body temperature 36.9 C; Blood pressure 132/98 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

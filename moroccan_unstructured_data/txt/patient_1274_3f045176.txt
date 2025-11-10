@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Bennani
+ID Patient: 3f045176-1fec-4d46-9225-2e92643e93d1
+Sexe: Masculin, Né(e) le: 16 août 1979
+Âge: 46 ans
+Adresse: Rue Al Massira 17, Casablanca
+
+Médecin: Dr. Blanchet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3f045176-1fec-4d46-9225-2e92643e93d1",
+  "first_name": "Mustapha",
+  "last_name": "Bennani",
+  "full_name": "Mustapha Bennani",
+  "birthdate": "1979-08-16",
+  "birthdate_iso": "1979-08-16",
+  "gender": "M",
+  "address": "Rue Al Massira 17, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 20/03/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 93/87 mmHg (Date: 10/09/2025)
+- Heart rate: 93 bpm (Date: 10/09/2025)
+- Body temperature: 37.3 C (Date: 10/09/2025)
+- Total cholesterol: 158 mg/dL (Date: 10/09/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 591 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 591 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 46 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 93/87 mmHg; Heart rate 93 bpm; Body temperature 37.3 C; Total cholesterol 158 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

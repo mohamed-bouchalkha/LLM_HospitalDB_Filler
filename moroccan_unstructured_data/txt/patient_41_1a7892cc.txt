@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Saidi
+ID Patient: 1a7892cc-9492-4d63-990b-88aa066d5380
+Sexe: Féminin, Né(e) le: 10 juillet 1954
+Âge: 71 ans
+Adresse: Rue Casablanca 61, Rabat
+
+Médecin: Dr. Allard | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1a7892cc-9492-4d63-990b-88aa066d5380",
+  "first_name": "Fatima",
+  "last_name": "Saidi",
+  "full_name": "Fatima Saidi",
+  "birthdate": "1954-07-10",
+  "birthdate_iso": "1954-07-10",
+  "gender": "F",
+  "address": "Rue Casablanca 61, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2019)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/07/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/85 mmHg (Date: 10/11/2025)
+- Heart rate: 71 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 126/81 mmHg (Date: 10/11/2025)
+- Heart rate: 103 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 mars 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 794 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 489 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 1 053 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 336 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 71 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 102/85 mmHg; Heart rate 71 bpm; Body temperature 37.7 C; Blood pressure 126/81 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Lamrani
+ID Patient: 467164db-5caa-4d04-afe4-b01381c5e42f
+Sexe: Féminin, Né(e) le: 4 décembre 1961
+Âge: 63 ans
+Adresse: Boulevard Al Wahda 16, Rabat
+
+Médecin: Dr. De Sousa | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "467164db-5caa-4d04-afe4-b01381c5e42f",
+  "first_name": "Fatima",
+  "last_name": "Lamrani",
+  "full_name": "Fatima Lamrani",
+  "birthdate": "1961-12-04",
+  "birthdate_iso": "1961-12-04",
+  "gender": "F",
+  "address": "Boulevard Al Wahda 16, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2010)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/04/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 97/76 mmHg (Date: 10/10/2025)
+- Heart rate: 88 bpm (Date: 10/10/2025)
+- Body temperature: 37.5 C (Date: 10/10/2025)
+- Blood pressure: 100/60 mmHg (Date: 10/11/2025)
+- Heart rate: 78 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2025)
+- Electrocardiogram (Effectuée le: 10 octobre 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 février 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 novembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 899 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 1 332 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 622 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 853 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 63 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 97/76 mmHg; Heart rate 88 bpm; Body temperature 37.5 C; Blood pressure 100/60 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

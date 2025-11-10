@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alaoui
+ID Patient: bd12f188-2d8a-4b90-b06d-457b90d46c8e
+Sexe: Féminin, Né(e) le: 23 avril 1981
+Âge: 44 ans
+Adresse: Place Al Massira 7, Casablanca
+
+Médecin: Dr. Garnier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "bd12f188-2d8a-4b90-b06d-457b90d46c8e",
+  "first_name": "Fatima",
+  "last_name": "Alaoui",
+  "full_name": "Fatima Alaoui",
+  "birthdate": "1981-04-23",
+  "birthdate_iso": "1981-04-23",
+  "gender": "F",
+  "address": "Place Al Massira 7, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 05/06/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 125/68 mmHg (Date: 10/08/2024)
+- Heart rate: 88 bpm (Date: 10/08/2024)
+- Body temperature: 36.7 C (Date: 10/08/2024)
+- Total cholesterol: 226 mg/dL (Date: 10/08/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 820 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 820 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 44 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 125/68 mmHg; Heart rate 88 bpm; Body temperature 36.7 C; Total cholesterol 226 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

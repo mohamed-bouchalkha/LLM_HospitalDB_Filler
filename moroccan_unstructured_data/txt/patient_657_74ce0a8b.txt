@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Laila Bennani
+ID Patient: 74ce0a8b-af4d-4d23-9a76-fa27725522b0
+Sexe: Féminin, Né(e) le: 8 décembre 1941
+Âge: 83 ans
+Adresse: Rue Mohammed V 165, Rabat
+
+Médecin: Dr. Mathieu | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "74ce0a8b-af4d-4d23-9a76-fa27725522b0",
+  "first_name": "Laila",
+  "last_name": "Bennani",
+  "full_name": "Laila Bennani",
+  "birthdate": "1941-12-08",
+  "birthdate_iso": "1941-12-08",
+  "gender": "F",
+  "address": "Rue Mohammed V 165, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2006)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 10/05/2006 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 124/93 mmHg (Date: 10/09/2024)
+- Heart rate: 118 bpm (Date: 10/09/2024)
+- Body temperature: 37.1 C (Date: 10/09/2024)
+- Blood pressure: 118/69 mmHg (Date: 10/11/2025)
+- Heart rate: 66 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 janvier 2024)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 novembre 2023)
+- Pneumococcal (elderly) (Administré le: 10 août 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2024 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 441 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (WELLNESS, Code: 390906007) - Montant: 690 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 780 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 911 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 83 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 124/93 mmHg; Heart rate 118 bpm; Body temperature 37.1 C; Blood pressure 118/69 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

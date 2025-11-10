@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alami
+ID Patient: d2ca52bc-5473-4423-9e4c-186c96b8a3e2
+Sexe: Féminin, Né(e) le: 10 février 1955
+Âge: 70 ans
+Adresse: Rue Al Wahda 74, Casablanca
+
+Médecin: Dr. Rousset | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d2ca52bc-5473-4423-9e4c-186c96b8a3e2",
+  "first_name": "Fatima",
+  "last_name": "Alami",
+  "full_name": "Fatima Alami",
+  "birthdate": "1955-02-10",
+  "birthdate_iso": "1955-02-10",
+  "gender": "F",
+  "address": "Rue Al Wahda 74, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/08/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 139/68 mmHg (Date: 10/03/2025)
+- Heart rate: 98 bpm (Date: 10/03/2025)
+- Body temperature: 36.7 C (Date: 10/03/2025)
+- Total cholesterol: 228 mg/dL (Date: 10/03/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juillet 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Dairy (Identifiée le: 10/11/2015)
+- Peanuts (Identifiée le: 10/11/2012)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 754 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 754 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 70 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 139/68 mmHg; Heart rate 98 bpm; Body temperature 36.7 C; Total cholesterol 228 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

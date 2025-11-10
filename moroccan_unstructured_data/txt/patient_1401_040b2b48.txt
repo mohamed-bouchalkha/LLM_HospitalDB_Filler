@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: 040b2b48-7690-4713-a7ea-1854c490a502
+Sexe: Masculin, Né(e) le: 17 décembre 1977
+Âge: 47 ans
+Adresse: Rue Mohammed V 30, Casablanca
+
+Médecin: Dr. Petit | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "040b2b48-7690-4713-a7ea-1854c490a502",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1977-12-17",
+  "birthdate_iso": "1977-12-17",
+  "gender": "M",
+  "address": "Rue Mohammed V 30, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2019)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/12/2023 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/71 mmHg (Date: 10/05/2024)
+- Heart rate: 73 bpm (Date: 10/05/2024)
+- Body temperature: 37.1 C (Date: 10/05/2024)
+- Total cholesterol: 185 mg/dL (Date: 10/05/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 août 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 mars 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 188 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 188 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 47 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 128/71 mmHg; Heart rate 73 bpm; Body temperature 37.1 C; Total cholesterol 185 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

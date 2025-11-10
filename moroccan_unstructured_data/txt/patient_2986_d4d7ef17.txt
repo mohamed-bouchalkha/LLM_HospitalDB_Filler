@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alami
+ID Patient: d4d7ef17-4de7-4adf-97c1-56478aff2212
+Sexe: Féminin, Né(e) le: 20 septembre 1953
+Âge: 72 ans
+Adresse: Avenue Al Wahda 166, Casablanca
+
+Médecin: Dr. Denis | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d4d7ef17-4de7-4adf-97c1-56478aff2212",
+  "first_name": "Aicha",
+  "last_name": "Alami",
+  "full_name": "Aicha Alami",
+  "birthdate": "1953-09-20",
+  "birthdate_iso": "1953-09-20",
+  "gender": "F",
+  "address": "Avenue Al Wahda 166, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2013)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 27/01/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 131/64 mmHg (Date: 10/04/2025)
+- Heart rate: 111 bpm (Date: 10/04/2025)
+- Body temperature: 37.5 C (Date: 10/04/2025)
+- Total cholesterol: 218 mg/dL (Date: 10/04/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 octobre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 726 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 726 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 72 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 131/64 mmHg; Heart rate 111 bpm; Body temperature 37.5 C; Total cholesterol 218 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

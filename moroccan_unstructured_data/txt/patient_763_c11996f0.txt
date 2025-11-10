@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Rachid Alaoui
+ID Patient: c11996f0-e358-4ab9-a76f-cb0f300c158c
+Sexe: Masculin, Né(e) le: 3 octobre 1940
+Âge: 85 ans
+Adresse: Place Mohammed V 44, Rabat
+
+Médecin: Dr. Bousquet | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c11996f0-e358-4ab9-a76f-cb0f300c158c",
+  "first_name": "Rachid",
+  "last_name": "Alaoui",
+  "full_name": "Rachid Alaoui",
+  "birthdate": "1940-10-03",
+  "birthdate_iso": "1940-10-03",
+  "gender": "M",
+  "address": "Place Mohammed V 44, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2016)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 26/10/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 93/82 mmHg (Date: 10/08/2024)
+- Heart rate: 90 bpm (Date: 10/08/2024)
+- Body temperature: 37.7 C (Date: 10/08/2024)
+- Blood pressure: 115/60 mmHg (Date: 10/11/2025)
+- Heart rate: 70 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 544 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 734 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 497 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 313 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 85 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 93/82 mmHg; Heart rate 90 bpm; Body temperature 37.7 C; Blood pressure 115/60 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

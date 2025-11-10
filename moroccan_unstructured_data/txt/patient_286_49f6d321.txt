@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Yassin Lamrani
+ID Patient: 49f6d321-cfd2-4be9-9f18-1621a869513c
+Sexe: Masculin, Né(e) le: 20 octobre 2024
+Âge: 1 ans
+Adresse: Rue Hassan II 150, Rabat
+
+Médecin: Dr. Blondel | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "49f6d321-cfd2-4be9-9f18-1621a869513c",
+  "first_name": "Yassin",
+  "last_name": "Lamrani",
+  "full_name": "Yassin Lamrani",
+  "birthdate": "2024-10-20",
+  "birthdate_iso": "2024-10-20",
+  "gender": "M",
+  "address": "Rue Hassan II 150, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 117/85 mmHg (Date: 10/11/2025)
+- Heart rate: 96 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Diphtheria, Tetanus, Pertussis (Administré le: 10 mai 2024)
+- Poliovirus (Administré le: 10 février 2023)
+- Hepatitis B (Administré le: 10 avril 2021)
+- Measles, Mumps, Rubella (Administré le: 10 mai 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 388 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 388 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 1 ans de sexe masculin, venu(e) pour un contrôle clinique. Pas d'antécédents pathologiques notables documentés. Pas de signe d'infection active (fièvre, toux productive). Dernières mesures pertinentes: Blood pressure 117/85 mmHg; Heart rate 96 bpm; Body temperature 37.2 C. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

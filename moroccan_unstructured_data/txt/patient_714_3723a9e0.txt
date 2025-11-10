@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Reda Laraki
+ID Patient: 3723a9e0-7a58-4e6d-93cf-448ae22881a6
+Sexe: Masculin, Né(e) le: 12 mars 1937
+Âge: 88 ans
+Adresse: Place Casablanca 74, Rabat
+
+Médecin: Dr. Lévêque | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3723a9e0-7a58-4e6d-93cf-448ae22881a6",
+  "first_name": "Reda",
+  "last_name": "Laraki",
+  "full_name": "Reda Laraki",
+  "birthdate": "1937-03-12",
+  "birthdate_iso": "1937-03-12",
+  "gender": "M",
+  "address": "Place Casablanca 74, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Endocrinology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2016)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 02/08/2016 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 93/86 mmHg (Date: 10/11/2025)
+- Heart rate: 81 bpm (Date: 10/11/2025)
+- Body temperature: 37.6 C (Date: 10/11/2025)
+- Blood pressure: 93/63 mmHg (Date: 10/11/2025)
+- Heart rate: 107 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 juillet 2024)
+- Electrocardiogram (Effectuée le: 10 avril 2024)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 octobre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 925 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 485 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 532 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 942 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 88 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 93/86 mmHg; Heart rate 81 bpm; Body temperature 37.6 C; Blood pressure 93/63 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

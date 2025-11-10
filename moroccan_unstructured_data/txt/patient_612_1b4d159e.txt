@@ -1,0 +1,76 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Salma Himmich
+ID Patient: 1b4d159e-004d-4ed6-bc69-d8c942cd4be8
+Sexe: Féminin, Né(e) le: 11 décembre 1980
+Âge: 44 ans
+Adresse: Rue Casablanca 187, Rabat
+
+Médecin: Dr. Jean | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1b4d159e-004d-4ed6-bc69-d8c942cd4be8",
+  "first_name": "Salma",
+  "last_name": "Himmich",
+  "full_name": "Salma Himmich",
+  "birthdate": "1980-12-11",
+  "birthdate_iso": "1980-12-11",
+  "gender": "F",
+  "address": "Rue Casablanca 187, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2022)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 14/03/2022 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 104/92 mmHg (Date: 10/04/2025)
+- Heart rate: 114 bpm (Date: 10/04/2025)
+- Body temperature: 36.8 C (Date: 10/04/2025)
+- Blood pressure: 119/92 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 décembre 2023)
+- Electrocardiogram (Effectuée le: 10 avril 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 janvier 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 avril 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 675 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 511 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 775 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 925 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 44 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 104/92 mmHg; Heart rate 114 bpm; Body temperature 36.8 C; Blood pressure 119/92 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

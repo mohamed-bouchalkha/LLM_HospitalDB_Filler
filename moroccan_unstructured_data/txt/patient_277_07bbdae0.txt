@@ -1,0 +1,80 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Anas Ouazzani
+ID Patient: 07bbdae0-db88-498a-ab2e-69c56d21d0b5
+Sexe: Masculin, Né(e) le: 16 mai 1925
+Âge: 100 ans
+Adresse: Rue Fès 83, Rabat
+
+Médecin: Dr. Guillot | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "07bbdae0-db88-498a-ab2e-69c56d21d0b5",
+  "first_name": "Anas",
+  "last_name": "Ouazzani",
+  "full_name": "Anas Ouazzani",
+  "birthdate": "1925-05-16",
+  "birthdate_iso": "1925-05-16",
+  "gender": "M",
+  "address": "Rue Fès 83, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/12/2023)
+- Hypertension (Diagnostiquée le: 10/08/2010)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 19/12/2023 au En cours] (Actif)
+- Amlodipine 5 mg [Du 13/08/2010 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 107/62 mmHg (Date: 10/08/2024)
+- Heart rate: 95 bpm (Date: 10/08/2024)
+- Body temperature: 36.7 C (Date: 10/08/2024)
+- Blood pressure: 111/61 mmHg (Date: 10/11/2025)
+- Heart rate: 112 bpm (Date: 10/11/2025)
+- Body temperature: 37.1 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 février 2025)
+- Hemoglobin A1c test (Effectuée le: 10 octobre 2025)
+- Blood pressure measurement (Effectuée le: 10 septembre 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 avril 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Sulfa drugs (Identifiée le: 10/11/2013)
+- Peanuts (Identifiée le: 10/11/2022)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 877 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 705 MAD
+- Visite le 10 novembre 2025 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 711 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 3 017 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 100 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 107/62 mmHg; Heart rate 95 bpm; Body temperature 36.7 C; Blood pressure 111/61 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

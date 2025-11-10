@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alami
+ID Patient: dbef8268-49c4-4979-b2a4-460849b258a4
+Sexe: Féminin, Né(e) le: 4 septembre 1986
+Âge: 39 ans
+Adresse: Rue Marrakech 103, Casablanca
+
+Médecin: Dr. Blanchet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "dbef8268-49c4-4979-b2a4-460849b258a4",
+  "first_name": "Khadija",
+  "last_name": "Alami",
+  "full_name": "Khadija Alami",
+  "birthdate": "1986-09-04",
+  "birthdate_iso": "1986-09-04",
+  "gender": "F",
+  "address": "Rue Marrakech 103, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 17/04/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 96/99 mmHg (Date: 10/02/2024)
+- Heart rate: 80 bpm (Date: 10/02/2024)
+- Body temperature: 37.8 C (Date: 10/02/2024)
+- Total cholesterol: 183 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 avril 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Dairy (Identifiée le: 10/11/2011)
+- Shellfish (Identifiée le: 10/11/2010)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 429 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 429 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 39 ans. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 96/99 mmHg; Heart rate 80 bpm; Body temperature 37.8 C; Total cholesterol 183 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

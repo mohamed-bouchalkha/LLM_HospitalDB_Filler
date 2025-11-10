@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alaoui
+ID Patient: 2aa9f43f-f9e9-4289-bed4-8d341e00e7f1
+Sexe: Féminin, Né(e) le: 22 décembre 1926
+Âge: 98 ans
+Adresse: Place Mohammed V 129, Casablanca
+
+Médecin: Dr. Guichard | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "2aa9f43f-f9e9-4289-bed4-8d341e00e7f1",
+  "first_name": "Fatima",
+  "last_name": "Alaoui",
+  "full_name": "Fatima Alaoui",
+  "birthdate": "1926-12-22",
+  "birthdate_iso": "1926-12-22",
+  "gender": "F",
+  "address": "Place Mohammed V 129, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/09/2024)
+- Hypertension (Diagnostiquée le: 10/08/2007)
+
+MÉDICAMENTS:
+- Ramipril 5 mg [Du 10/11/2024 au En cours] (Actif)
+- Metformin 500 mg [Du 13/09/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 105/69 mmHg (Date: 10/03/2024)
+- Heart rate: 76 bpm (Date: 10/03/2024)
+- Body temperature: 37.6 C (Date: 10/03/2024)
+- Glucose: 104 mg/dL (Date: 10/03/2024)
+- Hemoglobin A1c: 5.5 % (Date: 10/03/2024)
+- Total cholesterol: 208 mg/dL (Date: 10/03/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mars 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 074 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 074 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 98 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Metformin 500 mg, Ramipril 5 mg. Dernières mesures pertinentes: Blood pressure 105/69 mmHg; Heart rate 76 bpm; Body temperature 37.6 C; Glucose 104 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

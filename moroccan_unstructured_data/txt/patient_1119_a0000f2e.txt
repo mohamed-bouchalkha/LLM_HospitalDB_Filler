@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: a0000f2e-8db8-4e65-ab32-eaf7850309d8
+Sexe: Masculin, Né(e) le: 10 mars 1931
+Âge: 94 ans
+Adresse: Rue Marrakech 21, Casablanca
+
+Médecin: Dr. Leblanc | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "a0000f2e-8db8-4e65-ab32-eaf7850309d8",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1931-03-10",
+  "birthdate_iso": "1931-03-10",
+  "gender": "M",
+  "address": "Rue Marrakech 21, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/04/2024)
+- Hypertension (Diagnostiquée le: 10/11/2020)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 18/04/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 03/12/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 95/62 mmHg (Date: 10/02/2024)
+- Heart rate: 95 bpm (Date: 10/02/2024)
+- Body temperature: 37.7 C (Date: 10/02/2024)
+- Glucose: 107 mg/dL (Date: 10/02/2024)
+- Hemoglobin A1c: 5.6 % (Date: 10/02/2024)
+- Total cholesterol: 176 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 370 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 370 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 94 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 95/62 mmHg; Heart rate 95 bpm; Body temperature 37.7 C; Glucose 107 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

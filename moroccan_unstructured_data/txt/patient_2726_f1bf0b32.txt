@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Alaoui
+ID Patient: f1bf0b32-e060-4620-9e80-88bd22231351
+Sexe: Masculin, Né(e) le: 3 septembre 1930
+Âge: 95 ans
+Adresse: Avenue Al Massira 98, Casablanca
+
+Médecin: Dr. Jacquet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f1bf0b32-e060-4620-9e80-88bd22231351",
+  "first_name": "Mohamed",
+  "last_name": "Alaoui",
+  "full_name": "Mohamed Alaoui",
+  "birthdate": "1930-09-03",
+  "birthdate_iso": "1930-09-03",
+  "gender": "M",
+  "address": "Avenue Al Massira 98, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2011)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/01/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/76 mmHg (Date: 10/07/2024)
+- Heart rate: 83 bpm (Date: 10/07/2024)
+- Body temperature: 37.5 C (Date: 10/07/2024)
+- Total cholesterol: 244 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 avril 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 667 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 667 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 95 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 102/76 mmHg; Heart rate 83 bpm; Body temperature 37.5 C; Total cholesterol 244 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

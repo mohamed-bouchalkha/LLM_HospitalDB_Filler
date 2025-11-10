@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: dded4629-7eb3-491d-8138-bad52ee3da59
+Sexe: Masculin, Né(e) le: 21 septembre 1983
+Âge: 42 ans
+Adresse: Place Casablanca 83, Rabat
+
+Médecin: Dr. Lambert | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "dded4629-7eb3-491d-8138-bad52ee3da59",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1983-09-21",
+  "birthdate_iso": "1983-09-21",
+  "gender": "M",
+  "address": "Place Casablanca 83, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 03/05/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 127/80 mmHg (Date: 10/06/2024)
+- Heart rate: 115 bpm (Date: 10/06/2024)
+- Body temperature: 37.8 C (Date: 10/06/2024)
+- Total cholesterol: 186 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 novembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Eggs (Identifiée le: 10/11/2007)
+- Dairy (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 339 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 339 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 42 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 127/80 mmHg; Heart rate 115 bpm; Body temperature 37.8 C; Total cholesterol 186 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

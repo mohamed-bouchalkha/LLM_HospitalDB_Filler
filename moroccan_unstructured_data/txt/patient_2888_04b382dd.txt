@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Bennani
+ID Patient: 04b382dd-3a9a-4dc4-b08c-3e022f857b82
+Sexe: Masculin, Né(e) le: 3 juin 1943
+Âge: 82 ans
+Adresse: Boulevard Mohammed V 15, Casablanca
+
+Médecin: Dr. Auger | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "04b382dd-3a9a-4dc4-b08c-3e022f857b82",
+  "first_name": "Ahmed",
+  "last_name": "Bennani",
+  "full_name": "Ahmed Bennani",
+  "birthdate": "1943-06-03",
+  "birthdate_iso": "1943-06-03",
+  "gender": "M",
+  "address": "Boulevard Mohammed V 15, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/04/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/84 mmHg (Date: 10/01/2024)
+- Heart rate: 71 bpm (Date: 10/01/2024)
+- Body temperature: 37.7 C (Date: 10/01/2024)
+- Total cholesterol: 164 mg/dL (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Penicillin (Identifiée le: 10/11/2019)
+- Penicillin (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 850 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 850 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 82 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 98/84 mmHg; Heart rate 71 bpm; Body temperature 37.7 C; Total cholesterol 164 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

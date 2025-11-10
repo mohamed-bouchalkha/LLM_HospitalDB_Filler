@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Bennani
+ID Patient: 586794fc-060f-419f-8c3c-beec8f2a1ade
+Sexe: Féminin, Né(e) le: 17 juin 1950
+Âge: 75 ans
+Adresse: Rue Hassan II 107, Casablanca
+
+Médecin: Dr. Louis | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "586794fc-060f-419f-8c3c-beec8f2a1ade",
+  "first_name": "Aicha",
+  "last_name": "Bennani",
+  "full_name": "Aicha Bennani",
+  "birthdate": "1950-06-17",
+  "birthdate_iso": "1950-06-17",
+  "gender": "F",
+  "address": "Rue Hassan II 107, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2007)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 20/12/2007 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 94/76 mmHg (Date: 10/08/2025)
+- Heart rate: 118 bpm (Date: 10/08/2025)
+- Body temperature: 36.8 C (Date: 10/08/2025)
+- Total cholesterol: 217 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 476 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 476 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 75 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 94/76 mmHg; Heart rate 118 bpm; Body temperature 36.8 C; Total cholesterol 217 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

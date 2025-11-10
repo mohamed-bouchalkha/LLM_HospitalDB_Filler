@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alaoui
+ID Patient: e41f8a24-3248-4061-9d97-b041b55915a1
+Sexe: Masculin, Né(e) le: 25 octobre 1951
+Âge: 74 ans
+Adresse: Avenue Fès 31, Casablanca
+
+Médecin: Dr. Roux | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "e41f8a24-3248-4061-9d97-b041b55915a1",
+  "first_name": "Mustapha",
+  "last_name": "Alaoui",
+  "full_name": "Mustapha Alaoui",
+  "birthdate": "1951-10-25",
+  "birthdate_iso": "1951-10-25",
+  "gender": "M",
+  "address": "Avenue Fès 31, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 04/06/2015 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 113/61 mmHg (Date: 10/07/2025)
+- Heart rate: 95 bpm (Date: 10/07/2025)
+- Body temperature: 36.5 C (Date: 10/07/2025)
+- Total cholesterol: 235 mg/dL (Date: 10/07/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 avril 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 618 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 618 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 74 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 113/61 mmHg; Heart rate 95 bpm; Body temperature 36.5 C; Total cholesterol 235 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

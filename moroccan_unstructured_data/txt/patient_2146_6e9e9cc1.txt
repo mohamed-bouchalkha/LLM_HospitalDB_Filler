@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Alaoui
+ID Patient: 6e9e9cc1-5074-4e58-a953-be5fc6e3e185
+Sexe: Féminin, Né(e) le: 24 juillet 1934
+Âge: 91 ans
+Adresse: Rue Marrakech 119, Casablanca
+
+Médecin: Dr. Guillaume | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "6e9e9cc1-5074-4e58-a953-be5fc6e3e185",
+  "first_name": "Aicha",
+  "last_name": "Alaoui",
+  "full_name": "Aicha Alaoui",
+  "birthdate": "1934-07-24",
+  "birthdate_iso": "1934-07-24",
+  "gender": "F",
+  "address": "Rue Marrakech 119, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/06/2024)
+- Hypertension (Diagnostiquée le: 10/12/2019)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 27/06/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 06/01/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 90/83 mmHg (Date: 10/06/2024)
+- Heart rate: 119 bpm (Date: 10/06/2024)
+- Body temperature: 37.7 C (Date: 10/06/2024)
+- Glucose: 152 mg/dL (Date: 10/06/2024)
+- Hemoglobin A1c: 7.9 % (Date: 10/06/2024)
+- Total cholesterol: 215 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+- Vaccin tétanos (rappel) (Administré le: 10 novembre 2020)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 912 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 912 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 91 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 90/83 mmHg; Heart rate 119 bpm; Body temperature 37.7 C; Glucose 152 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,73 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: fc7f7e3e-9174-4e78-95a8-24f477f2ace4
+Sexe: Masculin, Né(e) le: 4 décembre 1963
+Âge: 61 ans
+Adresse: Avenue Hassan II 96, Casablanca
+
+Médecin: Dr. Gauthier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "fc7f7e3e-9174-4e78-95a8-24f477f2ace4",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1963-12-04",
+  "birthdate_iso": "1963-12-04",
+  "gender": "M",
+  "address": "Avenue Hassan II 96, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/12/2023)
+- Hypertension (Diagnostiquée le: 10/11/2013)
+
+MÉDICAMENTS:
+- Losartan 50 mg [Du 10/06/2025 au En cours] (Actif)
+- Amlodipine 5 mg [Du 10/11/2013 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/79 mmHg (Date: 10/08/2025)
+- Heart rate: 107 bpm (Date: 10/08/2025)
+- Body temperature: 36.7 C (Date: 10/08/2025)
+- Glucose: 177 mg/dL (Date: 10/08/2025)
+- Hemoglobin A1c: 5.9 % (Date: 10/08/2025)
+- Total cholesterol: 169 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 novembre 2025)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 659 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 659 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 61 ans. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Losartan 50 mg. Dernières mesures pertinentes: Blood pressure 122/79 mmHg; Heart rate 107 bpm; Body temperature 36.7 C; Glucose 177 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

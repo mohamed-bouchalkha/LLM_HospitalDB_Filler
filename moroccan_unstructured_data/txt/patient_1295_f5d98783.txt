@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: f5d98783-aab1-4b2e-a963-c64c608acf9c
+Sexe: Masculin, Né(e) le: 7 octobre 1995
+Âge: 30 ans
+Adresse: Boulevard Al Wahda 13, Casablanca
+
+Médecin: Dr. Bousquet | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f5d98783-aab1-4b2e-a963-c64c608acf9c",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1995-10-07",
+  "birthdate_iso": "1995-10-07",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 13, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/11/2021)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 05/12/2021 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 118/82 mmHg (Date: 10/12/2024)
+- Heart rate: 69 bpm (Date: 10/12/2024)
+- Body temperature: 36.8 C (Date: 10/12/2024)
+- Total cholesterol: 189 mg/dL (Date: 10/12/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 décembre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 décembre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 1 179 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 179 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 30 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 118/82 mmHg; Heart rate 69 bpm; Body temperature 36.8 C; Total cholesterol 189 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

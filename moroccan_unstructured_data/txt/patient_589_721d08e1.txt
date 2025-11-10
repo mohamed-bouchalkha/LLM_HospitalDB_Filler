@@ -1,0 +1,80 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khalid Kabbaj
+ID Patient: 721d08e1-2417-4519-9754-49cf9bc5757e
+Sexe: Masculin, Né(e) le: 11 novembre 1968
+Âge: 56 ans
+Adresse: Avenue Casablanca 167, Rabat
+
+Médecin: Dr. Chrétien | Établissement: Clinique Agdal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "721d08e1-2417-4519-9754-49cf9bc5757e",
+  "first_name": "Khalid",
+  "last_name": "Kabbaj",
+  "full_name": "Khalid Kabbaj",
+  "birthdate": "1968-11-11",
+  "birthdate_iso": "1968-11-11",
+  "gender": "M",
+  "address": "Avenue Casablanca 167, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Agdal"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Type 2 Diabetes Mellitus (Diagnostiquée le: 10/04/2024)
+- Hypertension (Diagnostiquée le: 10/07/2014)
+
+MÉDICAMENTS:
+- Metformin 500 mg [Du 03/05/2024 au En cours] (Actif)
+- Amlodipine 5 mg [Du 16/07/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 134/64 mmHg (Date: 10/05/2025)
+- Heart rate: 101 bpm (Date: 10/05/2025)
+- Body temperature: 37.8 C (Date: 10/05/2025)
+- Blood pressure: 125/90 mmHg (Date: 10/11/2025)
+- Heart rate: 63 bpm (Date: 10/11/2025)
+- Body temperature: 36.6 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood glucose test (Effectuée le: 10 mai 2024)
+- Blood pressure measurement (Effectuée le: 10 mai 2024)
+- Electrocardiogram (Effectuée le: 10 juillet 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 octobre 2022)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juillet 2024, modalité: 366740001, site: 81745001
+- Imagerie du 10 novembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 1 019 MAD
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 850 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 531 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 4 025 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 56 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension, Type 2 Diabetes Mellitus. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg, Metformin 500 mg. Dernières mesures pertinentes: Blood pressure 134/64 mmHg; Heart rate 101 bpm; Body temperature 37.8 C; Blood pressure 125/90 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

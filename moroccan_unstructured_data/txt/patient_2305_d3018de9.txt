@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: d3018de9-4b66-439c-a19d-821d6a5f9b75
+Sexe: Masculin, Né(e) le: 13 novembre 1979
+Âge: 45 ans
+Adresse: Avenue Al Massira 116, Casablanca
+
+Médecin: Dr. Bazin | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "d3018de9-4b66-439c-a19d-821d6a5f9b75",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "1979-11-13",
+  "birthdate_iso": "1979-11-13",
+  "gender": "M",
+  "address": "Avenue Al Massira 116, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2014)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 15/12/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 98/66 mmHg (Date: 10/07/2024)
+- Heart rate: 60 bpm (Date: 10/07/2024)
+- Body temperature: 37.6 C (Date: 10/07/2024)
+- Total cholesterol: 202 mg/dL (Date: 10/07/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 octobre 2024)
+- Pneumococcal (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Ibuprofen (Identifiée le: 10/11/2011)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juillet 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 710 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 710 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 45 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 98/66 mmHg; Heart rate 60 bpm; Body temperature 37.6 C; Total cholesterol 202 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

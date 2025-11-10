@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Hassan Alami
+ID Patient: 10f18f56-2921-4eea-b7be-cb819a80df1c
+Sexe: Masculin, Né(e) le: 24 septembre 1997
+Âge: 28 ans
+Adresse: Rue Al Massira 21, Rabat
+
+Médecin: Dr. Descamps | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "10f18f56-2921-4eea-b7be-cb819a80df1c",
+  "first_name": "Hassan",
+  "last_name": "Alami",
+  "full_name": "Hassan Alami",
+  "birthdate": "1997-09-24",
+  "birthdate_iso": "1997-09-24",
+  "gender": "M",
+  "address": "Rue Al Massira 21, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/05/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 08/06/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/90 mmHg (Date: 10/09/2025)
+- Heart rate: 112 bpm (Date: 10/09/2025)
+- Body temperature: 36.8 C (Date: 10/09/2025)
+- Blood pressure: 132/72 mmHg (Date: 10/11/2025)
+- Heart rate: 83 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 août 2025)
+- Electrocardiogram (Effectuée le: 10 décembre 2023)
+
+VACCINATIONS:
+- Pneumococcal (Administré le: 10 septembre 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 septembre 2025 à Hôpital Militaire d'Instruction Mohammed V (AMBULATORY, Code: 390906007) - Montant: 767 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 793 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 561 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 28 ans. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 99/90 mmHg; Heart rate 112 bpm; Body temperature 36.8 C; Blood pressure 132/72 mmHg. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

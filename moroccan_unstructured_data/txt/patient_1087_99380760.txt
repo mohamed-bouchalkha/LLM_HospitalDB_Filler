@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khadija Alaoui
+ID Patient: 99380760-f3c3-4314-a49c-0c6e34cae4fa
+Sexe: Féminin, Né(e) le: 5 août 1969
+Âge: 56 ans
+Adresse: Avenue Mohammed V 24, Casablanca
+
+Médecin: Dr. Grenier | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "99380760-f3c3-4314-a49c-0c6e34cae4fa",
+  "first_name": "Khadija",
+  "last_name": "Alaoui",
+  "full_name": "Khadija Alaoui",
+  "birthdate": "1969-08-05",
+  "birthdate_iso": "1969-08-05",
+  "gender": "F",
+  "address": "Avenue Mohammed V 24, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/10/2020)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/11/2020 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 92/98 mmHg (Date: 10/10/2024)
+- Heart rate: 117 bpm (Date: 10/10/2024)
+- Body temperature: 38.0 C (Date: 10/10/2024)
+- Total cholesterol: 205 mg/dL (Date: 10/10/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+- Vaccin COVID-19 (rappel) (Administré le: 10 juillet 2024)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 756 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 756 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 56 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 92/98 mmHg; Heart rate 117 bpm; Body temperature 38.0 C; Total cholesterol 205 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

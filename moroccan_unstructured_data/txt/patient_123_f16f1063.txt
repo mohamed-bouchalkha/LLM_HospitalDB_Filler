@@ -1,0 +1,77 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Khalid Mansouri
+ID Patient: f16f1063-300a-434a-8e73-808604020636
+Sexe: Masculin, Né(e) le: 27 août 1952
+Âge: 73 ans
+Adresse: Avenue Casablanca 155, Rabat
+
+Médecin: Dr. Diaz | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "f16f1063-300a-434a-8e73-808604020636",
+  "first_name": "Khalid",
+  "last_name": "Mansouri",
+  "full_name": "Khalid Mansouri",
+  "birthdate": "1952-08-27",
+  "birthdate_iso": "1952-08-27",
+  "gender": "M",
+  "address": "Avenue Casablanca 155, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2014)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/03/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 122/84 mmHg (Date: 10/11/2025)
+- Heart rate: 91 bpm (Date: 10/11/2025)
+- Body temperature: 37.7 C (Date: 10/11/2025)
+- Blood pressure: 113/66 mmHg (Date: 10/11/2025)
+- Heart rate: 96 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 février 2025)
+- Electrocardiogram (Effectuée le: 10 février 2025)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 juillet 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aspirin (Identifiée le: 10/11/2024)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 497 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 1 188 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 685 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) masculin âgé(e) de 73 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 122/84 mmHg; Heart rate 91 bpm; Body temperature 37.7 C; Blood pressure 113/66 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

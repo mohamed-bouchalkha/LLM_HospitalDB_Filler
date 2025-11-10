@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Bilal Rhanem
+ID Patient: 213190e2-2674-42e7-a14b-4f9c07b4d32c
+Sexe: Masculin, Né(e) le: 16 mars 1995
+Âge: 30 ans
+Adresse: Avenue Hassan II 92, Rabat
+
+Médecin: Dr. Pinto | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "213190e2-2674-42e7-a14b-4f9c07b4d32c",
+  "first_name": "Bilal",
+  "last_name": "Rhanem",
+  "full_name": "Bilal Rhanem",
+  "birthdate": "1995-03-16",
+  "birthdate_iso": "1995-03-16",
+  "gender": "M",
+  "address": "Avenue Hassan II 92, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/02/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 07/03/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 115/83 mmHg (Date: 10/05/2024)
+- Heart rate: 113 bpm (Date: 10/05/2024)
+- Body temperature: 36.6 C (Date: 10/05/2024)
+- Blood pressure: 105/74 mmHg (Date: 10/11/2025)
+- Heart rate: 77 bpm (Date: 10/11/2025)
+- Body temperature: 36.8 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mai 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2021)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 mai 2024 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 576 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 488 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 678 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 742 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 30 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 115/83 mmHg; Heart rate 113 bpm; Body temperature 36.6 C; Blood pressure 105/74 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

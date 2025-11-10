@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Rachid Alaoui
+ID Patient: 3ba4d1e0-aa81-4a50-942a-9f1b0dbea1d5
+Sexe: Masculin, Né(e) le: 30 juillet 2012
+Âge: 13 ans
+Adresse: Rue Casablanca 53, Rabat
+
+Médecin: Dr. Charles | Établissement: Centre Hospitalier Universitaire Ibn Sina | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "3ba4d1e0-aa81-4a50-942a-9f1b0dbea1d5",
+  "first_name": "Rachid",
+  "last_name": "Alaoui",
+  "full_name": "Rachid Alaoui",
+  "birthdate": "2012-07-30",
+  "birthdate_iso": "2012-07-30",
+  "gender": "M",
+  "address": "Rue Casablanca 53, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre Hospitalier Universitaire Ibn Sina"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Aucune condition documentée
+
+MÉDICAMENTS:
+- Aucun traitement actif
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/99 mmHg (Date: 10/11/2025)
+- Heart rate: 95 bpm (Date: 10/11/2025)
+- Body temperature: 37.8 C (Date: 10/11/2025)
+- Blood pressure: 118/69 mmHg (Date: 10/11/2025)
+- Heart rate: 93 bpm (Date: 10/11/2025)
+- Body temperature: 37.4 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Tetanus, Diphtheria, Pertussis booster (Administré le: 10 janvier 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (WELLNESS, Code: 390906007) - Montant: 507 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 310 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 818 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 13 ans de sexe masculin, consultation programmée pour suivi global. Pas d'antécédents pathologiques notables documentés. Pas de douleur thoracique, pas de palpitations signalées. Dernières mesures pertinentes: Blood pressure 102/99 mmHg; Heart rate 95 bpm; Body temperature 37.8 C; Blood pressure 118/69 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

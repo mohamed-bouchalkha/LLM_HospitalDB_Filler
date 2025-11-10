@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Salma Lamrani
+ID Patient: dcdb7819-7511-4015-824e-59baa1275ac3
+Sexe: Féminin, Né(e) le: 6 février 1984
+Âge: 41 ans
+Adresse: Place Mohammed V 199, Rabat
+
+Médecin: Dr. Fontaine | Établissement: Hôpital Militaire d'Instruction Mohammed V | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "dcdb7819-7511-4015-824e-59baa1275ac3",
+  "first_name": "Salma",
+  "last_name": "Lamrani",
+  "full_name": "Salma Lamrani",
+  "birthdate": "1984-02-06",
+  "birthdate_iso": "1984-02-06",
+  "gender": "F",
+  "address": "Place Mohammed V 199, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Militaire d'Instruction Mohammed V"
+}
+
+Spécialité du prestataire: Pulmonology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/04/2014)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 02/05/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 92/87 mmHg (Date: 10/11/2025)
+- Heart rate: 86 bpm (Date: 10/11/2025)
+- Body temperature: 37.2 C (Date: 10/11/2025)
+- Blood pressure: 93/62 mmHg (Date: 10/11/2025)
+- Heart rate: 76 bpm (Date: 10/11/2025)
+- Body temperature: 36.5 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2021)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 août 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Hôpital Militaire d'Instruction Mohammed V (WELLNESS, Code: 390906007) - Montant: 870 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (AMBULATORY, Code: 390906007) - Montant: 542 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 411 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 41 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 92/87 mmHg; Heart rate 86 bpm; Body temperature 37.2 C; Blood pressure 93/62 mmHg. Plan: ECG à envisager si symptomatologie cardiaque persistante. Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

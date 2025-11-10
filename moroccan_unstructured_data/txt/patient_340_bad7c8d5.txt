@@ -1,0 +1,75 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Sara Rhanem
+ID Patient: bad7c8d5-34c5-4aa1-b611-f495955e93d6
+Sexe: Féminin, Né(e) le: 5 juin 1958
+Âge: 67 ans
+Adresse: Place Fès 72, Rabat
+
+Médecin: Dr. Coste | Établissement: Clinique Les Orangers | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "bad7c8d5-34c5-4aa1-b611-f495955e93d6",
+  "first_name": "Sara",
+  "last_name": "Rhanem",
+  "full_name": "Sara Rhanem",
+  "birthdate": "1958-06-05",
+  "birthdate_iso": "1958-06-05",
+  "gender": "F",
+  "address": "Place Fès 72, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Clinique Les Orangers"
+}
+
+Spécialité du prestataire: Internal Medicine
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/06/2019)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 20/06/2019 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 120/97 mmHg (Date: 10/11/2025)
+- Heart rate: 70 bpm (Date: 10/11/2025)
+- Body temperature: 38.0 C (Date: 10/11/2025)
+- Blood pressure: 93/69 mmHg (Date: 10/11/2025)
+- Heart rate: 89 bpm (Date: 10/11/2025)
+- Body temperature: 37.9 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 octobre 2024)
+- Electrocardiogram (Effectuée le: 10 septembre 2025)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 février 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 juin 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Clinique Les Orangers (WELLNESS, Code: 390906007) - Montant: 1 251 MAD
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (AMBULATORY, Code: 390906007) - Montant: 924 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 175 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Consultation de routine chez un(e) patient(e) féminin âgé(e) de 67 ans. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 120/97 mmHg; Heart rate 70 bpm; Body temperature 38.0 C; Blood pressure 93/69 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

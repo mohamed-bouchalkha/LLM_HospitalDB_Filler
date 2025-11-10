@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Ahmed Alaoui
+ID Patient: 8e0344d5-369b-447e-a654-4d3f0ca70043
+Sexe: Masculin, Né(e) le: 3 juillet 1988
+Âge: 37 ans
+Adresse: Boulevard Al Wahda 181, Casablanca
+
+Médecin: Dr. Aubry | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8e0344d5-369b-447e-a654-4d3f0ca70043",
+  "first_name": "Ahmed",
+  "last_name": "Alaoui",
+  "full_name": "Ahmed Alaoui",
+  "birthdate": "1988-07-03",
+  "birthdate_iso": "1988-07-03",
+  "gender": "M",
+  "address": "Boulevard Al Wahda 181, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/01/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 16/01/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 128/70 mmHg (Date: 10/02/2024)
+- Heart rate: 83 bpm (Date: 10/02/2024)
+- Body temperature: 37.0 C (Date: 10/02/2024)
+- Total cholesterol: 200 mg/dL (Date: 10/02/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 septembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Eggs (Identifiée le: 10/11/2007)
+- Peanuts (Identifiée le: 10/11/2021)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 février 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 307 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 307 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 37 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de signe d'infection active (fièvre, toux productive). Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 128/70 mmHg; Heart rate 83 bpm; Body temperature 37.0 C; Total cholesterol 200 mg/dL. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Conseiller activité physique adaptée et régime pauvre en sel. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,78 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Sanaa Chraibi
+ID Patient: c9a8ba45-f812-434d-bed8-cf432d8d6522
+Sexe: Féminin, Né(e) le: 30 septembre 1936
+Âge: 89 ans
+Adresse: Place Mohammed V 123, Rabat
+
+Médecin: Dr. Raymond | Établissement: Hôpital Cheikh Zaid | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "c9a8ba45-f812-434d-bed8-cf432d8d6522",
+  "first_name": "Sanaa",
+  "last_name": "Chraibi",
+  "full_name": "Sanaa Chraibi",
+  "birthdate": "1936-09-30",
+  "birthdate_iso": "1936-09-30",
+  "gender": "F",
+  "address": "Place Mohammed V 123, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Hôpital Cheikh Zaid"
+}
+
+Spécialité du prestataire: Cardiology
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2015)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/04/2025 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 109/99 mmHg (Date: 10/08/2024)
+- Heart rate: 107 bpm (Date: 10/08/2024)
+- Body temperature: 37.2 C (Date: 10/08/2024)
+- Blood pressure: 108/61 mmHg (Date: 10/11/2025)
+- Heart rate: 73 bpm (Date: 10/11/2025)
+- Body temperature: 37.3 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 mars 2024)
+- Electrocardiogram (Effectuée le: 10 décembre 2023)
+
+VACCINATIONS:
+- Pneumococcal (elderly) (Administré le: 10 novembre 2023)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 octobre 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2024 à Hôpital Cheikh Zaid (AMBULATORY, Code: 390906007) - Montant: 898 MAD
+- Visite le 10 novembre 2025 à Clinique Agdal (WELLNESS, Code: 390906007) - Montant: 769 MAD
+- Visite le 10 novembre 2025 à Centre Hospitalier Universitaire Ibn Sina (AMBULATORY, Code: 390906007) - Montant: 631 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 2 297 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 89 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 109/99 mmHg; Heart rate 107 bpm; Body temperature 37.2 C; Blood pressure 108/61 mmHg. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

@@ -1,0 +1,71 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mohamed Bennani
+ID Patient: 8862827d-8808-439e-a9c3-96d76b764729
+Sexe: Masculin, Né(e) le: 15 octobre 1928
+Âge: 97 ans
+Adresse: Rue Mohammed V 44, Casablanca
+
+Médecin: Dr. Dupré | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "8862827d-8808-439e-a9c3-96d76b764729",
+  "first_name": "Mohamed",
+  "last_name": "Bennani",
+  "full_name": "Mohamed Bennani",
+  "birthdate": "1928-10-15",
+  "birthdate_iso": "1928-10-15",
+  "gender": "M",
+  "address": "Rue Mohammed V 44, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Non fumeur, alcool: occasionnel.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/03/2018)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/04/2018 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 127/95 mmHg (Date: 10/06/2024)
+- Heart rate: 83 bpm (Date: 10/06/2024)
+- Body temperature: 37.1 C (Date: 10/06/2024)
+- Total cholesterol: 179 mg/dL (Date: 10/06/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2022)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 juin 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 332 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 332 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 97 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 127/95 mmHg; Heart rate 83 bpm; Body temperature 37.1 C; Total cholesterol 179 mg/dL. Plan: ECG à envisager si symptomatologie cardiaque persistante. Poursuivre le traitement actuel, adapter si pression artérielle instable. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

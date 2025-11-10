@@ -1,0 +1,69 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Fatima Alaoui
+ID Patient: ec41761a-20bb-47d0-a90f-8c348de7cba9
+Sexe: Féminin, Né(e) le: 5 juin 1995
+Âge: 30 ans
+Adresse: Rue Al Wahda 115, Casablanca
+
+Médecin: Dr. Guillot | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "ec41761a-20bb-47d0-a90f-8c348de7cba9",
+  "first_name": "Fatima",
+  "last_name": "Alaoui",
+  "full_name": "Fatima Alaoui",
+  "birthdate": "1995-06-05",
+  "birthdate_iso": "1995-06-05",
+  "gender": "F",
+  "address": "Rue Al Wahda 115, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2024)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 06/08/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 110/98 mmHg (Date: 10/01/2024)
+- Heart rate: 88 bpm (Date: 10/01/2024)
+- Body temperature: 37.0 C (Date: 10/01/2024)
+- Total cholesterol: 188 mg/dL (Date: 10/01/2024)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juillet 2023)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 janvier 2024 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 787 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 787 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 30 ans de sexe féminin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 110/98 mmHg; Heart rate 88 bpm; Body temperature 37.0 C; Total cholesterol 188 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

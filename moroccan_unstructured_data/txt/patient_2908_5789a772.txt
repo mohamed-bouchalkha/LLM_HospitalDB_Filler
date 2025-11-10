@@ -1,0 +1,72 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Aicha Bennani
+ID Patient: 5789a772-9ab4-410a-8f61-a660d1779773
+Sexe: Féminin, Né(e) le: 27 avril 1925
+Âge: 100 ans
+Adresse: Avenue Al Massira 23, Casablanca
+
+Médecin: Dr. Albert | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "5789a772-9ab4-410a-8f61-a660d1779773",
+  "first_name": "Aicha",
+  "last_name": "Bennani",
+  "full_name": "Aicha Bennani",
+  "birthdate": "1925-04-27",
+  "birthdate_iso": "1925-04-27",
+  "gender": "F",
+  "address": "Avenue Al Massira 23, Casablanca",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: HTA chez le père, diabète chez la mère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/12/2009)
+- Ostéoporose (Diagnostiquée le: N/A)
+- Arthrose (Diagnostiquée le: N/A)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 27/12/2009 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 99/87 mmHg (Date: 10/10/2025)
+- Heart rate: 94 bpm (Date: 10/10/2025)
+- Body temperature: 37.0 C (Date: 10/10/2025)
+- Total cholesterol: 235 mg/dL (Date: 10/10/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Influenza (Administré le: 10 juin 2025)
+- Pneumococcal (Administré le: 10 août 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 janvier 2024, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 octobre 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 702 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 702 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 100 ans de sexe féminin, consultation programmée pour suivi global. Antécédents: Hypertension. Fatigue modérée à l'effort, pas de dyspnée au repos. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 99/87 mmHg; Heart rate 94 bpm; Body temperature 37.0 C; Total cholesterol 235 mg/dL. Plan: Conseiller activité physique adaptée et régime pauvre en sel. ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

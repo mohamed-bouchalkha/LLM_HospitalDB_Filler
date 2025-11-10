@@ -1,0 +1,70 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Mustapha Alami
+ID Patient: 1ea22d25-3adb-4959-8157-a4bc1f28f3f6
+Sexe: Masculin, Né(e) le: 16 mai 2006
+Âge: 19 ans
+Adresse: Avenue Al Wahda 106, Rabat
+
+Médecin: Dr. Humbert | Établissement: Inconnu | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1ea22d25-3adb-4959-8157-a4bc1f28f3f6",
+  "first_name": "Mustapha",
+  "last_name": "Alami",
+  "full_name": "Mustapha Alami",
+  "birthdate": "2006-05-16",
+  "birthdate_iso": "2006-05-16",
+  "gender": "M",
+  "address": "Avenue Al Wahda 106, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Inconnu"
+}
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Ancien fumeur, sevré depuis plus de 10 ans.
+- Antécédents familiaux: cardiopathie ischémique chez un frère.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/07/2021)
+
+MÉDICAMENTS:
+- Bisoprolol 5 mg [Du 10/03/2024 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 102/63 mmHg (Date: 10/08/2025)
+- Heart rate: 84 bpm (Date: 10/08/2025)
+- Body temperature: 37.9 C (Date: 10/08/2025)
+- Total cholesterol: 212 mg/dL (Date: 10/08/2025)
+
+PROCÉDURES:
+- Aucune procédure récente
+
+VACCINATIONS:
+- Vaccin contre la grippe (Administré le: 10 novembre 2024)
+
+ÉTUDES D'IMAGERIE:
+- Imagerie du 10 septembre 2025, modalité: 366740001, site: 39607008
+
+ALLERGIES:
+- Shellfish (Identifiée le: 10/11/2007)
+- Latex (Identifiée le: 10/11/2016)
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 août 2025 à Inconnu (AMBULATORY, Code: 390906007) - Montant: 637 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 637 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Patient(e) âgé(e) de 19 ans de sexe masculin, venu(e) pour un contrôle clinique. Antécédents: Hypertension. Pas de douleur thoracique, pas de palpitations signalées. Traitements en cours: Bisoprolol 5 mg. Dernières mesures pertinentes: Blood pressure 102/63 mmHg; Heart rate 84 bpm; Body temperature 37.9 C; Total cholesterol 212 mg/dL. Plan: Poursuivre le traitement actuel, adapter si pression artérielle instable. Recommander un bilan biologique (glycémie à jeun, bilan lipidique). Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+

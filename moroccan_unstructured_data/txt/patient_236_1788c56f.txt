@@ -1,0 +1,74 @@
+
+RÉSUMÉ NARRATIF DU PATIENT
+----------------------------
+Nom: Anas El Khattabi
+ID Patient: 1788c56f-cf74-4280-9341-0ef3d7e86b25
+Sexe: Masculin, Né(e) le: 6 mars 1972
+Âge: 53 ans
+Adresse: Boulevard Hassan II 34, Rabat
+
+Médecin: Dr. Jacquot | Établissement: Centre de Santé Al Amal | Généré par le Système de Données Synthétiques Marocain
+
+METADONNEES_PATIENT_JSON:
+{
+  "id": "1788c56f-cf74-4280-9341-0ef3d7e86b25",
+  "first_name": "Anas",
+  "last_name": "El Khattabi",
+  "full_name": "Anas El Khattabi",
+  "birthdate": "1972-03-06",
+  "birthdate_iso": "1972-03-06",
+  "gender": "M",
+  "address": "Boulevard Hassan II 34, Rabat",
+  "city": "",
+  "state": "",
+  "zip": "",
+  "race": NaN,
+  "ethnicity": NaN,
+  "ssn": NaN,
+  "primary_organization": "Centre de Santé Al Amal"
+}
+
+Spécialité du prestataire: General Practice
+
+ANTÉCÉDENTS FAMILIAUX & MODE DE VIE:
+- Jamais fumeur, pas de consommation d'alcool.
+- Antécédents familiaux: sans particularité notable.
+
+CONDITIONS DIAGNOSTIQUÉES:
+- Hypertension (Diagnostiquée le: 10/08/2014)
+
+MÉDICAMENTS:
+- Amlodipine 5 mg [Du 18/08/2014 au En cours] (Actif)
+
+OBSERVATIONS CLÉS:
+- Blood pressure: 92/74 mmHg (Date: 10/11/2025)
+- Heart rate: 64 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+- Blood pressure: 126/84 mmHg (Date: 10/11/2025)
+- Heart rate: 116 bpm (Date: 10/11/2025)
+- Body temperature: 36.7 C (Date: 10/11/2025)
+
+PROCÉDURES:
+- Blood pressure measurement (Effectuée le: 10 novembre 2024)
+
+VACCINATIONS:
+- Influenza (Administré le: 10 août 2025)
+
+ÉTUDES D'IMAGERIE:
+- Aucune étude documentée
+
+ALLERGIES:
+- Aucune allergie connue
+
+RÉSUMÉ DES CONSULTATIONS:
+- Visite le 10 novembre 2025 à Centre de Santé Al Amal (WELLNESS, Code: 390906007) - Montant: 759 MAD
+- Visite le 10 novembre 2025 à Clinique Les Orangers (AMBULATORY, Code: 390906007) - Montant: 666 MAD
+
+FACTURATION ESTIMÉE:
+- Total estimé: 1 425 MAD (consultation + actes)
+
+NOTES DU MÉDECIN:
+Âgé(e) de 53 ans de sexe masculin, consultation programmée pour suivi global. Antécédents: Hypertension. Sommeil globalement correct, appétit conservé. Traitements en cours: Amlodipine 5 mg. Dernières mesures pertinentes: Blood pressure 92/74 mmHg; Heart rate 64 bpm; Body temperature 36.7 C; Blood pressure 126/84 mmHg. Plan: Recommander un bilan biologique (glycémie à jeun, bilan lipidique). ECG à envisager si symptomatologie cardiaque persistante. Informer le/la patient(e) de consulter en urgence en cas de douleur thoracique, dyspnée aiguë ou signes neurologiques.
+
+----------------------------
+
