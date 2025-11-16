@@ -189,7 +189,76 @@ class ProductionLoader:
                 'code': ('code', int), 'description': ('description', str)
             })
             
-            # (Ajoutez les mappages pour les autres tables : medications, observations, etc.)
+            # Étape 3: Traiter les tables enfants
+            
+            # Mappage pour Conditions
+            self.process_generic_table('staging_conditions', 'conditions', {
+                'start_date': ('start_date', datetime.fromisoformat), 
+                'stop_date': ('stop_date', datetime.fromisoformat),
+                'patient_id': ('patient_id', str), 
+                'encounter_id': ('encounter_id', str),
+                'code': ('code', int), 
+                'description': ('description', str)
+            })
+            
+            # Mappage pour Medications
+            self.process_generic_table('staging_medications', 'medications', {
+                'start_datetime': ('start_datetime', datetime.fromisoformat), 
+                'stop_datetime': ('stop_datetime', datetime.fromisoformat),
+                'patient_id': ('patient_id', str), 
+                'encounter_id': ('encounter_id', str),
+                'code': ('code', int), 
+                'description': ('description', str),
+                'base_cost': ('base_cost', float),
+                'payer_coverage': ('payer_coverage', float),
+                'total_cost': ('total_cost', float),
+                'reason_description': ('reason_description', str)
+            })
+            
+            # Mappage pour Observations
+            # Note: 'code' est bien 'str' (VARCHAR) dans la table de production
+            self.process_generic_table('staging_observations', 'observations', {
+                'date_recorded': ('date_recorded', datetime.fromisoformat),
+                'patient_id': ('patient_id', str), 
+                'encounter_id': ('encounter_id', str),
+                'code': ('code', str), 
+                'description': ('description', str),
+                'value': ('value', str),
+                'units': ('units', str),
+                'type': ('type', str)
+            })
+            
+            # Mappage pour Allergies
+            self.process_generic_table('staging_allergies', 'allergies', {
+                'start_date': ('start_date', datetime.fromisoformat), 
+                'stop_date': ('stop_date', datetime.fromisoformat),
+                'patient_id': ('patient_id', str), 
+                'encounter_id': ('encounter_id', str),
+                'code': ('code', int), 
+                'description': ('description', str)
+            })
+            
+            # Mappage pour Procedures
+            self.process_generic_table('staging_procedures', 'procedures', {
+                'date_performed': ('date_performed', datetime.fromisoformat),
+                'patient_id': ('patient_id', str), 
+                'encounter_id': ('encounter_id', str),
+                'code': ('code', int), 
+                'description': ('description', str),
+                'base_cost': ('base_cost', float),
+                'reason_description': ('reason_description', str)
+            })
+            
+            # Mappage pour Immunizations
+            self.process_generic_table('staging_immunizations', 'immunizations', {
+                'date_administered': ('date_administered', datetime.fromisoformat),
+                'patient_id': ('patient_id', str), 
+                'encounter_id': ('encounter_id', str),
+                'code': ('code', int), 
+                'description': ('description', str),
+                'base_cost': ('base_cost', float)
+            })
+
             
             self.optimize_tables() # Exécuter l'optimisation à la fin
             

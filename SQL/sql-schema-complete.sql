@@ -45,7 +45,7 @@ CREATE TABLE patients (
     marital VARCHAR(1),  -- M=Married, S=Single
     race VARCHAR(50),
     ethnicity VARCHAR(50),
-    gender CHAR(1) NOT NULL,  -- M/F
+    gender CHAR(1) NOT NULL,  -- M/F/autre
     birthplace VARCHAR(255),
     address VARCHAR(255),
     city VARCHAR(100),

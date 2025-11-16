@@ -1,6 +1,2 @@
+config.py
 .env
-.venv
-__pycache__
-.node_modules
-/synthea-morocco
-.venv/
