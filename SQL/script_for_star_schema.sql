@@ -25,7 +25,6 @@ CREATE TABLE dim_patient (
     last_name VARCHAR(100),
     birthdate DATE,
     gender VARCHAR(10),
-    ssn VARCHAR(20),
     address VARCHAR(255),
     city VARCHAR(100),
     state VARCHAR(50),
@@ -37,14 +36,13 @@ CREATE TABLE dim_patient (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
 
-INSERT INTO dim_patient (code, first_name, last_name, birthdate, gender, ssn, address, city, state, zip, race, ethnicity, age)
+INSERT INTO dim_patient (code, first_name, last_name, birthdate, gender, address, city, state, zip, race, ethnicity, age)
 SELECT
     id AS code,
     first_name,
     last_name,
     STR_TO_DATE(birthdate, '%Y-%m-%d') AS birthdate,
     gender,
-    ssn,
     address,
     city,
     state,
