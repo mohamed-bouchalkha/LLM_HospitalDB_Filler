@@ -8,7 +8,6 @@ def preprocess_text(text):
     
     text = str(text).lower() 
     
-
     text = re.sub(r'[\s,:]+', ' ', text)
     
     text = re.sub(r'[\r\n\t\-]+', ' ', text)
@@ -21,5 +20,3 @@ def preprocess_text(text):
 if __name__ == "__main__" :
     dataset = pd.read_csv("data/mtsamples.csv")
     dataset['clean_transcription'] = dataset['transcription'].apply(preprocess_text)
-
-    
