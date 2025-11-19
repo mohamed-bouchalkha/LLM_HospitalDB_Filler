@@ -5,3 +5,15 @@ clean_and_validate.py
 data
 __pycache__
 venv
+
+node_modules/
+
+
+
+
+.env
+venv/
+.venv
+__pycache__/
+ressources/
+synthea-master/
