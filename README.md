@@ -13,8 +13,7 @@ This project implements an ETL (Extract, Transform, Load) pipeline to process me
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-folder>
+    git clone https://github.com/mohamed-bouchalkha/LLM_HospitalDB_Filler
     ```
 
 2.  **Create and activate a virtual environment:**
