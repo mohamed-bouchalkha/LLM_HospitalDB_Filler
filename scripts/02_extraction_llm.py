@@ -10,12 +10,9 @@ import extraction_and_preprocessing
 # 1. Configuration
 load_dotenv()
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-# client = genai.Client(api_key="AIzaSyCm4QU2zUK7VM8AEQycknMOKx_9D5l3tYM")
-client = genai.Client(api_key="AIzaSyBDJCbFXtkCSXzo8a9oCmyXmBD3SfUWuSc")
+client = genai.Client(api_key=os.getenv("API_KEY"))
 
 exctraction_json_output = {}
-# Chargement du dataset (Simulé ici, assurez-vous d'avoir chargé votre CSV)
-# dataset = pd.read_csv("data/mtsamples.csv")
 
 # 2. Définition du Schéma Cible (Aligné sur texas_star_schema.sql)
 target_schema = """

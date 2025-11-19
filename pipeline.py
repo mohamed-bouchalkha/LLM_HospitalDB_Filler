@@ -55,18 +55,18 @@ def main():
     # --- CONFIGURATION OF STEPS ---
     # Update the paths below if you move other files into the 'scripts' folder
     pipeline_steps = [
-        # {
-        #     "cmd": [py, r"scripts\01_pretreatement_data.py"],
-        #     "desc": "Pretreatement Unstructured Data"
-        # },
-        # {
-        #     "cmd": [py, r"scripts\02_extraction_llm.py"],
-        #     "desc": "Extraction Unstructured Data Whit LLM" 
-        # },
-        # {
-        #     "cmd": [py, r"scripts\03_parse_json_to_sql.py"],
-        #     "desc": "Generate SQL Insert Statements from Unstructured CSV Data"
-        # },
+        {
+            "cmd": [py, r"scripts\01_pretreatement_data.py"],
+            "desc": "Pretreatement Unstructured Data"
+        },
+        {
+            "cmd": [py, r"scripts\02_extraction_llm.py"],
+            "desc": "Extraction Unstructured Data Whit LLM" 
+        },
+        {
+            "cmd": [py, r"scripts\03_parse_json_to_sql.py"],
+            "desc": "Generate SQL Insert Statements from Unstructured CSV Data"
+        },
         {
             "cmd": [py, r"scripts\04_parse_sql.py", r"SQL\insert_data_v1.sql"],
             "desc": "Parsing & Executing SQL Batch 1"
@@ -83,10 +83,10 @@ def main():
             "cmd": [py, r"scripts\04_parse_sql.py", r"SQL\insert_data_v4.sql"],
             "desc": "Parsing & Executing SQL Batch 4"
         },
-        # {
-        #     "cmd": [py, r"scripts\05_load_synthea_csv.py"],
-        #     "desc": "Running CSV ETL Pipeline (Pandas Loading)"
-        # },
+        {
+            "cmd": [py, r"scripts\05_load_synthea_csv.py"],
+            "desc": "Running CSV ETL Pipeline (Pandas Loading)"
+        },
         {
             "cmd": [py, r"scripts\06_clean_and_dedup.py"],
             "desc": "Cleaning Data & Deduplication (SQL Scripts)"
