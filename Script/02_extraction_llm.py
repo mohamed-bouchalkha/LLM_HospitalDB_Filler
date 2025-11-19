@@ -10,8 +10,7 @@ import Script.extraction_and_preprocessing as extraction_and_preprocessing
 # 1. Configuration
 load_dotenv()
 GOOGLE_API_KEY = os.getenv("GOOGLE_API_KEY")
-# client = genai.Client(api_key="AIzaSyCm4QU2zUK7VM8AEQycknMOKx_9D5l3tYM")
-client = genai.Client(api_key="AIzaSyBDJCbFXtkCSXzo8a9oCmyXmBD3SfUWuSc")
+client = genai.Client(api_key=GOOGLE_API_KEY)
 
 exctraction_json_output = {}
 # Chargement du dataset (Simulé ici, assurez-vous d'avoir chargé votre CSV)
