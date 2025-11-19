@@ -1,34 +1,22 @@
-# To Generate Medical Moroccan Data
+run python -m venv .venv
+run venv\Scripts\activate 
+run pip install mysql-connector-python pandas anthropic python-dotenv google-generativeai groq
 
-Étape 1 : Exécutez cd synthear-morocco
-Étape 2 : Exécutez .\build\install\synthea-morocco\bin\synthea-morocco.bat -p 200 "Rabat-Salé-Kénitra" "Rabat" 
+you need to execute the texas_star_schema.sql in PhpMyAdmin
 
-# To Generate Unstructured Data From Output of Synthea-Morocco
+if you don't have 
 
-Étape 1 : Exécutez python .\ChangeTypeData\structure_to_pdf_text.py
+run python pipeline.py
 
-# To Start The project
+or 
 
-Installez XAMPP (MySQL).
-
-Créez la base hospital_db.
-
-Créez votre environnement virtuel : python -m venv .venv
-
-Activez-le : .\.venv\Scripts\activate
-
-Installez les dépendances : pip install mysql-connector-python pandas anthropic python-dotenv google-generativeai
-
-Exécutez sql-schema-complete.sql sur votre base hospital_db.
-
-Exécutez run_validation.sql sur votre base hospital_db.
-
-Workflow (À chaque exécution) :
-
-Étape 1 : Exécutez python extract_to_staging_db.py
-
-Étape 2 : Exécutez python process_staging_to_production.py
-
-Étape 3 : Exécutez python export_to_csv.py
-
-Résultat : Le dossier /csv_export contient vos fichiers propres.
+run python scripts\01_pretreatement_data.py
+run python scripts\02_extraction_llm.py
+run python scripts\03_parse_json_to_sql.py
+run python scripts\04_parse_sql.py SQL\insert_data_v1.sql
+run python scripts\04_parse_sql.py SQL\insert_data_v2.sql
+run python scripts\04_parse_sql.py SQL\insert_data_v3.sql
+run python scripts\04_parse_sql.py SQL\insert_data_v4.sql
+run python scripts\05_load_synthea_csv.py
+run python scripts\06_clean_and_dedup.py
+run python scripts\07_validate_and_enrich.py
