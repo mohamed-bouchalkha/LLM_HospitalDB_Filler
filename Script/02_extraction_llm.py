@@ -5,7 +5,9 @@ import os
 from google import genai
 from google.genai import types
 from dotenv import load_dotenv
-import Script.extraction_and_preprocessing as extraction_and_preprocessing
+import importlib
+
+extraction_and_preprocessing = importlib.import_module("01_pretreatement_data")
 
 # 1. Configuration
 load_dotenv()

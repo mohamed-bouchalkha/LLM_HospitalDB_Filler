@@ -1,2 +1,8 @@
 config.py
 .env
+# don't push enviroment
+hospitalier 
+clean_and_validate.py
+data
+__pycache__
+venv
