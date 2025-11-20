@@ -1,370 +1,324 @@
-import React, { useState, useRef, useEffect } from 'react'
-import { sendMessage } from '../services/api'
+import React, { useState, useEffect, useRef } from 'react';
+import { Send, Activity, User, Building2, CreditCard, Stethoscope, Database, Loader2, Search, TrendingUp, AlertCircle, CheckCircle, MessageSquare, X } from 'lucide-react';
 
-// Message de bienvenue par défaut
-const defaultWelcomeMessage = {
-  id: 1,
-  text: "Bonjour ! Je suis votre assistant médical. Comment puis-je vous aider aujourd'hui concernant vos rendez-vous ou événements médicaux ?",
-  sender: 'bot',
-  timestamp: new Date()
-}
+const MedicalRAGClient = () => {
+  const [query, setQuery] = useState('');
+  const [messages, setMessages] = useState([]);
+  const [isLoading, setIsLoading] = useState(false);
+  const [health, setHealth] = useState(null);
+  const [stats, setStats] = useState(null);
+  const messagesEndRef = useRef(null);
+  const [showWelcome, setShowWelcome] = useState(true);
 
-const Chatbot = () => {
-  const [messages, setMessages] = useState([defaultWelcomeMessage])
-  const [input, setInput] = useState('')
-  const [isLoading, setIsLoading] = useState(false)
-  const [showScrollTop, setShowScrollTop] = useState(false)
-  const messagesEndRef = useRef(null)
-  const messagesContainerRef = useRef(null)
-
-  const scrollToBottom = (force = false) => {
-    if (messagesContainerRef.current) {
-      const container = messagesContainerRef.current
-      
-      if (force) {
-        // Forcer le scroll vers le bas
-        setTimeout(() => {
-          if (messagesEndRef.current) {
-            messagesEndRef.current.scrollIntoView({ behavior: 'smooth', block: 'end' })
-          } else {
-            container.scrollTop = container.scrollHeight
-          }
-        }, 100)
-      } else {
-        // Ne scroll que si on est déjà proche du bas
-        const isNearBottom = container.scrollHeight - container.scrollTop - container.clientHeight < 150
-        if (isNearBottom) {
-          setTimeout(() => {
-            if (messagesEndRef.current) {
-              messagesEndRef.current.scrollIntoView({ behavior: 'smooth', block: 'end' })
-            } else {
-              container.scrollTop = container.scrollHeight
-            }
-          }, 100)
-        }
-      }
-    }
-  }
+  const API_URL = 'http://localhost:8000';
 
   useEffect(() => {
-    // Toujours scroller vers le bas quand un nouveau message arrive
-    scrollToBottom(true)
-  }, [messages.length])
+    checkHealth();
+    fetchStats();
+  }, []);
 
-  // Détecter le scroll pour afficher/masquer le bouton "remonter"
   useEffect(() => {
-    const container = messagesContainerRef.current
-    if (!container) return
+    scrollToBottom();
+  }, [messages]);
 
-    const handleScroll = () => {
-      // Afficher le bouton si on n'est pas tout en haut
-      const isScrolled = container.scrollTop > 100
-      setShowScrollTop(isScrolled)
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+  };
+
+  const checkHealth = async () => {
+    try {
+      const response = await fetch(`${API_URL}/health`);
+      const data = await response.json();
+      setHealth(data);
+    } catch (error) {
+      console.error('Health check failed:', error);
     }
+  };
 
-    container.addEventListener('scroll', handleScroll)
-    return () => container.removeEventListener('scroll', handleScroll)
-  }, [])
-
-  // Fonction pour remonter en haut
-  const scrollToTop = () => {
-    if (messagesContainerRef.current) {
-      messagesContainerRef.current.scrollTo({
-        top: 0,
-        behavior: 'smooth'
-      })
+  const fetchStats = async () => {
+    try {
+      const response = await fetch(`${API_URL}/stats`);
+      const data = await response.json();
+      setStats(data);
+    } catch (error) {
+      console.error('Stats fetch failed:', error);
     }
-  }
+  };
 
-  // Fonction pour effacer l'historique
-  const clearHistory = () => {
-    if (window.confirm('Êtes-vous sûr de vouloir effacer l\'historique de la conversation ?')) {
-      setMessages([defaultWelcomeMessage])
-    }
-  }
+  const handleSubmit = async () => {
+    if (!query.trim() || isLoading) return;
 
-  // Fonction pour formater la date
-  const formatDate = (date) => {
-    const now = new Date()
-    const messageDate = new Date(date)
-    const diffTime = Math.abs(now - messageDate)
-    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24))
-
-    if (diffDays === 0) {
-      return messageDate.toLocaleTimeString('fr-FR', { 
-        hour: '2-digit', 
-        minute: '2-digit' 
-      })
-    } else if (diffDays === 1) {
-      return `Hier ${messageDate.toLocaleTimeString('fr-FR', { 
-        hour: '2-digit', 
-        minute: '2-digit' 
-      })}`
-    } else if (diffDays < 7) {
-      return messageDate.toLocaleDateString('fr-FR', { 
-        weekday: 'short',
-        hour: '2-digit', 
-        minute: '2-digit' 
-      })
-    } else {
-      return messageDate.toLocaleDateString('fr-FR', { 
-        day: '2-digit',
-        month: '2-digit',
-        hour: '2-digit', 
-        minute: '2-digit' 
-      })
-    }
-  }
-
-  const handleSend = async (e) => {
-    e.preventDefault()
-    if (!input.trim() || isLoading) return
-
-    const userMessage = {
-      id: messages.length + 1,
-      text: input.trim(),
-      sender: 'user',
-      timestamp: new Date()
-    }
-
-    setMessages(prev => [...prev, userMessage])
-    const currentInput = input.trim()
-    setInput('')
-    setIsLoading(true)
-    
-    // Scroller vers le bas après l'ajout du message utilisateur
-    setTimeout(() => scrollToBottom(true), 50)
+    const userMessage = { role: 'user', content: query, timestamp: new Date() };
+    setMessages(prev => [...prev, userMessage]);
+    setQuery('');
+    setIsLoading(true);
+    setShowWelcome(false);
 
     try {
-      // Préparer l'historique de conversation pour Groq
-      const conversationHistory = messages
-        .filter(msg => msg.id !== 1) // Exclure le message de bienvenue
-        .map(msg => ({
-          role: msg.sender === 'user' ? 'user' : 'assistant',
-          content: msg.text
-        }))
+      const response = await fetch(`${API_URL}/query`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ query, max_results: 100 })
+      });
 
-      const response = await sendMessage(currentInput, conversationHistory)
+      const data = await response.json();
+      
       const botMessage = {
-        id: messages.length + 2,
-        text: response.message || response.text || "Désolé, je n'ai pas pu traiter votre demande.",
-        sender: 'bot',
-        timestamp: new Date()
-      }
-      setMessages(prev => [...prev, botMessage])
-      // Forcer le scroll vers le bas après la réponse
-      setTimeout(() => scrollToBottom(true), 200)
+        role: 'assistant',
+        content: data.answer,
+        timestamp: new Date(),
+        metadata: {
+          actor_type: data.actor_type,
+          actor_id: data.actor_id,
+          num_documents: data.num_documents_retrieved,
+          num_events: data.num_events,
+          documents: data.documents
+        }
+      };
+
+      setMessages(prev => [...prev, botMessage]);
     } catch (error) {
-      console.error('Erreur lors de l\'envoi du message:', error)
-      let errorText = "Désolé, une erreur s'est produite. Veuillez réessayer plus tard."
-      
-      // Messages d'erreur plus détaillés
-      if (error.response?.status === 400) {
-        errorText = error.message || "Erreur 400: Requête invalide. Vérifiez le format de votre message."
-      } else if (error.response?.status === 401) {
-        errorText = "Erreur d'authentification API. Vérifiez votre clé API."
-      } else if (error.response?.status === 429) {
-        errorText = "Trop de requêtes. Veuillez patienter un moment avant de réessayer."
-      } else if (error.message) {
-        errorText = error.message
-      }
-      
       const errorMessage = {
-        id: messages.length + 2,
-        text: errorText,
-        sender: 'bot',
+        role: 'error',
+        content: `Error: ${error.message}`,
         timestamp: new Date()
-      }
-      setMessages(prev => [...prev, errorMessage])
+      };
+      setMessages(prev => [...prev, errorMessage]);
     } finally {
-      setIsLoading(false)
+      setIsLoading(false);
     }
-  }
+  };
+
+  const handleKeyPress = (e) => {
+    if (e.key === 'Enter' && !e.shiftKey) {
+      e.preventDefault();
+      handleSubmit();
+    }
+  };
+
+  const quickQueries = [
+    { icon: User, text: 'Tell me about Patient 1', color: 'from-blue-500 to-blue-600' },
+    { icon: Stethoscope, text: 'What medications does Patient 5 have?', color: 'from-green-500 to-green-600' },
+    { icon: Activity, text: 'Events on October 12, 2023', color: 'from-purple-500 to-purple-600' },
+    { icon: Building2, text: 'Tell me about provider 2', color: 'from-orange-500 to-orange-600' }
+  ];
+
+  const getActorIcon = (type) => {
+    switch(type) {
+      case 'patient': return <User className="w-4 h-4" />;
+      case 'provider': return <Stethoscope className="w-4 h-4" />;
+      case 'organization': return <Building2 className="w-4 h-4" />;
+      case 'payer': return <CreditCard className="w-4 h-4" />;
+      default: return <Database className="w-4 h-4" />;
+    }
+  };
 
   return (
-    <div className="bg-white/80 backdrop-blur-lg rounded-2xl shadow-2xl flex flex-col border border-white/20 animate-fade-in relative" style={{ height: '100%', maxHeight: '100%', display: 'flex', flexDirection: 'column', overflow: 'hidden' }}>
-      {/* Header avec effet glassmorphism - Fixe en haut */}
-      <div className="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 text-white p-4 relative overflow-hidden flex-shrink-0 z-50 shadow-lg" style={{ flexShrink: 0 }}>
-        <div className="absolute inset-0 bg-gradient-to-r from-blue-600/50 to-purple-600/50"></div>
-        <div className="relative flex items-center justify-between">
-          <div className="flex items-center space-x-4">
-            <div className="relative">
-              <div className="w-12 h-12 bg-white/20 backdrop-blur-sm rounded-full flex items-center justify-center border-2 border-white/30 shadow-lg transform hover:scale-110 transition-transform duration-300">
-                <svg className="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                </svg>
-              </div>
-              <div className="absolute -top-1 -right-1 w-4 h-4 bg-green-400 rounded-full border-2 border-white animate-pulse"></div>
-            </div>
-            <div>
-              <h2 className="font-bold text-xl">Assistant Médical</h2>
-              <p className="text-sm text-blue-100 flex items-center space-x-1">
-                <span className="w-2 h-2 bg-green-300 rounded-full animate-pulse"></span>
-                <span>En ligne</span>
-              </p>
-            </div>
-          </div>
-          <div className="flex items-center space-x-3">
-            <button
-              onClick={clearHistory}
-              className="p-2 bg-white/20 hover:bg-white/30 rounded-lg transition-all duration-200 backdrop-blur-sm border border-white/30 hover:scale-110"
-              title="Effacer l'historique"
-            >
-              <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16" />
-              </svg>
-            </button>
-            <div className="flex space-x-2">
-              <div className="w-2 h-2 bg-white/60 rounded-full animate-pulse"></div>
-              <div className="w-2 h-2 bg-white/60 rounded-full animate-pulse" style={{ animationDelay: '0.2s' }}></div>
-              <div className="w-2 h-2 bg-white/60 rounded-full animate-pulse" style={{ animationDelay: '0.4s' }}></div>
-            </div>
-          </div>
-        </div>
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-purple-50">
+      {/* Animated Background */}
+      <div className="fixed inset-0 overflow-hidden pointer-events-none">
+        <div className="absolute top-0 left-0 w-96 h-96 bg-blue-200 rounded-full mix-blend-multiply filter blur-3xl opacity-20 animate-pulse"></div>
+        <div className="absolute top-0 right-0 w-96 h-96 bg-purple-200 rounded-full mix-blend-multiply filter blur-3xl opacity-20" style={{animationDelay: '1s'}}></div>
+        <div className="absolute bottom-0 left-1/2 w-96 h-96 bg-green-200 rounded-full mix-blend-multiply filter blur-3xl opacity-20" style={{animationDelay: '2s'}}></div>
       </div>
 
-      {/* Messages - Zone scrollable avec scrollbar visible */}
-      <div 
-        ref={messagesContainerRef}
-        className="p-6 space-y-4 bg-gradient-to-b from-gray-50 to-gray-100 relative"
-        style={{ 
-          flex: '1 1 0',
-          overflowY: 'scroll',
-          overflowX: 'hidden',
-          minHeight: 0,
-          maxHeight: '100%',
-          scrollBehavior: 'smooth',
-          WebkitOverflowScrolling: 'touch'
-        }}
-      >
-        {messages.map((message, index) => (
-          <div
-            key={message.id}
-            className={`flex ${message.sender === 'user' ? 'justify-end' : 'justify-start'} ${
-              message.sender === 'user' ? 'animate-slide-in-right' : 'animate-slide-in-left'
-            }`}
-            style={{ animationDelay: `${index * 0.1}s` }}
-          >
-            <div className="flex items-end space-x-2 max-w-[80%]" data-message-id={message.id}>
-              {message.sender === 'bot' && (
-                <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full flex items-center justify-center flex-shrink-0 shadow-md">
-                  <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-                  </svg>
+      {/* Header */}
+      <header className="relative bg-white/80 backdrop-blur-md border-b border-gray-200 shadow-sm">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center space-x-3">
+              <div className="relative">
+                <Activity className="w-8 h-8 text-blue-600" />
+                <div className="absolute -top-1 -right-1 w-3 h-3 bg-green-500 rounded-full animate-pulse"></div>
+              </div>
+              <div>
+                <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                  Medical Data Warehouse
+                </h1>
+                <p className="text-xs text-gray-500">AI-Powered Healthcare Analytics</p>
+              </div>
+            </div>
+            
+            {health && (
+              <div className="flex items-center space-x-4">
+                <div className={`flex items-center space-x-2 px-3 py-1.5 rounded-full ${health.database_loaded ? 'bg-green-100 text-green-700' : 'bg-red-100 text-red-700'}`}>
+                  {health.database_loaded ? <CheckCircle className="w-4 h-4" /> : <AlertCircle className="w-4 h-4" />}
+                  <span className="text-xs font-medium">{health.database_loaded ? 'Online' : 'Offline'}</span>
                 </div>
-              )}
+                <div className="px-3 py-1.5 bg-purple-100 text-purple-700 rounded-full text-xs font-medium">
+                  {health.device.toUpperCase()}
+                </div>
+              </div>
+            )}
+          </div>
+        </div>
+      </header>
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        {/* Stats Cards */}
+        {stats && (
+          <div className="grid grid-cols-2 md:grid-cols-5 gap-4 mb-6">
+            {[
+              { label: 'Documents', value: stats.total_documents, icon: Database, color: 'blue' },
+              { label: 'Patients', value: stats.unique_patients, icon: User, color: 'green' },
+              { label: 'Providers', value: stats.unique_providers, icon: Stethoscope, color: 'purple' },
+              { label: 'Organizations', value: stats.unique_organizations, icon: Building2, color: 'orange' },
+              { label: 'Events', value: stats.total_events, icon: Activity, color: 'red' }
+            ].map((stat, idx) => (
+              <div key={idx} className="bg-white rounded-xl p-4 shadow-sm border border-gray-100 hover:shadow-md transition-all duration-300 transform hover:-translate-y-1">
+                <div className="flex items-center justify-between mb-2">
+                  <stat.icon className={`w-5 h-5 text-${stat.color}-600`} />
+                  <TrendingUp className="w-4 h-4 text-gray-400" />
+                </div>
+                <div className="text-2xl font-bold text-gray-900">{stat.value.toLocaleString()}</div>
+                <div className="text-xs text-gray-500">{stat.label}</div>
+              </div>
+            ))}
+          </div>
+        )}
+
+        {/* Main Content */}
+        <div className="bg-white rounded-2xl shadow-xl border border-gray-200 overflow-hidden">
+          {/* Chat Area */}
+          <div className="h-[500px] overflow-y-auto p-6 space-y-4">
+            {showWelcome && messages.length === 0 && (
+              <div className="text-center py-12">
+                <div className="mb-6 relative inline-block">
+                  <MessageSquare className="w-20 h-20 text-blue-500 mx-auto animate-bounce" />
+                  <div className="absolute -top-2 -right-2 w-6 h-6 bg-green-500 rounded-full flex items-center justify-center">
+                    <Activity className="w-4 h-4 text-white" />
+                  </div>
+                </div>
+                <h2 className="text-2xl font-bold text-gray-900 mb-2">Welcome to Medical RAG</h2>
+                <p className="text-gray-600 mb-8">Ask me anything about patients, providers, organizations, or medical events</p>
+                
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-3 max-w-2xl mx-auto">
+                  {quickQueries.map((q, idx) => (
+                    <button
+                      key={idx}
+                      onClick={() => setQuery(q.text)}
+                      className={`flex items-center space-x-3 p-4 bg-gradient-to-r ${q.color} text-white rounded-lg hover:shadow-lg transition-all duration-300 transform hover:scale-105`}
+                    >
+                      <q.icon className="w-5 h-5" />
+                      <span className="text-sm font-medium">{q.text}</span>
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {messages.map((msg, idx) => (
               <div
-                className={`rounded-2xl px-5 py-3 shadow-lg transform transition-all duration-300 hover:scale-[1.02] ${
-                  message.sender === 'user'
-                    ? 'bg-gradient-to-br from-blue-500 to-indigo-600 text-white rounded-br-md'
-                    : 'bg-white text-gray-800 rounded-bl-md border border-gray-200/50 backdrop-blur-sm'
-                }`}
+                key={idx}
+                className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}
+                style={{animation: 'slideIn 0.3s ease-out'}}
               >
-                <p className="text-sm leading-relaxed whitespace-pre-wrap">{message.text}</p>
-                <p className={`text-xs mt-2 ${
-                  message.sender === 'user' ? 'text-blue-100' : 'text-gray-400'
-                }`}>
-                  {formatDate(message.timestamp)}
-                </p>
-              </div>
-              {message.sender === 'user' && (
-                <div className="w-8 h-8 bg-gradient-to-br from-indigo-500 to-purple-600 rounded-full flex items-center justify-center flex-shrink-0 shadow-md">
-                  <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 7a4 4 0 11-8 0 4 4 0 018 0zM12 14a7 7 0 00-7 7h14a7 7 0 00-7-7z" />
-                  </svg>
+                <div className={`max-w-3xl`}>
+                  {msg.role === 'assistant' && msg.metadata && (
+                    <div className="flex items-center space-x-2 mb-2 ml-2">
+                      {msg.metadata.actor_type && (
+                        <div className="flex items-center space-x-1 px-2 py-1 bg-blue-100 text-blue-700 rounded-full text-xs">
+                          {getActorIcon(msg.metadata.actor_type)}
+                          <span className="capitalize">{msg.metadata.actor_type}</span>
+                          {msg.metadata.actor_id && <span>#{msg.metadata.actor_id}</span>}
+                        </div>
+                      )}
+                      <div className="px-2 py-1 bg-green-100 text-green-700 rounded-full text-xs">
+                        {msg.metadata.num_events} events
+                      </div>
+                      <div className="px-2 py-1 bg-purple-100 text-purple-700 rounded-full text-xs">
+                        {msg.metadata.num_documents} docs
+                      </div>
+                    </div>
+                  )}
+                  
+                  <div className={`rounded-2xl p-4 ${
+                    msg.role === 'user' 
+                      ? 'bg-gradient-to-r from-blue-600 to-blue-700 text-white' 
+                      : msg.role === 'error'
+                      ? 'bg-red-50 text-red-700 border border-red-200'
+                      : 'bg-gray-50 text-gray-900 border border-gray-200'
+                  }`}>
+                    <div className="whitespace-pre-wrap break-words">{msg.content}</div>
+                    <div className={`text-xs mt-2 ${msg.role === 'user' ? 'text-blue-200' : 'text-gray-400'}`}>
+                      {new Date(msg.timestamp).toLocaleTimeString()}
+                    </div>
+                  </div>
                 </div>
+              </div>
+            ))}
+
+            {isLoading && (
+              <div className="flex justify-start animate-pulse">
+                <div className="bg-gray-50 border border-gray-200 rounded-2xl p-4 flex items-center space-x-3">
+                  <Loader2 className="w-5 h-5 text-blue-600 animate-spin" />
+                  <span className="text-gray-600">Analyzing medical data...</span>
+                </div>
+              </div>
+            )}
+            
+            <div ref={messagesEndRef} />
+          </div>
+
+          {/* Input Area */}
+          <div className="border-t border-gray-200 p-4 bg-gray-50">
+            <div className="flex space-x-3">
+              <div className="flex-1 relative">
+                <Search className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400 w-5 h-5" />
+                <input
+                  type="text"
+                  value={query}
+                  onChange={(e) => setQuery(e.target.value)}
+                  onKeyPress={handleKeyPress}
+                  placeholder="Ask about patients, providers, medications, events..."
+                  className="w-full pl-12 pr-4 py-3 border border-gray-300 rounded-xl focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-200"
+                  disabled={isLoading}
+                />
+              </div>
+              <button
+                onClick={handleSubmit}
+                disabled={isLoading || !query.trim()}
+                className="px-6 py-3 bg-gradient-to-r from-blue-600 to-purple-600 text-white rounded-xl hover:from-blue-700 hover:to-purple-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-200 flex items-center space-x-2 shadow-lg hover:shadow-xl transform hover:scale-105"
+              >
+                {isLoading ? (
+                  <Loader2 className="w-5 h-5 animate-spin" />
+                ) : (
+                  <Send className="w-5 h-5" />
+                )}
+                <span className="font-medium">Send</span>
+              </button>
+            </div>
+            
+            <div className="mt-3 flex items-center justify-between text-xs text-gray-500">
+              <span>💡 Try: "Patient 1 medications" or "Provider 2 patients in October 2023"</span>
+              {messages.length > 0 && (
+                <button
+                  onClick={() => {setMessages([]); setShowWelcome(true);}}
+                  className="flex items-center space-x-1 text-red-600 hover:text-red-700"
+                >
+                  <X className="w-3 h-3" />
+                  <span>Clear</span>
+                </button>
               )}
             </div>
           </div>
-        ))}
-        {isLoading && (
-          <div className="flex justify-start animate-fade-in">
-            <div className="flex items-end space-x-2">
-              <div className="w-8 h-8 bg-gradient-to-br from-blue-500 to-indigo-600 rounded-full flex items-center justify-center flex-shrink-0 shadow-md">
-                <svg className="w-5 h-5 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-                </svg>
-              </div>
-              <div className="bg-white text-gray-800 rounded-2xl rounded-bl-md px-5 py-3 shadow-lg border border-gray-200/50">
-                <div className="flex space-x-2">
-                  <div className="w-2.5 h-2.5 bg-blue-500 rounded-full animate-bounce"></div>
-                  <div className="w-2.5 h-2.5 bg-indigo-500 rounded-full animate-bounce" style={{ animationDelay: '0.2s' }}></div>
-                  <div className="w-2.5 h-2.5 bg-purple-500 rounded-full animate-bounce" style={{ animationDelay: '0.4s' }}></div>
-                </div>
-              </div>
-            </div>
-          </div>
-        )}
-        <div ref={messagesEndRef} />
-
-        {/* Bouton pour remonter en haut */}
-        {showScrollTop && (
-          <button
-            onClick={scrollToTop}
-            className="fixed bottom-24 right-8 bg-gradient-to-r from-blue-500 to-indigo-600 text-white p-3 rounded-full shadow-lg hover:shadow-xl transform hover:scale-110 transition-all duration-300 z-40 animate-fade-in"
-            title="Remonter en haut"
-          >
-            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 10l7-7m0 0l7 7m-7-7v18" />
-            </svg>
-          </button>
-        )}
+        </div>
       </div>
 
-      {/* Input */}
-      <form onSubmit={handleSend} className="border-t border-gray-200/50 p-4 bg-white/80 backdrop-blur-sm flex-shrink-0">
-        <div className="flex space-x-3">
-          <div className="flex-1 relative">
-            <input
-              type="text"
-              value={input}
-              onChange={(e) => setInput(e.target.value)}
-              placeholder="Posez votre question..."
-              className="w-full px-5 py-3 pr-12 border-2 border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all duration-300 bg-white/90 backdrop-blur-sm shadow-sm hover:shadow-md disabled:opacity-50 disabled:cursor-not-allowed"
-              disabled={isLoading}
-            />
-            <div className="absolute right-3 top-1/2 transform -translate-y-1/2">
-              <svg className="w-5 h-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z" />
-              </svg>
-            </div>
-          </div>
-          <button
-            type="submit"
-            disabled={isLoading || !input.trim()}
-            className="px-6 py-3 bg-gradient-to-r from-blue-500 to-indigo-600 text-white rounded-xl hover:from-blue-600 hover:to-indigo-700 disabled:opacity-50 disabled:cursor-not-allowed transition-all duration-300 flex items-center space-x-2 shadow-lg hover:shadow-xl transform hover:scale-105 active:scale-95 font-medium"
-          >
-            <span>Envoyer</span>
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 19l9 2-9-18-9 18 9-2zm0 0v-8" />
-            </svg>
-          </button>
-        </div>
-        <div className="mt-3 flex items-center justify-center space-x-4 text-xs text-gray-500">
-          <div className="flex items-center space-x-1">
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 10V3L4 14h7v7l9-11h-7z" />
-            </svg>
-            <span>Rapide</span>
-          </div>
-          <div className="flex items-center space-x-1">
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z" />
-            </svg>
-            <span>Sécurisé</span>
-          </div>
-          <div className="flex items-center space-x-1">
-            <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-            </svg>
-            <span>Intelligent</span>
-          </div>
-        </div>
-      </form>
-
+      <style>{`
+        @keyframes slideIn {
+          from {
+            opacity: 0;
+            transform: translateY(10px);
+          }
+          to {
+            opacity: 1;
+            transform: translateY(0);
+          }
+        }
+      `}</style>
     </div>
-  )
-}
+  );
+};
 
-export default Chatbot
-
+export default MedicalRAGClient;
